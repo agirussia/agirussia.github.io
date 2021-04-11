@@ -1,5 +1,5 @@
 body {
-    font-family: 'Jost', serif;
+    font-family: 'Jost', sans-serif;
     font-size: 13px;
     line-height: 21px;
     color: #7d7d7d;
@@ -12,7 +12,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Jost', serif;
+    font-family: 'Jost', sans-serif;
     color: #000;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -135,6 +135,25 @@ section {
 
 .header-section .logo_text{
     font-size: 36px;
+	text-transform: uppercase;
+	font-family: 'Yeseva One', serif;
+	text-align: center;
+}
+
+.header-section .logo_text_sub{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.container .row .issue-header{
+    font-size: 16px;
+    font-weight: 1000;
+	text-align: left;
+}
+
+.img_preview{
+	width: 200px;
+	high: 305px;
 }
 
 .header-section .left_section {
@@ -276,6 +295,17 @@ section {
     .header-section .logo {
         margin-top: 30px;
     }
+	
+	
+	.container .row .issue-header{
+		font-size: 12px;
+		text-align: center;
+	}
+	
+	.leftimg {
+		display: none;
+	}
+	
     .right-menu .navbar-nav li {
         float: left;
         margin: 0 auto;
@@ -307,6 +337,15 @@ section {
 
 .navigation-section i {
     margin-left: 5px;
+}
+
+.leftimg {
+	float:left; /* Выравнивание по левому краю */
+	margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+}
+
+.float_clear{
+	clear: left;
 }
 
 .navigation-section .navbar-default {
@@ -707,9 +746,9 @@ section {
     position        : relative;
     display         : inline-block;
     bottom          : 35px;
-    left            : 25%;
+    left            : 30%;
     content         : " ";
-    width           : 75%;
+    width           : 70%;
     border-top      : 2px solid #eee;
     z-index         : 1;
 }
@@ -830,6 +869,10 @@ section {
 .category_article_content {
     margin-top      : 20px;
     font-size       : 15px;
+}
+
+.category_article_content p{
+	text-align: justify;
 }
 
 .category_article_date:after {
