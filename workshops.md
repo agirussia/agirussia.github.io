@@ -18,6 +18,7 @@
 А.Шкотин и Ю.Милов:
 - https://docs.google.com/document/d/1ypB5kaTg5H13H5IF1-kkZ2oqqA6LU9XUwMrwCr3cl2M/edit
 - https://drive.google.com/file/d/1TDzBeg4ML0PodmtatrNDjf3gy_KtDqKB/view
+
 А.Колонин:
 - https://arxiv.org/abs/2005.09280
 - http://aigents.com/papers/2015/ZONT-2015-Agent-Language-Kolonin.pdf
