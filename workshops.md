@@ -33,10 +33,17 @@
 - https://www.youtube.com/watch?v=2-1iinCBgsg
 - https://www.youtube.com/watch?v=TPISkLZnndk
 
+Lojban
+- https://mw.lojban.org/papri/Lojban_Tutorial
+
 ### 7 октября - "Несингулярные" представления о понятиях, чем человеческое мышление отличается от животных и ещё 2-3 связанных с этим идеи - Владимир Смолин (уточняется)
 
 *Мы приглашаем спикеров со своими темами!*
 
 # Прошедшие семинары
+
+### 26 августа - Направленная эволюция - Борис Злотин
+
+[![Watch the video](https://img.youtube.com/vi/TjURJ0hOAao/maxresdefault.jpg)](https://youtu.be/TjURJ0hOAao)
 
 ## [Видео предыдущих семинаров на https://www.youtube.com/siberai](https://www.youtube.com/siberai)
