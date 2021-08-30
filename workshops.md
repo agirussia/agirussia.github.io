@@ -46,4 +46,6 @@ Lojban
 
 [![Watch the video](https://img.youtube.com/vi/TjURJ0hOAao/hqdefault.jpg)](https://youtu.be/TjURJ0hOAao)
 
+- https://www.omega-server.ai/
+
 ## [Видео предыдущих семинаров на https://www.youtube.com/siberai](https://www.youtube.com/siberai)
