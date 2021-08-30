@@ -49,11 +49,3 @@ Lojban
 - https://www.omega-server.ai/
 
 ## [Видео предыдущих семинаров на https://www.youtube.com/siberai](https://www.youtube.com/siberai)
-
-### *Партнеры:*
-
-[![Aigents](img/aigents.png)](https://aigents.com/)
-[![Aigents](img/singularitynet.png)](https://singularitynet.io)
-[![Aigents](img/Open_talks_AI_logo_b.png)](https://opentalks.ai/)
-[![Aigents](img/nsu.png)](https://nsu.ru/)
-
