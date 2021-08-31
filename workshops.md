@@ -64,6 +64,7 @@ Lojban
 [![Watch the video](https://img.youtube.com/vi/TjURJ0hOAao/hqdefault.jpg)](https://youtu.be/TjURJ0hOAao)
 
 - https://www.omega-server.ai/
+- https://agirussia.github.io/presentations/2021/Борис_Злотин_Направленая_Эволюция.pdf
 
 ## [Видео предыдущих семинаров на https://www.youtube.com/siberai](https://www.youtube.com/siberai)
 
