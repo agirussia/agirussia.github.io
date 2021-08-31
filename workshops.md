@@ -20,7 +20,7 @@
 
 - https://t.me/agibots/690
 
-### 30 сентября - Язык для AGI - требования, спецификация, реализация - Николай Рабчевский, Антон Колонин, Виктор Казаринов, Алекс Шкотин (уточняется)
+### 30 сентября - Язык для AGI - требования, спецификация, реализация - Николай Рабчевский, Алекс Шкотин, Антон Колонин, Виктор Казаринов (уточняется)
 
 Н.Рабчевский
 - https://agieng.substack.com/p/human-machine-interface
@@ -40,6 +40,9 @@
 - http://aigents.com/papers/2020/Data-Structures-2020-en.pdf
 - https://www.youtube.com/watch?v=2-1iinCBgsg
 - https://www.youtube.com/watch?v=TPISkLZnndk
+
+Д.Свириденко и В.Гумиров
+- https://d0sl.org/
 
 Lojban
 - https://mw.lojban.org/papri/Lojban_Tutorial
