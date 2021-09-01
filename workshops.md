@@ -51,6 +51,14 @@ Lojban
 
 ### 14 октября - К пост-Тьюринговой робототехнике - Альберт Ефимов (уточняется)
 
+### 14 октября - Какие графы нам нужны, какие сети нам важны? Куда ловить данные для AGI и как их хранить - круглый стол - Антон Колонин (уточняется)
+
+- https://golos.id/ru--tekhnologii/@aigents/kakie-grafy-nam-nuzhny-kakie-grafy-nam-vazhny
+- https://t.me/agirussia/25496
+- https://t.me/rusontology/1909
+- https://t.me/LinkedDataRussia/4591
+- https://www.facebook.com/groups/agirussia/posts/4506887222683154/
+
 ### 8-12 ноября - Конференция "ЗНАНИЯ – ОНТОЛОГИИ – ТЕОРИИ"
 
 - http://math.nsc.ru/conference/zont/21/
