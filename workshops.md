@@ -64,6 +64,8 @@ Lojban
 
 ### 28 октября - Epistemological AI for Natural Language Understanding (NLU) - Михаил Молин
 
+- https://yandex.ru/patents/doc/RU2699396C1_20190905
+
 ### 8-12 ноября - Конференция "ЗНАНИЯ – ОНТОЛОГИИ – ТЕОРИИ" (оффлайн в Новосибирке, трансляция онлайн обсуждается)
 
 - http://math.nsc.ru/conference/zont/21/
