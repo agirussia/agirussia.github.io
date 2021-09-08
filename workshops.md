@@ -50,6 +50,10 @@ Lojban
 
 ### 14 октября - К пост-Тьюринговой робототехнике - Альберт Ефимов (уточняется)
 
+### 15-18 октября - Конференция AGI-2021 (онлайн и в оффлайн Bay Area, California, US)
+
+- http://agi-conf.org/2021/
+
 ### 21 октября - Какие графы нам нужны, какие сети нам важны? Куда ловить данные для AGI и как их хранить - круглый стол - Антон Колонин (уточняется)
 
 - https://golos.id/ru--tekhnologii/@aigents/kakie-grafy-nam-nuzhny-kakie-grafy-nam-vazhny
@@ -58,7 +62,9 @@ Lojban
 - https://t.me/LinkedDataRussia/4591
 - https://www.facebook.com/groups/agirussia/posts/4506887222683154/
 
-### 8-12 ноября - Конференция "ЗНАНИЯ – ОНТОЛОГИИ – ТЕОРИИ"
+### 28 октября - Epistemological AI for Natural Language Understanding (NLU) - Михаил Молин
+
+### 8-12 ноября - Конференция "ЗНАНИЯ – ОНТОЛОГИИ – ТЕОРИИ" (оффлайн в Новосибирке, трансляция онлайн обсуждается)
 
 - http://math.nsc.ru/conference/zont/21/
 
