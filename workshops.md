@@ -40,6 +40,11 @@
 - https://www.youtube.com/watch?v=2-1iinCBgsg
 - https://www.youtube.com/watch?v=TPISkLZnndk
 
+А.Болдачев
+- https://www.osp.ru/os/2021/03/13055996
+- https://youtu.be/gazUrDmjAOw
+- https://youtu.be/_Na26diKYqg
+
 Д.Свириденко и В.Гумиров
 - https://d0sl.org/
 
