@@ -6,7 +6,12 @@
 
 **Вопросы:**
 - Нужен ли специальный язык для программирования AGI и взаимодействия с ним и если - да, то - зачем именно?
-- CFG или CSG или по фигу?
+- PL, NL, CNL, CFG, CSG?
+  - https://en.wikipedia.org/wiki/Programming_language
+  - https://en.wikipedia.org/wiki/Natural_language
+  - https://en.wikipedia.org/wiki/Controlled_natural_language
+  - https://en.wikipedia.org/wiki/Context-free_grammar
+  - https://en.wikipedia.org/wiki/Context-sensitive_grammar
 - Является "внутреннее представление" - "система понятий и операционное пространство экземпляра системы AGI") предметом описания "языком" или это и есть язык?
 - Что есть "язык" вообще?
 - Как связано "внутреннее представление" с онтологиями и грамматиками? 
