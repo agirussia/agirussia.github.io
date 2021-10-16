@@ -15,12 +15,12 @@
 - Нужны ли гиперграфы и метаграфы?
 - Где хранить "модели" и в каком виде?
 - Какие базы данных годятся?
-
-- https://golos.id/ru--tekhnologii/@aigents/kakie-grafy-nam-nuzhny-kakie-grafy-nam-vazhny
-- https://t.me/agirussia/25496
-- https://t.me/rusontology/1909
-- https://t.me/LinkedDataRussia/4591
-- https://www.facebook.com/groups/agirussia/posts/4506887222683154/
+- Ресурсы:
+  - https://golos.id/ru--tekhnologii/@aigents/kakie-grafy-nam-nuzhny-kakie-grafy-nam-vazhny
+  - https://t.me/agirussia/25496
+  - https://t.me/rusontology/1909
+  - https://t.me/LinkedDataRussia/4591
+  - https://www.facebook.com/groups/agirussia/posts/4506887222683154/
 
 ### 28 октября - Epistemological AI for Natural Language Understanding (NLU) - Михаил Молин
 
