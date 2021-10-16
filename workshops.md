@@ -4,9 +4,11 @@
 
 ### 15-18 октября - Конференция AGI-2021 (онлайн и оффлайн в Bay Area, California, US)
 
-- http://agi-conf.org/2021/
+- http://agi-conf.org/2021/schedule/
+- https://www.youtube.com/channel/UCbTE8vfz5zuEK5uRnc2yjrw
+- https://www.eventbrite.com/e/how-when-and-why-agi-understanding-the-emerging-agi-revolution-tickets-185317649077
 
-### 21 октября - Какие графы нам нужны, какие сети нам важны? Куда ловить данные для AGI и как их хранить - круглый стол - Антон Колонин (уточняется)
+### 21 октября - Какие графы нам нужны, какие сети нам важны? Куда ловить данные для AGI и как их хранить - круглый стол - Антон Колонин, Михаилл Ишенин, Николай Рабчевский, Александр Болдачев
 
 - https://golos.id/ru--tekhnologii/@aigents/kakie-grafy-nam-nuzhny-kakie-grafy-nam-vazhny
 - https://t.me/agirussia/25496
