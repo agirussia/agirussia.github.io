@@ -5,10 +5,10 @@
 ### 15-18 октября - Конференция AGI-2021 (онлайн и оффлайн в Bay Area, California, US)
 
 - http://agi-conf.org/2021/schedule/
-- https://www.youtube.com/channel/UCbTE8vfz5zuEK5uRnc2yjrw
+- https://www.youtube.com/playlist?list=PLAJnaovHtaFTzIS4eBi9Jm5eMlsRzFoEA
 - https://www.eventbrite.com/e/how-when-and-why-agi-understanding-the-emerging-agi-revolution-tickets-185317649077
 
-### 21 октября - Какие графы нам нужны, какие сети нам важны? Куда ловить данные для AGI и как их хранить - круглый стол - Антон Колонин, Михаилл Ишенин, Николай Рабчевский, Александр Болдачев
+### 21 октября - Какие графы нам нужны, какие сети нам важны? Куда ловить данные для AGI и как их хранить - круглый стол - Антон Колонин, Михаилл Ишенин, Александр Болдачев, Николай Рабчевский
 
 - Как хранить время? Если - в графах, то - как именно?
 - Как представлять процессы и программы (поведенческие в том числе)?
