@@ -63,7 +63,9 @@
 - https://agieng.substack.com/p/agi-causality (https://github.com/mrabchevskiy/causality)
 - http://math.nsc.ru/AP/ScientificDiscovery/
 
-### 7 апреля - (уточняется)
+### 7 апреля - Анатолий Левенчук (уточняется)
+
+- https://ailev.livejournal.com/1591523.html
 
 ### 14 апреля - (уточняется)
 
