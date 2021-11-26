@@ -62,11 +62,13 @@
 
 ### 25 ноября - Marti 4 - новая модель машинного обучения. Текущее состояние и перспективы - Игорь Пивоваров
 
-[![Watch the video](https://img.youtube.com/vi/PxjiAnjzp6k/hqdefault.jpg)](https://youtu.be/PxjiAnjzp6k)
+[![Watch the video](https://img.youtube.com/vi/9MXek9o11UI/hqdefault.jpg)](https://youtu.be/9MXek9o11UI)
+
+- [С.А.Шумский, Машинный интеллект](https://www.ozon.ru/product/mashinnyy-intellekt-ocherki-po-teorii-mashinnogo-obucheniya-i-iskusstvennogo-intellekta-165540836/)
 
 ### 18 ноября - Теория сознания как метаалгоритма (алгоритма). Функциональный платформонезависимый кибернетический подход. - Александр Бурдуков
 
-[![Watch the video](https://img.youtube.com/vi/9MXek9o11UI/hqdefault.jpg)](https://youtu.be/9MXek9o11UI)
+[![Watch the video](https://img.youtube.com/vi/PxjiAnjzp6k/hqdefault.jpg)](https://youtu.be/PxjiAnjzp6k)
 
 - https://deep-econom.livejournal.com/240140.html
 - Слайды: https://t.me/agirussia/29522
