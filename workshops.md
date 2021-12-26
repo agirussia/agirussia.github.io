@@ -35,7 +35,7 @@
 - https://agieng.substack.com/p/agi-causality (https://github.com/mrabchevskiy/causality)
 - http://math.nsc.ru/AP/ScientificDiscovery/
 
-### 7 апреля - (уточняется)
+### 7 апреля - Суперкомпиляция для AI - мечты или будущее - Андрей Климов (уточняется)
 
 ### 14 апреля - Простая модель сложного мира - Игорь Пивоваров (уточняется)
 
