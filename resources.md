@@ -27,7 +27,16 @@
 - https://www.agileaderboard.com/
 - https://medium.com/dataseries/facebook-built-this-environment-to-train-goal-oriented-autonomous-ai-agents-87766036f1ab
 
-### OpenNARS
+### Проекты OpenCog, SingularityNET, TrueAGI
+
+- https://wiki.opencog.org/w/The_Open_Cognition_Project
+- https://wiki.opencog.org/w/AGI_Discussion_Forum
+- https://github.com/opencog
+- https://singularitynet.io
+- https://github.com/singnet
+- https://trueagi.io/
+
+### Проект OpenNARS
 
 - https://github.com/opennars/OpenNARS-for-Applications/wiki/C-API
 - https://github.com/opennars/OpenNARS-for-Applications/wiki/Shell
