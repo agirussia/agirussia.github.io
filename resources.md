@@ -44,8 +44,8 @@
 - AAAI A	https://aaai.org/Conferences/AAAI-22/			2022 submission closed, Check in May 2022 for 2023			
 - NIPS A	https://nips.cc/			2022 not open			
 - ICML A	https://icml.cc/			2022 Submissions open Jan 10, 2022 			https://icml.cc/Conferences/2022/CallForPapers
-- ACL A	https://www.2022.aclweb.org/			2022 submission closed, Check in May 2022 for 2023			
-- ICDM A	International Conference on Data Mining						
+- ACL A	https://www.2022.aclweb.org/			2022 submission closed, Check in May) 2022 for 2023			
+- ICDM A	http://icdm.zhonghuapu.com/ (International Conference on Data Mining						
 - SIGIR A	https://sigir.org/sigir2022/			Full paper abstracts due: January 21, 2022			https://sigir.org/sigir2022/call-for-papers/
 - AGI B4	https://agi-conf.org/		In 2021 conference is planned to take place in Saint-Petersburg, Russia				
 - BICA B4	https://bica2021.org/						
