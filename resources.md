@@ -50,6 +50,6 @@
 - AGI B4	https://agi-conf.org/		In 2021 conference is planned to take place in Saint-Petersburg, Russia				
 - BICA B4	https://bica2021.org/						
 
-### [More infromation](https://docs.google.com/spreadsheets/d/1Ilm3hu9aewpQc-Mjl8xChjkKXr21gnh0aQ74EnhygX4/edit#gid=1528578624)
+### [More information](https://docs.google.com/spreadsheets/d/1Ilm3hu9aewpQc-Mjl8xChjkKXr21gnh0aQ74EnhygX4/edit#gid=1528578624)
 <br>
 <br>
