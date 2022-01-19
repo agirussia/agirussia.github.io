@@ -49,14 +49,14 @@
 ### Conferences
 
 - http://www.conferenceranks.com/						
-- IJCAI A	https://ijcai-22.org/			2022 Submission site opening: December 30, 2021 - Abstract submission deadline: January 7, 2022			
+- AGI B4	https://agi-conf.org/		Saint-Petersburg, Russia, June 21-24, 2022 / Submission by Feb 15, 2022   http://agi-conf.org/2022/call-for-papers/		
+- IJCAI A	https://ijcai-22.org/	  Vienna, Austria, July 23-29, 2022 / Submission closed 		
+- ICML A	https://icml.cc/			Baltimore, Maryland USA, July 17-23, 2022 / Submissions open Jan 10, 2022 			https://icml.cc/Conferences/2022/CallForPapers
+- SIGIR A	https://sigir.org/sigir2022/			Full paper abstracts due: January 21, 2022			https://sigir.org/sigir2022/call-for-papers/
 - AAAI A	https://aaai.org/Conferences/AAAI-22/			2022 submission closed, Check in May 2022 for 2023			
 - NIPS A	https://nips.cc/			2022 not open			
-- ICML A	https://icml.cc/			2022 Submissions open Jan 10, 2022 			https://icml.cc/Conferences/2022/CallForPapers
 - ACL A	https://www.2022.aclweb.org/			2022 submission closed, Check in May) 2022 for 2023			
 - ICDM A	http://icdm.zhonghuapu.com/ (International Conference on Data Mining						
-- SIGIR A	https://sigir.org/sigir2022/			Full paper abstracts due: January 21, 2022			https://sigir.org/sigir2022/call-for-papers/
-- AGI B4	https://agi-conf.org/		In 2021 conference is planned to take place in Saint-Petersburg, Russia				
 - BICA B4	https://bica2021.org/						
 
 ### [More information](https://docs.google.com/spreadsheets/d/1Ilm3hu9aewpQc-Mjl8xChjkKXr21gnh0aQ74EnhygX4/edit#gid=1528578624)
