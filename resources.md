@@ -50,8 +50,8 @@
 
 - http://www.conferenceranks.com/						
 - AGI B4	https://agi-conf.org/		Saint-Petersburg, Russia, June 21-24, 2022 / Submission by Feb 15, 2022   http://agi-conf.org/2022/call-for-papers/		
-- IJCAI A	https://ijcai-22.org/	  Vienna, Austria, July 23-29, 2022 / Submission closed 		
 - ICML A	https://icml.cc/			Baltimore, Maryland USA, July 17-23, 2022 / Submissions open Jan 10, 2022 			https://icml.cc/Conferences/2022/CallForPapers
+- IJCAI A	https://ijcai-22.org/	  Vienna, Austria, July 23-29, 2022 / Submission closed 		
 - SIGIR A	https://sigir.org/sigir2022/			Full paper abstracts due: January 21, 2022			https://sigir.org/sigir2022/call-for-papers/
 - AAAI A	https://aaai.org/Conferences/AAAI-22/			2022 submission closed, Check in May 2022 for 2023			
 - NIPS A	https://nips.cc/			2022 not open			
