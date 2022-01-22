@@ -26,6 +26,8 @@
 - https://paperswithcode.com/sota/language-modelling-on-penn-treebank-character
 - https://www.agileaderboard.com/
 - https://medium.com/dataseries/facebook-built-this-environment-to-train-goal-oriented-autonomous-ai-agents-87766036f1ab
+- https://optishell.co.uk/update-eden-unity-engine-rendering-updates/
+  - https://arxiv.org/abs/2103.15552
 
 ### Проекты OpenCog, SingularityNET, TrueAGI
 
