@@ -4,8 +4,6 @@
 
 Еженедельные онлайн-семинары проводятся по четвергам в 18:00 по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на Zoom придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только зарегистрированным пользователям Zoom с полностью указанными действительными именем и фамилией и включенным видео. 
 
-### 27 января - AGI и реальный мир - Как создавать и учить AGI для взаимодействия с реальным миром? Как моделировать мотивацию, свободу воли и ответственность? Или можно обойтись без них? - Модератор: Игорь Пивоваров, Спикеры: Сергей Терехов, Сергей Шумский, Николай Рабчевский, Александр Панов (МФТИ), Владимир Смолин
-
 ### 3 февраля - [AGI как Коллективный Интеллект?](https://github.com/agirussia/agirussia.github.io/wiki/AGI-%D0%BA%D0%B0%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82) - Антон Колонин
 
 ### 10 февраля - Прозрачен ли черный ящик? Можно ли извлечь знания из нейросети и если - да, то - как? - Юрий Бабуров (уточняется)
@@ -64,35 +62,31 @@
 
 ## Прошедшие семинары и мероприятия
 
+### 27 января - AGI и реальный мир - Как создавать и учить AGI для взаимодействия с реальным миром? Как моделировать мотивацию, свободу воли и ответственность? Или можно обойтись без них? - Модератор: Игорь Пивоваров, Спикеры: Сергей Терехов, Сергей Шумский, Николай Рабчевский, Александр Панов (МФТИ), Владимир Смолин
+[![Watch the video](https://img.youtube.com/vi/cxGqmlMUNLY/hqdefault.jpg)](https://youtu.be/cxGqmlMUNLY)
+
 ### 20 января - Есть ли смысл в онтологиях? По каким понятиям живет картина мира? - круглый стол - Юрий Аникин (модератор), Петр Скобелев, Юрий Загорулько, Егор Чурилов, Антон Колонин
 [![Watch the video](https://img.youtube.com/vi/pVdhWQhRnv8/hqdefault.jpg)](https://youtu.be/pVdhWQhRnv8)
 
-
 ### 13 января - Интерпретируемость современных алгоритмов машинного обучения и действительно ли компьютер -- это чёрный ящик? - Юрий Бабуров
-
 [![Watch the video](https://img.youtube.com/vi/w1pP_R5yZB4/hqdefault.jpg)](https://youtu.be/w1pP_R5yZB4)
 
 ### 4 января - Про карты и экраны: по возможности просто о том, какие идеи они реализуют - Владимир Смолин
 [![Watch the video](https://img.youtube.com/vi/TvuXaiLAUfU/hqdefault.jpg)](https://youtu.be/TvuXaiLAUfU)
 
 ### 23 декабря - Дуализм субъективного восприятия объективного мира - Александр Гургенидзе 
-
 [![Watch the video](https://img.youtube.com/vi/GfMPJwHazJc/hqdefault.jpg)](https://youtu.be/GfMPJwHazJc)
 
 ### 16 декабря - Как построить AGI на нейрокартировании с внутренними "экранами" - Владимир Смолин
-
 [![Watch the video](https://img.youtube.com/vi/-QqUSMwCUCM/hqdefault.jpg)](https://youtu.be/-QqUSMwCUCM)
 
-
 ### 9 декабря - Что может PANN? - Борис Злотин
-
 [![Watch the video](https://img.youtube.com/vi/6COFVQcMThU/hqdefault.jpg)](https://youtu.be/6COFVQcMThU)
 
 - https://omega-server.ai/
 - https://t.me/agirussia/26283
 
 ### 2 декабря - Реинжиниринг мозга, информация и квантовая информация; почему не работает no-go теорема Пенроуза об ИИ - Александр Панов
-
 [![Watch the video](https://img.youtube.com/vi/m6aRkGBG23E/hqdefault.jpg)](https://youtu.be/m6aRkGBG23E)
 
 - [слайды доклада](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2021/Alexander_Panov_Penrose_Reingenering.pdf)
