@@ -20,3 +20,5 @@
 - https://bioportal.bioontology.org/ontologies
 - https://github.com/KMax/awesome-semantic-web-business
 - https://github.com/ozekik/awesome-ontology
+
+### [Wiki (если окажется удобнее)](https://github.com/agirussia/agirussia.github.io/wiki/%D0%9E%D0%BD%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8)
