@@ -1,6 +1,6 @@
 # Русскоязычное Cообщество разработчиков Сильного Искусственного Интеллекта (РуССИИ) - AGI-in-Russian    
 
-## Ресуурсы по Онтологиям
+## Ресурсы по Онтологиям
 
 ### Группы
 
@@ -20,5 +20,3 @@
 - https://bioportal.bioontology.org/ontologies
 - https://github.com/KMax/awesome-semantic-web-business
 - https://github.com/ozekik/awesome-ontology
-
-<br>
