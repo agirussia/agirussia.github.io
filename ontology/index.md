@@ -20,5 +20,8 @@
 - https://bioportal.bioontology.org/ontologies
 - https://github.com/KMax/awesome-semantic-web-business
 - https://github.com/ozekik/awesome-ontology
+- http://prefix.cc - поиск онтологий по их префиксам
+- http://www.ontobee.org - репозиторий биомедицинских онтологий (всего 246)
+- https://www.ebi.ac.uk/ols/index - поиск по содержанию биомедицинских онтологий
 
 ### [Wiki (если окажется удобнее)](https://github.com/agirussia/agirussia.github.io/wiki/%D0%9E%D0%BD%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8)
