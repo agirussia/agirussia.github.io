@@ -9,6 +9,7 @@
 
 ### Ссылки
 
+- [https://www.kmwiki.ru/doku.php/онтологии](https://www.kmwiki.ru/doku.php/%D0%BE%D0%BD%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8)
 - https://schema.org/
 - https://lov.linkeddata.es/
 - https://basic-formal-ontology.org/bfo-2020.html
