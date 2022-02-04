@@ -63,7 +63,7 @@
 
 ### 3 февраля - [AGI как Коллективный Интеллект?](https://github.com/agirussia/agirussia.github.io/wiki/AGI-%D0%BA%D0%B0%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82) - Антон Колонин
 
-Публичной записи нет, есть [материалы обсуждения](ttps://github.com/agirussia/agirussia.github.io/wiki/AGI-%D0%BA%D0%B0%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82) и старое видео по рассматриваемой платформе:  
+Публичной записи нет, есть [материалы обсуждения](https://github.com/agirussia/agirussia.github.io/wiki/AGI-%D0%BA%D0%B0%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82) и старое видео по рассматриваемой платформе:  
 [![Watch the video](https://img.youtube.com/vi/-6dC4vFl0_8/hqdefault.jpg)](https://youtu.be/-6dC4vFl0_8)
 
 
