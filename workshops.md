@@ -57,11 +57,12 @@ https://opentalks.ai/
 
 - https://t.me/c/1185489018/3849
 
-### 21-24 июня - конференция AGI-2022 http://agi-conf.org/2022/
+### 21-24 июня - конференция AGI-2022
+
+- http://agi-conf.org/2022/
+- https://aigents.github.io/inlp/
 
 ### 30 июня - (уточняется)
-
-- https://aigents.github.io/inlp/
 
 *Мы приглашаем спикеров со своими темами!*
 
