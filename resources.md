@@ -59,7 +59,7 @@
 - NIPS A	https://nips.cc/			2022 not open			
 - ACL A	https://www.2022.aclweb.org/			2022 submission closed, Check in May) 2022 for 2023			
 - ICDM A	http://icdm.zhonghuapu.com/ (International Conference on Data Mining						
-- BICA B4	https://bica2021.org/						
+- BICA B4	https://bica2022.org/	https://bica.ai/ Submission Deadline: 15, march, 2022, Conference Dates: September 22-25, 2022
 
 ### [More information](https://docs.google.com/spreadsheets/d/1Ilm3hu9aewpQc-Mjl8xChjkKXr21gnh0aQ74EnhygX4/edit#gid=1528578624)
 <br>
