@@ -63,9 +63,11 @@
 - **Российские**
   - https://opentalks.ai/ OpenTalks.AI — ведущая независимая открытая конференция по искусственному интеллекту в России.
   - https://ai-journey.ru/ AI Journey — серия мероприятий по искусственному интеллекту и анализу данных, проводимая ведущими российскими и международными компаниями, лидерами по разработке и применению технологий искусственного интеллекта.
+  - https://ainlconf.ru/ AINL: Artificial Intelligence and Natural Language Conference
+  - http://damdid.org/ “Data Analytics and Management in Data Intensive Domains” conference (DAMDID)
   - http://math.nsc.ru/conference/zont/21/ Международная конференция «Знания-Онтологии-Теории»
-  - http://mmro.ru/ Всероссийская конференция с международным участием «Математические методы распознавания образов»
   - http://itnt-conf.org/index.php Международная конференция и молодёжная школа «Информационные технологии и нанотехнологии»
+  - http://mmro.ru/ Всероссийская конференция с международным участием «Математические методы распознавания образов»
 
 ### [More information](https://docs.google.com/spreadsheets/d/1Ilm3hu9aewpQc-Mjl8xChjkKXr21gnh0aQ74EnhygX4/edit#gid=1528578624)
 <br>
