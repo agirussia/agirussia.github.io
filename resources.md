@@ -48,7 +48,7 @@
 - https://github.com/opennars/OpenNARS-for-Applications/tree/master/examples/nal
 - https://github.com/ccrock4t/NARS-Pong
 
-### Conferences
+### Конференции
 
 - http://www.conferenceranks.com/						
 - IJCAI A	https://ijcai-22.org/	Vienna, Austria, July 23-29, 2022 / Submission closed 		
@@ -59,7 +59,14 @@
 - NIPS A	https://nips.cc/	https://blog.neurips.cc/category/2022-conference/	2022 not open, Check in March			
 - ICDM A http://icdm.zhonghuapu.com/ International Conference on Data Mining, 2022 not open, Check in March
 - ACL A	https://www.2022.aclweb.org/ 2022 submission closed, Check in May 2022 for 2023			
-- AAAI A	https://aaai.org/Conferences/AAAI-22/	2022 submission closed, Check in May 2022 for 2023			
+- AAAI A	https://aaai.org/Conferences/AAAI-22/	2022 submission closed, Check in May 2022 for 2023
+- **Российские**
+  - https://opentalks.ai/ OpenTalks.AI — ведущая независимая открытая конференция по искусственному интеллекту в России.
+  - https://ai-journey.ru/ - AI Journey — серия мероприятий по искусственному интеллекту и анализу данных, проводимая ведущими российскими и международными компаниями, лидерами по разработке и применению технологий искусственного интеллекта.
+  - ZONT
+  - http://mmro.ru/ - Всероссийская конференция с международным участием «Математические методы распознавания образов»
+  - TODO
+  - TODO
 
 ### [More information](https://docs.google.com/spreadsheets/d/1Ilm3hu9aewpQc-Mjl8xChjkKXr21gnh0aQ74EnhygX4/edit#gid=1528578624)
 <br>
