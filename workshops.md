@@ -4,13 +4,6 @@
 
 Еженедельные онлайн-семинары проводятся по четвергам в 18:00 по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на Zoom придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только зарегистрированным пользователям Zoom с полностью указанными действительными именем и фамилией и включенным видео. 
 
-### 17 марта - Представление процессов, сценариев и поведенческих программ - диалог - Александр Болдачев, Антон Колонин
-
-- https://www.osp.ru/os/2021/03/13055996
-- https://golos.id/ru--upravlenie/@aigents/predstavlenie-sobytii-i-scenariev-prichinno-sledstvennyi-analiz-v-platforme-aigents
-- https://www.youtube.com/watch?v=gazUrDmjAOw
-- https://www.youtube.com/watch?v=KnlgRYBfW9Y
-
 ### 24 марта - [Машинное обучение и AGI - одно продолжает другое или это разные вещи? - Юрий Бабуров, Антон Колонин, Николай Рабчевский,Дмитрий Салихов (он же модератор) - круглый стол](https://github.com/agirussia/agirussia.github.io/wiki/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-AGI)
 
 - Supervised vs Unsupervised - определения, применимость к AGI
@@ -70,6 +63,11 @@
 *Мы приглашаем спикеров со своими темами!*
 
 ## Прошедшие семинары и мероприятия
+
+### 17 марта - Представление процессов, сценариев и поведенческих программ - диалог - Александр Болдачев, Антон Колонин
+[![Watch the video](https://img.youtube.com/vi/G-8hHnzlf-Y/hqdefault.jpg)](https://youtu.be/G-8hHnzlf-Y)
+
+- https://aigents.com/papers/2022/activity-ontology-2022.pdf
 
 ### 10 марта - Интеллект-стек для xGI - Анатолий Левенчук (уточняется)
 [![Watch the video](https://img.youtube.com/vi/XtAOwzeMH5I/hqdefault.jpg)](https://youtu.be/XtAOwzeMH5I)
