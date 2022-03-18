@@ -74,8 +74,6 @@
 
 - https://ailev.livejournal.com/
 
-### 24 февраля - Подведение итогов конференции https://opentalks.ai/ и обмен впечатлениями - Игорь Пивоваров
-
 ### 17 февраля - Открытая конференция по искусственному интеллекту https://opentalks.ai/, Сессия "Мотивация у человека и AGI", Докладчики: Александр Панов, Петр Кудеров (AIRI), Игорь Валерьевич Пудиков (психиатр)
 [![Watch the video](https://img.youtube.com/vi/2Dk2HUYxwqo/hqdefault.jpg)](https://youtu.be/2Dk2HUYxwqo)
 
@@ -86,7 +84,6 @@
 
 Публичной записи нет, есть [материалы обсуждения](https://github.com/agirussia/agirussia.github.io/wiki/AGI-%D0%BA%D0%B0%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82) и старое видео по рассматриваемой платформе:  
 [![Watch the video](https://img.youtube.com/vi/-6dC4vFl0_8/hqdefault.jpg)](https://youtu.be/-6dC4vFl0_8)
-
 
 ### 27 января - AGI и реальный мир - Как создавать и учить AGI для взаимодействия с реальным миром? Как моделировать мотивацию, свободу воли и ответственность? Или можно обойтись без них? - Модератор: Игорь Пивоваров, Спикеры: Сергей Терехов, Сергей Шумский, Николай Рабчевский, Александр Панов (МФТИ), Владимир Смолин
 [![Watch the video](https://img.youtube.com/vi/cxGqmlMUNLY/hqdefault.jpg)](https://youtu.be/cxGqmlMUNLY)
