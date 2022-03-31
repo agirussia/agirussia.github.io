@@ -6,11 +6,13 @@
 
 ### 31 марта - Как AGI причинно-следственные связи искать будет - Александр Болдачев, Евгений Витяев, Антон Колонин
 
+- https://aigents.com/papers/2022/causal-analytics-agi-2022.pdf
+- http://math.nsc.ru/AP/ScientificDiscovery/
+- https://arxiv.org/pdf/cs/0208022.pdf
 - https://en.wikipedia.org/wiki/Causal_inference
 - https://towardsdatascience.com/causal-inference-962ae97cefda
 - https://towardsdatascience.com/implementing-causal-inference-a-key-step-towards-agi-de2cde8ea599
 - https://towardsdatascience.com/inferring-causality-in-time-series-data-b8b75fe52c46
-- http://math.nsc.ru/AP/ScientificDiscovery/
 
 ### 7 апреля - Суперкомпиляция для AI - мечты или будущее - Андрей Климов (уточняется)
 
