@@ -4,16 +4,6 @@
 
 Еженедельные онлайн-семинары проводятся по четвергам в 18:00 по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на Zoom придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только зарегистрированным пользователям Zoom с полностью указанными действительными именем и фамилией и включенным видео. 
 
-### 31 марта - Как AGI причинно-следственные связи искать будет - Александр Болдачев, Евгений Витяев, Антон Колонин
-
-- https://aigents.com/papers/2022/causal-analytics-agi-2022.pdf
-- http://math.nsc.ru/AP/ScientificDiscovery/
-- https://arxiv.org/pdf/cs/0208022.pdf
-- https://en.wikipedia.org/wiki/Causal_inference
-- https://towardsdatascience.com/causal-inference-962ae97cefda
-- https://towardsdatascience.com/implementing-causal-inference-a-key-step-towards-agi-de2cde8ea599
-- https://towardsdatascience.com/inferring-causality-in-time-series-data-b8b75fe52c46
-
 ### 7 апреля - Суперкомпиляция для AI - мечты или будущее - Андрей Климов (уточняется)
 
 ### 14 апреля - [Машинное обучение и AGI - одно продолжает другое или это разные вещи? - Юрий Бабуров, Антон Колонин, Дмитрий Салихов (он же модератор) - круглый стол](https://github.com/agirussia/agirussia.github.io/wiki/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-AGI)
@@ -68,6 +58,13 @@ https://www.real-ai.ru/blog/articles/
 *Мы приглашаем спикеров со своими темами!*
 
 ## Прошедшие семинары и мероприятия
+
+### 31 марта - Как AGI причинно-следственные связи искать будет - Александр Болдачев, Евгений Витяев, Антон Колонин
+[![Watch the video](https://img.youtube.com/vi/SFBPslgjrMY/hqdefault.jpg)](https://youtu.be/SFBPslgjrMY)
+
+- https://aigents.com/papers/2022/causal-analytics-agi-2022.pdf
+- http://math.nsc.ru/AP/ScientificDiscovery/
+- https://arxiv.org/pdf/cs/0208022.pdf
 
 ### 17 марта - Представление процессов, сценариев и поведенческих программ - диалог - Александр Болдачев, Антон Колонин
 [![Watch the video](https://img.youtube.com/vi/G-8hHnzlf-Y/hqdefault.jpg)](https://youtu.be/G-8hHnzlf-Y)
