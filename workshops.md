@@ -6,6 +6,10 @@
 
 ### 21 апреля - Мышление, сознание и принцип работы мозга - Евгений Витяев (уточняется)
 
+- http://www.math.nsc.ru/AP/ScientificDiscovery/index_rus.html
+- https://kpfu.ru/portal/docs/F1807016979/Vityaev.pdf
+- http://www.math.nsc.ru/AP/ScientificDiscovery/PDF/prediction_as_computation.pdf
+
 ### 28 апреля - Представление знаний в виде семантической сети основанной на действиях. Потенциал подхода для создания сильного ИИ - Александр Гурьев (уточняется)
 
 - https://www.real-ai.ru/blog/articles/
