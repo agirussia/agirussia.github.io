@@ -54,9 +54,10 @@
 - IJCAI A	https://ijcai-22.org/	Vienna, Austria, July 23-29, 2022 / Submission closed 		
 - ICML A	https://icml.cc/ https://icml.cc/Conferences/2022/CallForPapers Baltimore, Maryland USA, July 17-23, 2022 / Submissions closed 			
 - SIGIR A	https://sigir.org/sigir2022/	https://sigir.org/sigir2022/call-for-papers/ Submissions closed
-- **AGI B4**	https://agi-conf.org/	http://agi-conf.org/2022/call-for-papers/	Saint-Petersburg, Russia, June 21-24, 2022 / Submission by Feb 28, 2022		
-- **BICA B4**	https://bica2022.org/	https://bica.ai/ Submission Deadline: 15, march, 2022, Conference Dates: September 22-25, 2022
-- NIPS A	https://nips.cc/	https://blog.neurips.cc/category/2022-conference/	2022 not open, Check in March			
+- AGI B4	https://agi-conf.org/	http://agi-conf.org/2022/call-for-papers/	Saint-Petersburg, Russia, June 21-24, 2022 / Submission by Feb 28, 2022		
+- BICA B4	https://bica2022.org/	https://bica.ai/ Submission Deadline: 15, march, 2022, Conference Dates: September 22-25, 2022
+- **NIPS A**	https://nips.cc/	https://blog.neurips.cc/category/2022-conference/	Submission Deadline: May 16, 2022, Conference: New Orleans, USA, Nov 28th - Dec 9th, 2022		
+- **EMNLP A** https://2022.emnlp.org/calls/papers/Important-Dates	Submission Deadline: Jun 17, 2022, Conference: Abu Dhabi, December 9-11, 2022
 - ICDM A http://icdm.zhonghuapu.com/ International Conference on Data Mining, 2022 not open, Check in March
 - ACL A	https://www.2022.aclweb.org/ 2022 submission closed, Check in May 2022 for 2023			
 - AAAI A	https://aaai.org/Conferences/AAAI-22/	2022 submission closed, Check in May 2022 for 2023
