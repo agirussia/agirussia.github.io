@@ -4,12 +4,6 @@
 
 Еженедельные онлайн-семинары проводятся по четвергам в 18:00 по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на Zoom придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только зарегистрированным пользователям Zoom с полностью указанными действительными именем и фамилией и включенным видео. 
 
-### 21 апреля - Мышление, сознание и принцип работы мозга - Евгений Витяев (уточняется)
-
-- http://www.math.nsc.ru/AP/ScientificDiscovery/index_rus.html
-- https://kpfu.ru/portal/docs/F1807016979/Vityaev.pdf
-- http://www.math.nsc.ru/AP/ScientificDiscovery/PDF/prediction_as_computation.pdf
-
 ### 28 апреля - Представление знаний в виде семантической сети основанной на действиях. Потенциал подхода для создания сильного ИИ - Александр Гурьев (уточняется)
 
 - https://www.real-ai.ru/blog/articles/
@@ -60,6 +54,9 @@
 *Мы приглашаем спикеров со своими темами!*
 
 ## Прошедшие семинары и мероприятия
+
+### 21 апреля - Мышление, сознание и принцип работы мозга - Евгений Витяев (уточняется)
+[![Watch the video](https://img.youtube.com/vi/NjoO7ytwqc8/hqdefault.jpg)](https://youtu.be/NjoO7ytwqc8)
 
 ### 14 апреля - [Машинное обучение и AGI - одно продолжает другое или это разные вещи? - Юрий Бабуров, Антон Колонин, Дмитрий Салихов (он же модератор) - круглый стол](https://github.com/agirussia/agirussia.github.io/wiki/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-AGI)
 [![Watch the video](https://img.youtube.com/vi/XwjxaD7kUNk/hqdefault.jpg)](https://youtu.be/XwjxaD7kUNk)
