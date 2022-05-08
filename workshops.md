@@ -13,7 +13,7 @@
 - https://aigents.github.io/inlp/
 - https://siberai.blogspot.com/2019/10/blog-post.html
 
-## 27 мая - Experiential Learning from Sequential Data - Anton Kolonin ([семинар OpenCog AGI на английском языке](https://singularitynet.zoom.us/my/benbot))
+##№ 27 мая - Experiential Learning from Sequential Data - Anton Kolonin ([семинар OpenCog AGI на английском языке](https://singularitynet.zoom.us/my/benbot))
 - Video chat at: https://singularitynet.zoom.us/my/benbot
 - https://wiki.opencog.org/w/AGI_Discussion_Forum#Sessions
 
