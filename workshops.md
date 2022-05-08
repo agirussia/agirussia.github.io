@@ -10,9 +10,12 @@
 ### 19 мая - Поиск в пространстве стратегий: альтернатива обучению с подкреплением - Довгань Сергей Сергеевич
 
 ### 26 мая - Интерпретируемая обработка естественного языка - надо или нет, возможно ли и - как именно? - Антон Колонин
-
 - https://aigents.github.io/inlp/
 - https://siberai.blogspot.com/2019/10/blog-post.html
+
+## 27 мая - Experiential Learning from Sequential Data - Anton Kolonin ([семинар OpenCog AGI на английском языке](https://singularitynet.zoom.us/my/benbot))
+- Video chat at: https://singularitynet.zoom.us/my/benbot
+- https://wiki.opencog.org/w/AGI_Discussion_Forum#Sessions
 
 ### 2 июня - Прикладная методология познания как фундамент AGI - Александр Болдачев (уточняется) 
 
