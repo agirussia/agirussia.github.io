@@ -68,7 +68,7 @@
 
 ## Прошедшие семинары и мероприятия
 
-### 19 мая - Поиск в пространстве стратегий: альтернатива обучению с подкреплением - Сергей Довгань, модератор Игорь Пивоваров
+### 19 мая - Поиск в пространстве стратегий: альтернатива обучению с подкреплением - Сергей Довгань
 [![Watch the video](https://img.youtube.com/vi/s-K8BsO-Uks/hqdefault.jpg)](https://youtu.be/s-K8BsO-Uks)
 - [тезисы](https://docs.google.com/document/d/1L7tju26mn-SvG_UGFWkPONB0CTAvZG6UD2puhR9aX6I/edit)
 
