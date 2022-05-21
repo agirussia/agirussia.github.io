@@ -69,8 +69,9 @@
 ## Прошедшие семинары и мероприятия
 
 ### 19 мая - Поиск в пространстве стратегий: альтернатива обучению с подкреплением - Сергей Довгань
-<iframe src="https://vk.com/video_ext.php?oid=49817193&id=456239175&hash=7d9e2bf60eed2739" width="640" height="360" frameborder="0" allowfullscreen="1" allow="autoplay; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 [![Watch the video](https://img.youtube.com/vi/s-K8BsO-Uks/hqdefault.jpg)](https://youtu.be/s-K8BsO-Uks)
+- [видео во Вконтакте](https://vk.com/video/@akolonin?z=video49817193_456239175)
 - [тезисы](https://docs.google.com/document/d/1L7tju26mn-SvG_UGFWkPONB0CTAvZG6UD2puhR9aX6I/edit)
 
 ### 12 мая - Эмерджентный интеллект - Петр Скобелев
