@@ -69,8 +69,6 @@
 ## Прошедшие семинары и мероприятия
 
 ### 19 мая - Поиск в пространстве стратегий: альтернатива обучению с подкреплением - Сергей Довгань
-
-[![Watch the video](https://img.youtube.com/vi/s-K8BsO-Uks/hqdefault.jpg)](https://youtu.be/s-K8BsO-Uks)
 - [видео во Вконтакте](https://vk.com/video/@akolonin?z=video49817193_456239175)
 - [тезисы](https://docs.google.com/document/d/1L7tju26mn-SvG_UGFWkPONB0CTAvZG6UD2puhR9aX6I/edit)
 
