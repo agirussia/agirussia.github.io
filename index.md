@@ -44,3 +44,5 @@ https://www.youtube.com/siberai
 
 ## Ресурсы сообщества
 https://agirussia.org/resources.html
+<br>
+<br>
