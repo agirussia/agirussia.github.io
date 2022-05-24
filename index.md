@@ -42,4 +42,5 @@ https://www.youtube.com/siberai
 - [Олег Серебренников - Иерархическая Память Последовательностей](http://intellecture.ai/)
 - [Евгений Бочков - "ArIEL" (Artificial Intelligent Evolving Lifeform) - Искусственная Интеллектуальная Эволюционирующая Форма жизни](https://www.youtube.com/channel/UCxg1VEvLvnoUQAlxEaaVImA)
 
-## [Ресурсы сообщества](https://agirussia.org/resources.html)
+## Ресурсы сообщества
+https://agirussia.org/resources.html
