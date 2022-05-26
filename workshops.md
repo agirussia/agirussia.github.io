@@ -8,7 +8,7 @@
 - Video chat at: https://singularitynet.zoom.us/my/benbot
 - https://wiki.opencog.org/w/AGI_Discussion_Forum#Sessions
 
-### 2 июня - Прикладная методология познания как фундамент AGI - Александр Болдачев (уточняется) 
+### 2 июня - Прикладная методология познания как фундамент AGI - Александр Болдачев
 
 - https://www.litres.ru/aleksandr-boldachev-320816/filosofiya-i-cifrovye-tehnologii-sbornik-statey/chitat-onlayn/
 
