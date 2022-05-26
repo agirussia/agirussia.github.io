@@ -4,13 +4,6 @@
 
 Еженедельные онлайн-семинары проводятся по четвергам в 18:00 по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на Zoom придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только зарегистрированным пользователям Zoom с полностью указанными действительными именем и фамилией и включенным видео. 
 
-### 26 мая - Выявление значимых последовательностей на неподкрепленном опыте - токенизация без учителя в интерпретируемой обработке естественного языка - Антон Колонин, модератор Юрий Бабуров
-- https://www.youtube.com/watch?v=67afb6qQKsk
-- https://www.youtube.com/watch?v=8RiNxYEk4D0
-- https://github.com/aigents/pygents/blob/main/docs/2022/experiential-sequential-2022.pdf
-- https://siberai.blogspot.com/2019/10/blog-post.html
-- https://aigents.github.io/inlp/
-
 ### 27 мая - Experiential Learning from Sequential Data - Anton Kolonin ([семинар OpenCog AGI на английском языке](https://singularitynet.zoom.us/my/benbot))
 - Video chat at: https://singularitynet.zoom.us/my/benbot
 - https://wiki.opencog.org/w/AGI_Discussion_Forum#Sessions
@@ -67,6 +60,11 @@
 ### 29 сентября - уточняется
 
 ## Прошедшие семинары и мероприятия
+
+### 26 мая - Выявление значимых последовательностей на неподкрепленном опыте - токенизация без учителя в интерпретируемой обработке естественного языка - Антон Колонин, модератор Юрий Бабуров
+[![Watch the video](https://img.youtube.com/vi/c3f4w25BZSk/hqdefault.jpg)](https://youtu.be/c3f4w25BZSk)
+- https://arxiv.org/abs/2205.11443
+- https://github.com/aigents/pygents/blob/main/docs/2022/experiential-sequential-2022.pdf
 
 ### 19 мая - Поиск в пространстве стратегий: альтернатива обучению с подкреплением - Сергей Довгань
 - [видео во Вконтакте](https://vk.com/video/@akolonin?z=video49817193_456239175)
