@@ -10,6 +10,8 @@
 
 ### 2 июня - Прикладная методология познания как фундамент AGI - Александр Болдачев (уточняется) 
 
+- https://www.litres.ru/aleksandr-boldachev-320816/filosofiya-i-cifrovye-tehnologii-sbornik-statey/chitat-onlayn/
+
 ### 9 июня - Текущие достигнутые результаты проекта AGIFA - Виктор Артюхов (уточняется)
 
 - https://zen.yandex.ru/livebaster
