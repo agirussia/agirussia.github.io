@@ -41,6 +41,7 @@ https://www.youtube.com/siberai
 - [Виктор Артюхов - AGI for All](https://zen.yandex.ru/livebaster)
 - [Олег Серебренников - Иерархическая Память Последовательностей](http://intellecture.ai/)
 - [Евгений Бочков - "ArIEL" (Artificial Intelligent Evolving Lifeform) - Искусственная Интеллектуальная Эволюционирующая Форма жизни](https://www.youtube.com/channel/UCxg1VEvLvnoUQAlxEaaVImA)
+- [Александр Летуновский - Общие принципы построения AGI](http://letunovsky.tilda.ws/agi)
 
 ## Ресурсы сообщества
 https://agirussia.org/resources.html
