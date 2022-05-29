@@ -9,6 +9,7 @@
 - https://t.me/agibots (разговорный интеллект и чат-боты)
 - https://t.me/agifintech (финансовые технологии)
 - https://t.me/agiethics (этика, мораль и экзистенциальный смысл)
+- https://t.me/aigentsrussia (персональные интеллектуальные ассистенты)
 - https://t.me/collectivei (коллективный интеллект)
 - https://www.facebook.com/groups/agirussia (основная)
 - https://www.facebook.com/groups/socialintelligence (коллективный интеллект)
