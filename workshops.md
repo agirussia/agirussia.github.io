@@ -63,7 +63,7 @@
 [![Watch the video](https://img.youtube.com/vi/AV_QQ7fqalw/hqdefault.jpg)](https://youtu.be/AV_QQ7fqalw)
 - https://github.com/aigents/pygents/blob/main/docs/2022/experiential-sequential-2022.pdf
 
-### 26 мая - Выявление значимых последовательностей на неподкрепленном опыте - токенизация без учителя в интерпретируемой обработке естественного языка - Антон Колонин, модератор Юрий Бабуров
+### 26 мая - Выявление значимых последовательностей на неподкрепленном опыте - токенизация без учителя в интерпретируемой обработке естественного языка - Антон Колонин
 [![Watch the video](https://img.youtube.com/vi/c3f4w25BZSk/hqdefault.jpg)](https://youtu.be/c3f4w25BZSk)
 - https://arxiv.org/abs/2205.11443
 - https://github.com/aigents/pygents/blob/main/docs/2022/experiential-sequential-2022.pdf
