@@ -4,10 +4,6 @@
 
 Еженедельные онлайн-семинары проводятся по четвергам в 18:00 по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на Zoom придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только зарегистрированным пользователям Zoom с полностью указанными действительными именем и фамилией и включенным видео. 
 
-### 27 мая - Experiential Learning from Sequential Data - Anton Kolonin ([семинар OpenCog AGI на английском языке](https://singularitynet.zoom.us/my/benbot))
-- Video chat at: https://singularitynet.zoom.us/my/benbot
-- https://wiki.opencog.org/w/AGI_Discussion_Forum#Sessions
-
 ### 2 июня - Прикладная методология познания как фундамент AGI - Александр Болдачев
 
 - https://www.litres.ru/aleksandr-boldachev-320816/filosofiya-i-cifrovye-tehnologii-sbornik-statey/chitat-onlayn/
@@ -62,6 +58,10 @@
 ### 29 сентября - уточняется
 
 ## Прошедшие семинары и мероприятия
+
+### 27 мая - Experiential Learning from Sequential Data - Anton Kolonin (English language)
+[![Watch the video](https://img.youtube.com/vi/AV_QQ7fqalw/hqdefault.jpg)](https://youtu.be/AV_QQ7fqalw)
+- https://github.com/aigents/pygents/blob/main/docs/2022/experiential-sequential-2022.pdf
 
 ### 26 мая - Выявление значимых последовательностей на неподкрепленном опыте - токенизация без учителя в интерпретируемой обработке естественного языка - Антон Колонин, модератор Юрий Бабуров
 [![Watch the video](https://img.youtube.com/vi/c3f4w25BZSk/hqdefault.jpg)](https://youtu.be/c3f4w25BZSk)
