@@ -69,6 +69,7 @@
 - https://github.com/aigents/pygents/blob/main/docs/2022/experiential-sequential-2022.pdf
 
 ### 19 мая - Поиск в пространстве стратегий: альтернатива обучению с подкреплением - Сергей Довгань
+[![Watch the video](https://img.youtube.com/vi/LHJH7WD8YV8/hqdefault.jpg)](https://youtu.be/LHJH7WD8YV8)
 - [видео во Вконтакте](https://vk.com/video/@akolonin?z=video49817193_456239175)
 - [тезисы](https://docs.google.com/document/d/1L7tju26mn-SvG_UGFWkPONB0CTAvZG6UD2puhR9aX6I/edit)
 
