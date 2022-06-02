@@ -4,11 +4,7 @@
 
 Еженедельные онлайн-семинары проводятся по четвергам в 18:00 по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на Zoom придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только зарегистрированным пользователям Zoom с полностью указанными действительными именем и фамилией и включенным видео. 
 
-### 2 июня - Прикладная методология познания как фундамент AGI - Александр Болдачев
-
-- https://www.litres.ru/aleksandr-boldachev-320816/filosofiya-i-cifrovye-tehnologii-sbornik-statey/chitat-onlayn/
-
-### 9 июня - Текущие достигнутые результаты проекта AGIFA - Виктор Артюхов (уточняется)
+### 9 июня - Текущие достигнутые результаты проекта AGIFA - Виктор Артюхов
 
 - https://zen.yandex.ru/livebaster
 
@@ -58,6 +54,10 @@
 ### 29 сентября - уточняется
 
 ## Прошедшие семинары и мероприятия
+
+### 2 июня - Прикладная методология познания как фундамент AGI - Александр Болдачев
+[![Watch the video](https://img.youtube.com/vi/_Yd1XrXgVsY/hqdefault.jpg)](https://youtu.be/_Yd1XrXgVsY)
+- https://www.litres.ru/aleksandr-boldachev-320816/filosofiya-i-cifrovye-tehnologii-sbornik-statey/chitat-onlayn/
 
 ### 27 мая - Experiential Learning from Sequential Data - Anton Kolonin (English language)
 [![Watch the video](https://img.youtube.com/vi/AV_QQ7fqalw/hqdefault.jpg)](https://youtu.be/AV_QQ7fqalw)
