@@ -57,7 +57,7 @@ in Washington, DC, USA.
 - IJCAI A	https://ijcai-22.org/	Vienna, Austria, July 23-29, 2022 / Submission closed 		
 - ICML A	https://icml.cc/ https://icml.cc/Conferences/2022/CallForPapers Baltimore, Maryland USA, July 17-23, 2022 / Submissions closed 			
 - SIGIR A	https://sigir.org/sigir2022/	https://sigir.org/sigir2022/call-for-papers/ Conference on Research and Development in Information Retrieval, Conference: Madrid | July 11-15, 2022 / Submissions closed
-- AGI B4	https://agi-conf.org/	http://agi-conf.org/2022/call-for-papers/	Saint-Petersburg, Russia, June 21-24, 2022 / Submission closed		
+- AGI B4	https://agi-conf.org/	http://agi-conf.org/2022/call-for-papers/	Saint-Petersburg, Russia, Auguest 19-22, 2022 / Submission closed		
 - BICA B4	https://bica2022.org/	https://bica.ai/ Conference Dates: September 22-25, 2022 / Submission closed: 15, march, 2022
 - NIPS A	https://nips.cc/	https://blog.neurips.cc/category/2022-conference/	Neural Information Processing Systems, Conference: New Orleans, USA, Nov 28th - Dec 9th, 2022 / Submission closed: May 16, 2022
 - ICDM A http://icdm.zhonghuapu.com/ International Conference on Data Mining, Conference: Nov. 30 – Dec. 3, 2022, Orlando, FL, USA / Submission closed: 10 June 2022
