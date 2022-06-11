@@ -51,16 +51,16 @@
 ### Конференции
 
 - http://www.conferenceranks.com/						
+- **EMNLP A** https://2022.emnlp.org/calls/papers/Important-Dates	Submission Deadline: Jun 17, 2022, Conference: Abu Dhabi, December 9-11, 2022
+- AAAI A https://aaai.org/Conferences/AAAI-23/ August 8, 2022: Abstracts due, Conference: February 7-14, 2023 at the Walter E. Washington Convention Center - ACL A	https://www.2022.aclweb.org/  Association for Computational Linguistics, 2022 submission closed, Check in July 2022 for 2023			
+in Washington, DC, USA.
 - IJCAI A	https://ijcai-22.org/	Vienna, Austria, July 23-29, 2022 / Submission closed 		
 - ICML A	https://icml.cc/ https://icml.cc/Conferences/2022/CallForPapers Baltimore, Maryland USA, July 17-23, 2022 / Submissions closed 			
-- SIGIR A	https://sigir.org/sigir2022/	https://sigir.org/sigir2022/call-for-papers/ Submissions closed
-- AGI B4	https://agi-conf.org/	http://agi-conf.org/2022/call-for-papers/	Saint-Petersburg, Russia, June 21-24, 2022 / Submission by Feb 28, 2022		
-- BICA B4	https://bica2022.org/	https://bica.ai/ Submission Deadline: 15, march, 2022, Conference Dates: September 22-25, 2022
-- **NIPS A**	https://nips.cc/	https://blog.neurips.cc/category/2022-conference/	Submission Deadline: May 16, 2022, Conference: New Orleans, USA, Nov 28th - Dec 9th, 2022		
-- **EMNLP A** https://2022.emnlp.org/calls/papers/Important-Dates	Submission Deadline: Jun 17, 2022, Conference: Abu Dhabi, December 9-11, 2022
-- ICDM A http://icdm.zhonghuapu.com/ International Conference on Data Mining, 2022 not open, Check in March
-- ACL A	https://www.2022.aclweb.org/ 2022 submission closed, Check in May 2022 for 2023			
-- AAAI A	https://aaai.org/Conferences/AAAI-22/	2022 submission closed, Check in May 2022 for 2023
+- SIGIR A	https://sigir.org/sigir2022/	https://sigir.org/sigir2022/call-for-papers/ Conference on Research and Development in Information Retrieval, Conference: Madrid | July 11-15, 2022 / Submissions closed
+- AGI B4	https://agi-conf.org/	http://agi-conf.org/2022/call-for-papers/	Saint-Petersburg, Russia, June 21-24, 2022 / Submission closed		
+- BICA B4	https://bica2022.org/	https://bica.ai/ Conference Dates: September 22-25, 2022 / Submission closed: 15, march, 2022
+- NIPS A	https://nips.cc/	https://blog.neurips.cc/category/2022-conference/	Neural Information Processing Systems, Conference: New Orleans, USA, Nov 28th - Dec 9th, 2022 / Submission closed: May 16, 2022
+- ICDM A http://icdm.zhonghuapu.com/ International Conference on Data Mining, Conference: Nov. 30 – Dec. 3, 2022, Orlando, FL, USA / Submission closed: 10 June 2022
 - **Российские**
   - https://opentalks.ai/ OpenTalks.AI — ведущая независимая открытая конференция по искусственному интеллекту в России.
   - https://ai-journey.ru/ AI Journey — серия мероприятий по искусственному интеллекту и анализу данных, проводимая ведущими российскими и международными компаниями, лидерами по разработке и применению технологий искусственного интеллекта.
