@@ -54,7 +54,7 @@
 - **EMNLP A** https://2022.emnlp.org/calls/papers/Important-Dates	Submission Deadline: Jun 17, 2022, Conference: Abu Dhabi, December 9-11, 2022
 - AAAI A https://aaai.org/Conferences/AAAI-23/ August 8, 2022: Abstracts due, Conference: February 7-14, 2023 at the Walter E. Washington Convention Center - ACL A	https://www.2022.aclweb.org/  Association for Computational Linguistics, 2022 submission closed, Check in July 2022 for 2023			
 in Washington, DC, USA.
-- IJCAI A	https://ijcai-22.org/	Vienna, Austria, July 23-29, 2022 / Submission closed 		
+- IJCAI A	https://ijcai-22.org/	Vienna, Austria, July 23-29, 2022 / Submission closed, Check in Nov 2023 for 2024
 - ICML A	https://icml.cc/ https://icml.cc/Conferences/2022/CallForPapers Baltimore, Maryland USA, July 17-23, 2022 / Submissions closed 			
 - SIGIR A	https://sigir.org/sigir2022/	https://sigir.org/sigir2022/call-for-papers/ Conference on Research and Development in Information Retrieval, Conference: Madrid | July 11-15, 2022 / Submissions closed
 - AGI B4	https://agi-conf.org/	http://agi-conf.org/2022/call-for-papers/	Saint-Petersburg, Russia, Auguest 19-22, 2022 / Submission closed		
