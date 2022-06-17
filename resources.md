@@ -64,11 +64,13 @@
   - NIPS A	https://nips.cc/	https://blog.neurips.cc/category/2022-conference/	Neural Information Processing Systems, Conference: New Orleans, USA, Nov 28th - Dec 9th, 2022 / Submission closed: May 16, 2022
   - ICDM A http://icdm.zhonghuapu.com/ International Conference on Data Mining, Conference: Nov. 30 – Dec. 3, 2022, Orlando, FL, USA / Submission closed: 10 June 2022
 - **Российские**
-  - https://opentalks.ai/ OpenTalks.AI — ведущая независимая открытая конференция по искусственному интеллекту в России.
-  - https://ai-journey.ru/ AI Journey — серия мероприятий по искусственному интеллекту и анализу данных, проводимая ведущими российскими и международными компаниями, лидерами по разработке и применению технологий искусственного интеллекта.
-  - https://ainlconf.ru/ AINL: Artificial Intelligence and Natural Language Conference
-  - http://damdid.org/ “Data Analytics and Management in Data Intensive Domains” conference (DAMDID)
-  - http://math.nsc.ru/conference/zont/21/ Международная конференция «Знания-Онтологии-Теории»
+  - http://damdid.org/ “Data Analytics and Management in Data Intensive Domains” conference (DAMDID), сентябрь 27–30, 2022
+  - http://neuroinfo.ru/ - "НЕЙРОИНФОРМАТИКА" – вопросы теории и приложений искусственных нейронных сетей, проблемы нейробиологии и системной биофизики, задачи адаптивного поведения и когнитивных исследований и другие актуальные проблемы нейронаук, октябрь 2022 
+  - https://www.dialog-21.ru/ - Компьютерная лингвистика и интеллектуальные технологии, 15-18 июня 2022
+  - https://ainlconf.ru/ AINL: Artificial Intelligence and Natural Language Conference, 14-15 апреля 2022
+  - https://opentalks.ai/ OpenTalks.AI — ведущая независимая открытая конференция по искусственному интеллекту в России, февраль 2022
+  - https://ai-journey.ru/ AI Journey — серия мероприятий по искусственному интеллекту и анализу данных, проводимая ведущими российскими и международными компаниями, лидерами по разработке и применению технологий искусственного интеллекта, декабрь 2021
+  - http://math.nsc.ru/conference/zont/21/ Международная конференция «Знания-Онтологии-Теории», октябрь 2021 (1 раз в 2 года) 
   - http://itnt-conf.org/index.php Международная конференция и молодёжная школа «Информационные технологии и нанотехнологии»
   - http://mmro.ru/ Всероссийская конференция с международным участием «Математические методы распознавания образов»
 
