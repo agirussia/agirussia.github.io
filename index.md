@@ -44,6 +44,7 @@ https://www.youtube.com/siberai
 - [Евгений Бочков - "ArIEL" (Artificial Intelligent Evolving Lifeform) - Искусственная Интеллектуальная Эволюционирующая Форма жизни](https://www.youtube.com/channel/UCxg1VEvLvnoUQAlxEaaVImA)
 - [Александр Летуновский - Общие принципы построения AGI](http://letunovsky.tilda.ws/agi)
 - [Александр Белов - Думбот](http://dumbot.ru/)
+- [Иван Попов - Мутатор](https://github.com/mastertimer/mutator) ([видео](https://www.youtube.com/mutator))
 
 ## Ресурсы сообщества
 https://agirussia.org/resources.html
