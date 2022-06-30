@@ -46,6 +46,9 @@ https://www.youtube.com/siberai
 - [Александр Белов - Думбот](http://dumbot.ru/)
 - [Иван Попов - Мутатор](https://github.com/mastertimer/mutator) ([видео](https://www.youtube.com/mutator))
 
+## Голосования 
+- Аудитория сообщества https://t.me/agirussia/31943
+
 ## Ресурсы сообщества
 https://agirussia.org/resources.html
 <br>
