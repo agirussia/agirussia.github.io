@@ -38,7 +38,8 @@
 - https://aigents.github.io/inlp/
 - https://t.me/agibots/2127
 
-### 15 сентября - (уточняется)
+### 15 сентября - AI Dog — это проект по созданию сильного ИИ с эмоциями - Захар Понимаш (уточняется)
+- [AIFramework/AI_Dog: AI Dog](https://github.com/AIFramework/AIFrameworkOpen/blob/main/AI/ML/NeuralNetwork/CoreNNW/Layers/Recurrent/ControllerLResNet.cs)
 
 ### 22 сентября - (уточняется)
 
