@@ -9,7 +9,8 @@
 ### 14 июля - Некоторые соображения по поводу мышления и понимания у людей и какое это окажет влияние на создание/обучение AGI - Игорь Пивоваров
 - https://ridero.ru/books/terbiden_prostaya_model_slozhnogo_mira/
 
-### 21 июля - Как распознать миллион юридических интентов, и почему ваш чат бот не справится даже с сотней? - Юрий Бабуров (уточняется)
+### 21 июля  - AI Dog — это проект по созданию сильного ИИ с эмоциями - Захар Понимаш (уточняется)
+- [AIFramework/AI_Dog: AI Dog](https://github.com/AIFramework/AIFrameworkOpen/blob/main/AI/ML/NeuralNetwork/CoreNNW/Layers/Recurrent/ControllerLResNet.cs)
 
 ### 28 июля - Когнитивная архитектура на основе принципов обработки информации мозгом и задачного подхода - Антон Колонин (уточняется) 
 
@@ -38,8 +39,7 @@
 - https://aigents.github.io/inlp/
 - https://t.me/agibots/2127
 
-### 15 сентября - AI Dog — это проект по созданию сильного ИИ с эмоциями - Захар Понимаш (уточняется)
-- [AIFramework/AI_Dog: AI Dog](https://github.com/AIFramework/AIFrameworkOpen/blob/main/AI/ML/NeuralNetwork/CoreNNW/Layers/Recurrent/ControllerLResNet.cs)
+### 15 сентября - Как распознать миллион юридических интентов, и почему ваш чат бот не справится даже с сотней? - Юрий Бабуров (уточняется)
 
 ### 22 сентября - (уточняется)
 
