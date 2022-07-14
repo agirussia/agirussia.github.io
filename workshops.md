@@ -4,9 +4,6 @@
 
 Еженедельные онлайн-семинары проводятся по четвергам в 18:00 по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на Zoom придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только зарегистрированным пользователям Zoom с полностью указанными действительными именем и фамилией и включенным видео. 
 
-### 14 июля - Некоторые соображения по поводу мышления и понимания у людей и какое это окажет влияние на создание/обучение AGI - Игорь Пивоваров
-- https://ridero.ru/books/terbiden_prostaya_model_slozhnogo_mira/
-
 ### 21 июля  - AI Dog — это проект по созданию сильного ИИ с эмоциями - Захар Понимаш
 - [AIFramework/AI_Dog: AI Dog](https://github.com/AIFramework/AIFrameworkOpen/blob/main/AI/ML/NeuralNetwork/CoreNNW/Layers/Recurrent/ControllerLResNet.cs)
 
@@ -65,6 +62,10 @@
 ### 1 декабря - Выбор требуемого результата и поиск способа его достижения в AGIFA - Виктор Артюхов (уточняется)
 
 ## Прошедшие семинары и мероприятия
+
+### 14 июля - Некоторые соображения по поводу мышления и понимания у людей и какое это окажет влияние на создание/обучение AGI - Игорь Пивоваров
+[![Watch the video](https://img.youtube.com/vi/TVtU_cQcitI/hqdefault.jpg)](https://youtu.be/TVtU_cQcitI)
+- https://ridero.ru/books/terbiden_prostaya_model_slozhnogo_mira/
 
 ### 7 июля *(2 года онлайн!)* - От NLP к NLU или что значить понять текст - Александр Болдачев
 [![Watch the video](https://img.youtube.com/vi/y3uBfgS27C8/hqdefault.jpg)](https://youtu.be/y3uBfgS27C8)
