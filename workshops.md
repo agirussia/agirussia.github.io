@@ -14,6 +14,9 @@
 
 ### 18 августа - Кластеризация и сегментация без учителя - зачем и как? - Антон Колонин (уточняется)
 
+- https://github.com/aigents/pygents/blob/main/docs/2022/unsupervised-lexicon-punctuation-discovery-2022.pdf
+- https://github.com/aigents/pygents/blob/main/notebooks/cluster/distribution_modes.ipynb
+
 ### 19-22 августа - конференция AGI-2022
 - http://agi-conf.org/2022/
 
