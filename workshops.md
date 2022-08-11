@@ -11,8 +11,14 @@
 - https://github.com/aigents/pygents/blob/main/docs/2022/unsupervised-lexicon-punctuation-discovery-2022.pdf
 - https://github.com/aigents/pygents/blob/main/notebooks/cluster/distribution_modes.ipynb
 
-### 19-22 августа - конференция AGI-2022
-- http://agi-conf.org/2022/
+### 19 августа - мастерская по интерепретируемой обработке естественного языка 
+- https://aigents.github.io/inlp/2022/
+ 
+### 19 августа - мастерская по ИИ в финтехе
+- https://singularity-dao.github.io/agi-fintech/
+
+### 20-22 августа - конференция AGI-2022
+- https://agi-conf.org/2022/schedule/
 
 *Мы приглашаем спикеров со своими темами!*
 
