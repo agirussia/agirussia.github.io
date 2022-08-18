@@ -4,10 +4,6 @@
 
 Еженедельные онлайн-семинары проводятся по четвергам в 18:00 по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на Zoom придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только зарегистрированным пользователям Zoom с полностью указанными действительными именем и фамилией и включенным видео. 
 
-### 18 августа - Кластеризация и сегментация без учителя - зачем и как? - Антон Колонин
-- https://github.com/aigents/pygents/blob/main/docs/2022/experiential-sequential-2022.pdf
-- https://github.com/aigents/pygents/blob/main/notebooks/cluster/distribution_modes.ipynb
-
 ### 19 августа - Мастерская по интерепретируемой обработке естественного языка 
 - https://aigents.github.io/inlp/2022/
  
@@ -59,6 +55,11 @@
 ### 1 декабря - Выбор требуемого результата и поиск способа его достижения в AGIFA - Виктор Артюхов (уточняется)
 
 ## Прошедшие семинары и мероприятия
+
+### 18 августа - Кластеризация и сегментация без учителя - зачем и как? - Антон Колонин
+[![Watch the video](https://img.youtube.com/vi/oTBxdQL_lnU/hqdefault.jpg)](https://youtu.be/oTBxdQL_lnU)
+- https://github.com/aigents/pygents/blob/main/docs/2022/experiential-sequential-2022.pdf
+- https://github.com/aigents/pygents/blob/main/notebooks/cluster/distribution_modes.ipynb
 
 ### 11 августа - Этика AGI — насколько это важный вопрос? — Сергей Карелов и Игорь Пивоваров (уточняется)
 [![Watch the video](https://img.youtube.com/vi/GgUaeTVX4T0/hqdefault.jpg)](https://youtu.be/GgUaeTVX4T0)
