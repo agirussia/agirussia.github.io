@@ -13,7 +13,7 @@
 ### 20-22 августа - Конференция AGI-2022
 - https://agi-conf.org/2022/schedule/
 
-### 25 августа - Планировщик для AGI? - Юрий Бабуров (уточняется)
+### 25 августа - (уточняется)
 
 ### 1 сентября - Building minds with patterns - Michael Miller (in English, уточняется)
 
