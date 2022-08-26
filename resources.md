@@ -52,6 +52,8 @@
 
 - **Рейтинги**
   - http://www.conferenceranks.com/
+- **Планируемые**
+  - http://www.conferencelist.info/upcoming.html  
 - **Международные**			
   - **EMNLP A** https://2022.emnlp.org/calls/papers/Important-Dates	Submission Deadline: Jun 17, 2022, Conference: Abu Dhabi, December 9-11, 2022
   - AAAI A https://aaai.org/Conferences/AAAI-23/ August 8, 2022: Abstracts due, Conference: February 7-14, 2023 at the Walter E. Washington Convention Center in Washington, DC, USA.
