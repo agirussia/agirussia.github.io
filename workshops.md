@@ -11,7 +11,8 @@
 
 ### 15 сентября - От игрового ИИ к AGI - Юрий Бабуров (уточняется)
 
-### 22 сентября - (уточняется)
+### 22-25 сентября - [2022 Annual International Conference on Brain-Inspired Cognitive Architectures for Artificial Intelligence](https://bica2022.org/)
+- https://bica2022.org/
 
 ### 29 сентября - Иерархический дизайн сильного искусственного интеллекта (ADAM) - Сергей Шумский
 
