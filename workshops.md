@@ -18,6 +18,8 @@
 *Мы приглашаем спикеров со своими темами!*
 
 ### 20 октября - Язык OpenCog Hyperon MeTTa для AGI - Алексей Потапов (уточняется)
+- https://arxiv.org/abs/2112.08272
+- [A_Formalization_of_Hyperon_MeTTa_language_in_terms_of_metagraph_rewriting](https://wiki.opencog.org/wikihome/images/6/67/A_Formalization_of_Hyperon_MeTTa_language_in_terms_of_metagraph_rewriting.pdf)
 
 ### 27 октября - Импульсные НС для AGI - Михаил Киселев (уточняется)
 - https://www.researchgate.net/profile/Mikhail-Kiselev-5
