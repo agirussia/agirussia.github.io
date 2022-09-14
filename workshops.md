@@ -10,6 +10,8 @@
 - https://bica2022.org/
 
 ### 29 сентября - Иерархический дизайн сильного искусственного интеллекта (ADAM) - Сергей Шумский
+- [MARTI-4: new model of human brain, considering neocortex and basal ganglia – learns to play Atari game by reinforcement learning on a single CPU - paper](https://drive.google.com/file/d/1AYT88QBaCHNcQqDaVvPYmaGJiHC9hmDY/view)
+- [video](https://drive.google.com/file/d/1gJFXdawVJJiZZqsxtRtroLz-N-4c3Kyv/view)
 
 ### 6 октября - (уточняется)
 
