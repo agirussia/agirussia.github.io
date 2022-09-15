@@ -6,8 +6,6 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 15 сентября - От игрового ИИ к AGI - Юрий Бабуров
-
 ### 22-25 сентября - [2022 Annual International Conference on Brain-Inspired Cognitive Architectures for Artificial Intelligence](https://bica2022.org/)
 - https://bica2022.org/
 
@@ -37,6 +35,9 @@
 ### 1 декабря - Выбор требуемого результата и поиск способа его достижения в AGIFA - Виктор Артюхов (уточняется)
 
 ## Прошедшие семинары и мероприятия
+
+### 15 сентября - От игрового ИИ к AGI - Юрий Бабуров
+[![Watch the video](https://img.youtube.com/vi/jq7obz3s47I/hqdefault.jpg)](https://youtu.be/jq7obz3s47I)
 
 ### 8 сентября - Обзор семинаров INLP-2021/2022 по интерпретируемой обработке естественного языка - Антон Колонин
 [![Watch the video](https://img.youtube.com/vi/iK1VRF3lqGQ/hqdefault.jpg)](https://youtu.be/iK1VRF3lqGQ)
