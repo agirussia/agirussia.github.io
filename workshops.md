@@ -40,7 +40,7 @@
 [![Watch the video](https://img.youtube.com/vi/jq7obz3s47I/hqdefault.jpg)](https://youtu.be/jq7obz3s47I)
 
 ### 8 сентября - Обзор семинаров INLP-2021/2022 по интерпретируемой обработке естественного языка - Антон Колонин
-[![Watch the video](https://img.youtube.com/vi/iK1VRF3lqGQ/0.jpg)](https://youtu.be/iK1VRF3lqGQ)
+[![Watch the video](https://img.youtube.com/vi/iK1VRF3lqGQ/hqdefault.jpg)](https://youtu.be/iK1VRF3lqGQ)
 - https://aigents.github.io/inlp/
 
 ### 1 сентября - Что такое сознание и нужно ли оно AGI? - Александр Болдачев
