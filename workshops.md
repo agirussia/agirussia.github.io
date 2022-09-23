@@ -13,9 +13,9 @@
 - [MARTI-4: new model of human brain, considering neocortex and basal ganglia – learns to play Atari game by reinforcement learning on a single CPU - paper](https://drive.google.com/file/d/1AYT88QBaCHNcQqDaVvPYmaGJiHC9hmDY/view)
 - [video](https://drive.google.com/file/d/1gJFXdawVJJiZZqsxtRtroLz-N-4c3Kyv/view)
 
-### 6 октября - (уточняется)
+### 6 октября - Владимир Смолин (уточняется)
 
-### 13 октября - Чатбот-психолог Сабина - Виктор Носко, Захар Понимаш (уточняется)
+### 13 октября - Чатбот-психолог Сабина - Виктор Носко, Захар Понимаш
 
 ### 20 октября - Язык MeTTa как основа платформы OpenCog Hyperon для AGI - Алексей Потапов (уточняется)
 - [Reflective Metagraph Rewriting as a Foundation for an AGI "Language of Thought"](https://arxiv.org/abs/2112.08272)
