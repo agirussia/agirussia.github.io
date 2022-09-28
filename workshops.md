@@ -6,9 +6,6 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 22-25 сентября - [2022 Annual International Conference on Brain-Inspired Cognitive Architectures for Artificial Intelligence](https://bica2022.org/)
-- https://bica2022.org/
-
 ### 29 сентября - Иерархический дизайн сильного искусственного интеллекта (ADAM) - Сергей Шумский
 - [MARTI-4: new model of human brain, considering neocortex and basal ganglia – learns to play Atari game by reinforcement learning on a single CPU - paper](https://drive.google.com/file/d/1AYT88QBaCHNcQqDaVvPYmaGJiHC9hmDY/view)
 - [video](https://drive.google.com/file/d/1gJFXdawVJJiZZqsxtRtroLz-N-4c3Kyv/view)
@@ -35,6 +32,15 @@
 ### 1 декабря - Выбор требуемого результата и поиск способа его достижения в AGIFA - Виктор Артюхов (уточняется)
 
 ## Прошедшие семинары и мероприятия
+
+### 22-25 сентября - [2022 Annual International Conference on Brain-Inspired Cognitive Architectures for Artificial Intelligence](https://bica2022.org/)
+- https://bica2022.org/
+- https://www.youtube.com/watch?v=22Wnr-aI4zU
+- https://www.youtube.com/watch?v=X1vP96UbSAw
+- https://www.youtube.com/watch?v=xSHDANhS4j4
+- https://www.youtube.com/watch?v=KKGqfWF49XQ
+- https://www.youtube.com/watch?v=ggjCt2dCJOA
+- https://www.youtube.com/watch?v=RB3JQY6oUPk
 
 ### 15 сентября - От игрового ИИ к AGI - Юрий Бабуров
 [![Watch the video](https://img.youtube.com/vi/jq7obz3s47I/hqdefault.jpg)](https://youtu.be/jq7obz3s47I)
