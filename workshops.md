@@ -35,6 +35,7 @@
 - [video](https://drive.google.com/file/d/1gJFXdawVJJiZZqsxtRtroLz-N-4c3Kyv/view)
 
 ### 22-25 сентября - [2022 Annual International Conference on Brain-Inspired Cognitive Architectures for Artificial Intelligence](https://bica2022.org/)
+[![Watch the video](https://img.youtube.com/vi/22Wnr-aI4zU/hqdefault.jpg)](https://youtu.be/22Wnr-aI4zU)
 - https://bica2022.org/
 - https://www.youtube.com/watch?v=22Wnr-aI4zU
 - https://www.youtube.com/watch?v=X1vP96UbSAw
