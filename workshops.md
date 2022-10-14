@@ -6,11 +6,11 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 20 октября - Язык MeTTa как основа платформы OpenCog Hyperon для AGI - Алексей Потапов (уточняется)
+### 20 октября - Язык MeTTa как основа платформы OpenCog Hyperon для AGI - Алексей Потапов
 - [Reflective Metagraph Rewriting as a Foundation for an AGI "Language of Thought"](https://arxiv.org/abs/2112.08272)
 - [A Formalization of Hyperon MeTTa language in terms of metagraph rewriting](https://wiki.opencog.org/wikihome/images/6/67/A_Formalization_of_Hyperon_MeTTa_language_in_terms_of_metagraph_rewriting.pdf)
 
-### 27 октября - Импульсные НС для AGI - Михаил Киселев (уточняется)
+### 27 октября - Импульсные НС для AGI - Михаил Киселев
 - https://www.researchgate.net/profile/Mikhail-Kiselev-5
 
 ### 3 ноября - Обучение физической интуиции через работу с данными и ее интерпретации - Андрей Устюжанин (уточняется)
