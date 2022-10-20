@@ -6,10 +6,6 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 20 октября - Язык MeTTa как основа платформы OpenCog Hyperon для AGI - Алексей Потапов
-- [Reflective Metagraph Rewriting as a Foundation for an AGI "Language of Thought"](https://arxiv.org/abs/2112.08272)
-- [A Formalization of Hyperon MeTTa language in terms of metagraph rewriting](https://wiki.opencog.org/wikihome/images/6/67/A_Formalization_of_Hyperon_MeTTa_language_in_terms_of_metagraph_rewriting.pdf)
-
 ### 27 октября - Импульсные НС для AGI - Михаил Киселев
 - https://www.researchgate.net/profile/Mikhail-Kiselev-5
 
@@ -24,6 +20,12 @@
 ### 1 декабря - Выбор требуемого результата и поиск способа его достижения в AGIFA - Виктор Артюхов (уточняется)
 
 ## Прошедшие семинары и мероприятия
+
+### 20 октября - Язык MeTTa как основа платформы OpenCog Hyperon для AGI - Алексей Потапов
+[![Watch the video](https://img.youtube.com/vi/F5tjiuwccNc/hqdefault.jpg)](https://youtu.be/F5tjiuwccNc)
+- [Reflective Metagraph Rewriting as a Foundation for an AGI "Language of Thought"](https://arxiv.org/abs/2112.08272)
+- [A Formalization of Hyperon MeTTa language in terms of metagraph rewriting](https://wiki.opencog.org/wikihome/images/6/67/A_Formalization_of_Hyperon_MeTTa_language_in_terms_of_metagraph_rewriting.pdf)
+- [OpenCog Hyperon](https://wiki.opencog.org/w/Hyperon)
 
 ### 13 октября - Чатбот-психолог Сабина - Виктор Носко, Захар Понимаш
 [![Watch the video](https://img.youtube.com/vi/t7h4bhyLpNQ/hqdefault.jpg)](https://youtu.be/t7h4bhyLpNQ)
