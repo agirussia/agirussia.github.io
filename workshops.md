@@ -24,6 +24,7 @@
 ### 15 декабря - ... - Ильгизар Талипов (уточняется)
 
 ### 22 декабря - Практика регулирования ИИ и будущее регулирования AGI - Андрей Незнамов (уточняется)
+- https://press.sber.ru/publications/sber-i-dvfu-predstavili-knigu-globalnyi-atlas-regulirovaniia-iskusstvennogo-intellekta
 
 ### 29 декабря - Новые приключения в интерепретируемом NLP - Антон Колонин (уточняется)
 
