@@ -6,9 +6,6 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 27 октября - Импульсные НС для AGI - Михаил Киселев
-- https://www.researchgate.net/profile/Mikhail-Kiselev-5
-
 ### 3 ноября - Самоподготовка (уточняется)
 
 ### 10 ноября - Обучение физической интуиции через работу с данными и ее интерпретации - Андрей Устюжанин (уточняется)
@@ -29,6 +26,10 @@
 ### 29 декабря - Новые приключения в интерепретируемом NLP - Антон Колонин (уточняется)
 
 ## Прошедшие семинары и мероприятия
+
+### 27 октября - Импульсные НС для AGI - Михаил Киселев
+[![Watch the video](https://img.youtube.com/vi/a1F35mNTrKg/hqdefault.jpg)](https://youtu.be/a1F35mNTrKg)
+- https://www.researchgate.net/profile/Mikhail-Kiselev-5
 
 ### 20 октября - Язык MeTTa как основа платформы OpenCog Hyperon для AGI - Алексей Потапов
 [![Watch the video](https://img.youtube.com/vi/F5tjiuwccNc/hqdefault.jpg)](https://youtu.be/F5tjiuwccNc)
