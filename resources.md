@@ -63,8 +63,10 @@
   - SIGIR A	https://sigir.org/sigir2022/	https://sigir.org/sigir2022/call-for-papers/ Conference on Research and Development in Information Retrieval, Conference: Madrid | July 11-15, 2022 / Submissions closed
   - AGI B4	https://agi-conf.org/	http://agi-conf.org/2022/call-for-papers/	Saint-Petersburg, Russia, Auguest 19-22, 2022 / Submission closed		
   - BICA B4	https://bica2022.org/	https://bica.ai/ Conference Dates: September 22-25, 2022 / Submission closed: 15, march, 2022
-  - NIPS A	https://nips.cc/	https://blog.neurips.cc/category/2022-conference/	Neural Information Processing Systems, Conference: New Orleans, USA, Nov 28th - Dec 9th, 2022 / Submission closed: May 16, 2022
+  - NeurIPS A	https://nips.cc/	https://blog.neurips.cc/category/2022-conference/	Neural Information Processing Systems, Conference: New Orleans, USA, Nov 28th - Dec 9th, 2022 / Submission closed: May 16, 2022
   - ICDM A http://icdm.zhonghuapu.com/ International Conference on Data Mining, Conference: Nov. 30 – Dec. 3, 2022, Orlando, FL, USA / Submission closed: 10 June 2022
+  - ICLR A https://iclr.cc/ International Conference on Learning Representations, Conference: May 1-5 2023 Kigali Rwanda / Submission closed: Sep 21 2022
+  - KDD/SIGKDD A https://kdd.org/ ACM Confernece on Knowledge Discovery and Daya Minaing, Confernece: Aug 14-18 2022, Washington DC USA
 - **Российские**
   - http://damdid.org/ “Data Analytics and Management in Data Intensive Domains” conference (DAMDID), сентябрь 27–30, 2022
   - http://neuroinfo.ru/ - "НЕЙРОИНФОРМАТИКА" – вопросы теории и приложений искусственных нейронных сетей, проблемы нейробиологии и системной биофизики, задачи адаптивного поведения и когнитивных исследований и другие актуальные проблемы нейронаук, октябрь 2022 
