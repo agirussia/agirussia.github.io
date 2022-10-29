@@ -75,7 +75,8 @@
   - http://math.nsc.ru/conference/zont/21/ Международная конференция «Знания-Онтологии-Теории», октябрь 2021 (1 раз в 2 года) 
   - http://itnt-conf.org/index.php Международная конференция и молодёжная школа «Информационные технологии и нанотехнологии»
   - http://mmro.ru/ Всероссийская конференция с международным участием «Математические методы распознавания образов»
+  - Конференция Лаборатории Касперского по развитию и применению нейроморфных технологий искусственного интеллекта [Kaspersky Neuromorphic AI](https://www.kaspersky.ru/about/press-releases/2022_na-konferencii-kaspersky-neuromorphic-ai-2022-obsudyat-perspektivy-nejromorfnyh-tehnologij-iskusstvennogo-intellekta-v-rossii), октябрь 2022
 
-### [More information](https://docs.google.com/spreadsheets/d/1Ilm3hu9aewpQc-Mjl8xChjkKXr21gnh0aQ74EnhygX4/edit#gid=1528578624)
+### [Дополнительная информация](https://docs.google.com/spreadsheets/d/1Ilm3hu9aewpQc-Mjl8xChjkKXr21gnh0aQ74EnhygX4/edit#gid=1528578624)
 <br>
 <br>
