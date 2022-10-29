@@ -55,7 +55,7 @@
 - **Планируемые**
   - http://www.conferencelist.info/upcoming.html  
 - **Международные**			
-  - **EMNLP A** https://2022.emnlp.org/calls/papers/Important-Dates	Submission Deadline: Jun 17, 2022, Conference: Abu Dhabi, December 9-11, 2022
+  - EMNLP A https://2022.emnlp.org/calls/papers/Important-Dates	Submission Deadline: Jun 17, 2022, Conference: Abu Dhabi, December 9-11, 2022
   - AAAI A https://aaai.org/Conferences/AAAI-23/ August 8, 2022: Abstracts due, Conference: February 7-14, 2023 at the Walter E. Washington Convention Center in Washington, DC, USA.
   - ACL A	https://www.2022.aclweb.org/  Association for Computational Linguistics, 2022 submission closed, Check in July 2022 for 2023
   - IJCAI A	https://ijcai-22.org/	Vienna, Austria, July 23-29, 2022 / Submission closed, Check in Nov 2023 for 2024
@@ -75,7 +75,7 @@
   - http://math.nsc.ru/conference/zont/21/ Международная конференция «Знания-Онтологии-Теории», октябрь 2021 (1 раз в 2 года) 
   - http://itnt-conf.org/index.php Международная конференция и молодёжная школа «Информационные технологии и нанотехнологии»
   - http://mmro.ru/ Всероссийская конференция с международным участием «Математические методы распознавания образов»
-  - Конференция Лаборатории Касперского по развитию и применению нейроморфных технологий искусственного интеллекта [Kaspersky Neuromorphic AI](https://www.kaspersky.ru/about/press-releases/2022_na-konferencii-kaspersky-neuromorphic-ai-2022-obsudyat-perspektivy-nejromorfnyh-tehnologij-iskusstvennogo-intellekta-v-rossii), октябрь 2022
+  - https://neuro.kaspersky.ru/conference/ - Kaspersky Neuromorphic AI 2022, международная конференция, посвященная нейроморфным технологиям ИИ и их применению в промышленности, октябрь 2022
 
 ### [Дополнительная информация](https://docs.google.com/spreadsheets/d/1Ilm3hu9aewpQc-Mjl8xChjkKXr21gnh0aQ74EnhygX4/edit#gid=1528578624)
 <br>
