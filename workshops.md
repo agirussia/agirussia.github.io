@@ -6,10 +6,6 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 10 ноября - AI-prentice: от подходов анализа, основанных на данных, к интерпретируемым моделям физических систем - Андрей Устюжанин
-- https://misis.ru/science/community/scientists/4499/
-- https://ifim.nus.edu.sg/people/andrey-ustyuzhanin/
-- 
 ### 17 ноября - ... (уточняется)
 
 ### 24 ноября - Перспективные методы квантового интеллекта - Евгений Павловский (уточняется)
@@ -33,6 +29,11 @@
 
 
 ## Прошедшие семинары и мероприятия
+
+### 10 ноября - AI-prentice: от подходов анализа, основанных на данных, к интерпретируемым моделям физических систем - Андрей Устюжанин
+[![Watch the video](https://img.youtube.com/vi/vlQv3-qfJpQ/hqdefault.jpg)](https://youtu.be/vlQv3-qfJpQ)
+- https://misis.ru/science/community/scientists/4499/
+- https://ifim.nus.edu.sg/people/andrey-ustyuzhanin/
 
 ### 27 октября - Импульсные НС для AGI - Михаил Киселев
 [![Watch the video](https://img.youtube.com/vi/a1F35mNTrKg/hqdefault.jpg)](https://youtu.be/a1F35mNTrKg)
