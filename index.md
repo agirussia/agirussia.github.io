@@ -45,6 +45,7 @@ https://www.youtube.com/siberai
 - [Александр Летуновский - Общие принципы построения AGI](http://letunovsky.tilda.ws/agi)
 - [Александр Белов - Думбот](http://dumbot.ru/)
 - [Иван Попов - Мутатор](https://github.com/mastertimer/mutator) ([видео](https://www.youtube.com/mutator))
+- [Виктор Казаринов - AGINIX - Операционная система для разработки AGI](https://github.com/FreeAGI/AGINIX)
 
 ## Голосования 
 - Аудитория сообщества https://t.me/agirussia/31943
