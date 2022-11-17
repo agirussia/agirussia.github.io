@@ -6,9 +6,6 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 17 ноября - Лучше быть сильным ИИ чем слабым! А чего еще надо? - Дискуссия для ценителей AGI - Владимир Смолин, Антон Колонин, Ильгизар Талипов и к ним присоединившиеся
-- https://russiancouncil.ru/analytics-and-comments/analytics/v-chem-sila-silnyy-ii/
-
 ### 24 ноября - Перспективные методы квантового интеллекта - Евгений Павловский
 - https://research.nsu.ru/en/persons/eugene-pavlovsky
 
@@ -31,6 +28,10 @@
 
 
 ## Прошедшие семинары и мероприятия
+
+### 17 ноября - Лучше быть сильным ИИ чем слабым! А чего еще надо? - Дискуссия для ценителей AGI - Владимир Смолин, Антон Колонин, Ильгизар Талипов и к ним присоединившиеся
+[![Watch the video](https://img.youtube.com/vi/YiKSz4gGn9Y/hqdefault.jpg)](https://youtu.be/YiKSz4gGn9Y)
+- https://russiancouncil.ru/analytics-and-comments/analytics/v-chem-sila-silnyy-ii/
 
 ### 10 ноября - AI-prentice: от подходов анализа, основанных на данных, к интерпретируемым моделям физических систем - Андрей Устюжанин
 [![Watch the video](https://img.youtube.com/vi/vlQv3-qfJpQ/hqdefault.jpg)](https://youtu.be/vlQv3-qfJpQ)
