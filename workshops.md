@@ -10,6 +10,8 @@
 - https://research.nsu.ru/en/persons/eugene-pavlovsky
 
 ### 1 декабря - Выбор требуемого результата и поиск способа его достижения в AGIFA - Виктор Артюхов
+- [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2022/Artyukhov_Victor_AGIFA_003.pdf)
+- https://github.com/LiveBaster/agifa
 
 ### 8 декабря - "Информация... как много в этом звуке для..." - Александр Болдачев
 
