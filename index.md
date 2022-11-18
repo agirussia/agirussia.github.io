@@ -49,8 +49,16 @@ https://www.youtube.com/siberai
 
 ## Голосования 
 - Аудитория сообщества https://t.me/agirussia/31943
+- Мышление и язык https://t.me/agirussia/46275
+- Свобода воли https://t.me/agirussia/46564
+- Характер дискуссий https://t.me/agirussia/47407
+- Одушевленность https://t.me/agirussia/48377
 
 ## Ресурсы сообщества
-https://agirussia.org/resources.html
+- [Вики AGI-in-Russian](https://github.com/agirussia/agirussia.github.io/wiki)
+- [Полезные ссылки на книги, статьи, проекты и конференции](https://agirussia.org/resources.html)
+- [Больше ссылок в табличке](https://docs.google.com/spreadsheets/d/1Ilm3hu9aewpQc-Mjl8xChjkKXr21gnh0aQ74EnhygX4/edit#gid=1528578624)
+- [Терминологические системы участников](https://docs.google.com/spreadsheets/d/15PChaGD9bnZnW1M3pLtsu8i0vDT3Ge6qNaEUnGmiQIU/edit#gid=0)
+- [Определения AGI участников](https://docs.google.com/spreadsheets/d/1HuIeBnPM1OOnXsBKMeDLfNVSwyv6XNk7cgkWjD8ttgQ/edit#gid=0)
 <br>
 <br>
