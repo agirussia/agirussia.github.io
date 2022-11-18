@@ -28,6 +28,7 @@
 
 ### 26 января - Какие технологии приведут нас к AGI? - Татьяна Шаврина (уточняется)
 - https://press.sber.ru/publications/kakie-tekhnologii-privedut-nas-k-agi
+- https://t.me/rybolos_channel
 
 ### 2 февраля - ... (уточняется)
 
