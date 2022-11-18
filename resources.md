@@ -79,6 +79,6 @@
   - http://mmro.ru/ Всероссийская конференция с международным участием «Математические методы распознавания образов»
   - https://neuro.kaspersky.ru/conference/ - Kaspersky Neuromorphic AI 2022, международная конференция, посвященная нейроморфным технологиям ИИ и их применению в промышленности, октябрь 2022
 
-### [Дополнительная информация](https://docs.google.com/spreadsheets/d/1Ilm3hu9aewpQc-Mjl8xChjkKXr21gnh0aQ74EnhygX4/edit#gid=1528578624)
+### [Больше ссылок в табличке](https://docs.google.com/spreadsheets/d/1Ilm3hu9aewpQc-Mjl8xChjkKXr21gnh0aQ74EnhygX4/edit#gid=1528578624)
 <br>
 <br>
