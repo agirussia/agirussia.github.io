@@ -6,9 +6,6 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 24 ноября - Перспективные методы квантового интеллекта - Евгений Павловский
-- https://research.nsu.ru/en/persons/eugene-pavlovsky
-
 ### 1 декабря - Выбор требуемого результата и поиск способа его достижения в AGIFA - Виктор Артюхов
 - [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2022/Artyukhov_Victor_AGIFA_003.pdf)
 - https://github.com/LiveBaster/agifa
@@ -48,6 +45,10 @@
 ### 23 февраля - ... (уточняется)
 
 ## Прошедшие семинары и мероприятия
+
+### 24 ноября - Перспективные методы квантового интеллекта - Евгений Павловский
+[![Watch the video](https://img.youtube.com/vi/uuOw8xHjP-Y/hqdefault.jpg)](https://youtu.be/uuOw8xHjP-Y)
+- https://research.nsu.ru/en/persons/eugene-pavlovsky
 
 ### 17 ноября - Лучше быть сильным ИИ чем слабым! А чего еще надо? - Дискуссия для ценителей AGI - Владимир Смолин, Антон Колонин, Ильгизар Талипов и к ним присоединившиеся
 [![Watch the video](https://img.youtube.com/vi/YiKSz4gGn9Y/hqdefault.jpg)](https://youtu.be/YiKSz4gGn9Y)
