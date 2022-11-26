@@ -57,7 +57,7 @@
 - **Международные**			
   - IJCAI A	https://ijcai-23.org/call-for-papers/	South Africa, Aug 19-25, 2023. Abstract submission deadline: January 11, 2023
   - ACL A	https://2023.aclweb.org/  Association for Computational Linguistics, Toronto, Canada July 9-14, 2023 / Abstract deadline for submissions	January 13, 2023
-  - AGI B4	https://agi-conf.org/	http://agi-conf.org/2023/call-for-papers-2/	Stockholm and Virtual, June 16 – 19, 2023 / Paper submission: March 5 (Sun.), 2023
+  - AGI B4	https://agi-conf.org/	Stockholm and Virtual, June 16 – 19, 2023 / Paper submission: March 5 (Sun.), 2023 http://agi-conf.org/2023/call-for-papers-2/	
   - ICML A	https://icml.cc/ https://icml.cc/Conferences/2022/CallForPapers Baltimore, Maryland USA, July 17-23, 2022 / Submissions closed 			
   - SIGIR A	https://sigir.org/sigir2022/	https://sigir.org/sigir2022/call-for-papers/ Conference on Research and Development in Information Retrieval, Conference: Madrid | July 11-15, 2022 / Submissions closed
   - BICA B4	https://bica2022.org/	https://bica.ai/ Conference Dates: September 22-25, 2022 / Submission closed: 15, march, 2022
