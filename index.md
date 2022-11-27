@@ -43,7 +43,7 @@ https://vk.com/video/@agirussia
 - [Дмитрий Салихов - Методология тестирования AGI](https://agileaderboard.com/)
 - [Николай Рабчевский - AGI fundamentals, architecture, implementation](https://agieng.substack.com/) and [source code](https://github.com/mrabchevskiy/Gel)
 - [Виктор Артюхов - AGI for All](https://github.com/LiveBaster/agifa)
-- [Олег Серебренников - Иерархическая Память Последовательностей](http://intellecture.ai/)
+- [Олег Серебренников - Иерархическая Память Последовательностей](http://hsm-main.tilda.ws/)
 - [Евгений Бочков - "ArIEL" (Artificial Intelligent Evolving Lifeform) - Искусственная Интеллектуальная Эволюционирующая Форма жизни](https://www.youtube.com/channel/UCxg1VEvLvnoUQAlxEaaVImA)
 - [Александр Летуновский - Общие принципы построения AGI](http://letunovsky.tilda.ws/agi)
 - [Александр Белов - Думбот](http://dumbot.ru/)
