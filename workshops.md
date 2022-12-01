@@ -6,10 +6,6 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 1 декабря - Выбор требуемого результата и поиск способа его достижения в AGIFA - Виктор Артюхов
-- [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2022/Artyukhov_Victor_AGIFA_003.pdf)
-- https://github.com/LiveBaster/agifa
-
 ### 8 декабря - "Информация... как много в этом звуке для..." - Александр Болдачев
 
 ### 15 декабря - ... - Ильгизар Талипов (уточняется)
@@ -45,6 +41,11 @@
 ### 23 февраля - ... (уточняется)
 
 ## Прошедшие семинары и мероприятия
+
+### 1 декабря - Выбор требуемого результата и поиск способа его достижения в AGIFA - Виктор Артюхов
+[![Watch the video](https://img.youtube.com/vi/c9wOLWb4o9k/hqdefault.jpg)](https://youtu.be/c9wOLWb4o9k)
+- [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2022/Artyukhov_Victor_AGIFA_003.pdf)
+- https://github.com/LiveBaster/agifa
 
 ### 24 ноября - Перспективные методы квантового интеллекта - Евгений Павловский
 [![Watch the video](https://img.youtube.com/vi/uuOw8xHjP-Y/hqdefault.jpg)](https://youtu.be/uuOw8xHjP-Y)
