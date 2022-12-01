@@ -7,6 +7,8 @@
 *Мы приглашаем спикеров со своими темами!*
 
 ### 8 декабря - "Информация... как много в этом звуке для..." - Александр Болдачев
+- https://youtu.be/-_8OxZ4GyL0
+- http://philosophystorm.org/article/aleksandr-boldachev-informatsiya-i-dannye
 
 ### 15 декабря - Сборка картины мира архитектора познающих систем - Ильгизар Талипов
 - https://t.me/it_archcog/33
