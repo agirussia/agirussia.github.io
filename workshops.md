@@ -6,7 +6,7 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 8 декабря - "Информация... как много в этом звуке для..." - Александр Болдачев (писатель, философ, cистемный архитектор IT-проектов: блокчейн, семантические технологии)
+### 8 декабря - "Информация... как много в этом звуке для..." - Александр Болдачев (философ, cистемный архитектор IT-проектов: блокчейн, семантические технологии)
 - https://youtu.be/-_8OxZ4GyL0
 - http://philosophystorm.org/article/aleksandr-boldachev-informatsiya-i-dannye
 - [книги Александра Болдачева](https://www.ozon.ru/category/knigi-16500/?category_was_predicted=true&deny_category_prediction=true&from_global=true&text=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80+%D0%91%D0%BE%D0%BB%D0%B4%D0%B0%D1%87%D0%B5%D0%B2)
