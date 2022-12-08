@@ -6,11 +6,6 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 8 декабря - "Информация... как много в этом звуке для..." - Александр Болдачев (философ, cистемный архитектор IT-проектов: блокчейн, семантические технологии)
-- https://youtu.be/-_8OxZ4GyL0
-- http://philosophystorm.org/article/aleksandr-boldachev-informatsiya-i-dannye
-- [книги Александра Болдачева](https://www.ozon.ru/category/knigi-16500/?category_was_predicted=true&deny_category_prediction=true&from_global=true&text=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80+%D0%91%D0%BE%D0%BB%D0%B4%D0%B0%D1%87%D0%B5%D0%B2)
-
 ### 15 декабря - Сборка картины мира архитектора познающих систем - Ильгизар Талипов (независимый исследователь-аналитик)
 - https://t.me/it_archcog/33
 
@@ -46,6 +41,12 @@
 ### 23 февраля - ... - уточняется
 
 ## Прошедшие семинары и мероприятия
+
+### 8 декабря - "Информация... как много в этом звуке для..." - Александр Болдачев (философ, cистемный архитектор IT-проектов: блокчейн, семантические технологии)
+[![Watch the video](https://img.youtube.com/vi/878E4Azq6tc/hqdefault.jpg)](https://youtu.be/878E4Azq6tc)
+- https://youtu.be/-_8OxZ4GyL0
+- http://philosophystorm.org/article/aleksandr-boldachev-informatsiya-i-dannye
+- [книги Александра Болдачева](https://www.ozon.ru/category/knigi-16500/?category_was_predicted=true&deny_category_prediction=true&from_global=true&text=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80+%D0%91%D0%BE%D0%BB%D0%B4%D0%B0%D1%87%D0%B5%D0%B2)
 
 ### 1 декабря - Выбор требуемого результата и поиск способа его достижения в AGIFA - Виктор Артюхов
 [![Watch the video](https://img.youtube.com/vi/c9wOLWb4o9k/hqdefault.jpg)](https://youtu.be/c9wOLWb4o9k)
