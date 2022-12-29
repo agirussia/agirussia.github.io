@@ -36,7 +36,7 @@
 
 ### 29 декабря - Философские предпосылки формирования единого языка общения (терминологии) в области ИИ - Борис Новиков (независимый философ)
 [![Watch the video](https://img.youtube.com/vi/i2iqUVXSBeA/hqdefault.jpg)](https://youtu.be/i2iqUVXSBeA)
-https://dzen.ru/id/60587d3c307b527d37da27f3
+- https://dzen.ru/id/60587d3c307b527d37da27f3
 
 ### 22 декабря - Практика регулирования ИИ и будущее регулирования AGI - Андрей Незнамов (кандидат юридических наук, управляющий директор Центра регулирования искусственного интеллекта ПАО Сбербанк)
 [![Watch the video](https://img.youtube.com/vi/TWK29yLOhKs/hqdefault.jpg)](https://youtu.be/TWK29yLOhKs)
