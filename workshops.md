@@ -454,3 +454,4 @@ Lojban
 - https://agirussia.github.io/presentations/2021/Борис_Злотин_Направленая_Эволюция.pdf
 
 ## [Видео предыдущих семинаров на https://www.youtube.com/siberai](https://www.youtube.com/siberai)
+
