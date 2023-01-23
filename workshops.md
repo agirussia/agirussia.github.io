@@ -7,8 +7,7 @@
 *Мы приглашаем спикеров со своими темами!*
 
 ### 26 января 2023 - Какие технологии приведут нас к AGI? - Татьяна Шаврина (Исполнительный директор в управлении экспериментальных систем машинного обучения SberDevices, Руководитель исследовательских проектов в области NLP, Институт Искусственного Интеллекта AIRI)
-- https://press.sber.ru/publications/kakie-tekhnologii-privedut-nas-k-agi
-- https://press.sber.ru/authors/tatiana-shavrina
+- https://iling-ran.ru/web/ru/scholars/shavrina
 - https://t.me/rybolos_channel
 
 ### 2 февраля 2023 - Искусственные и биологические нейронные сети - Андрей Белкин
