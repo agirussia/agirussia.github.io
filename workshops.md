@@ -6,12 +6,6 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 9 февраля 2023 - AGI: Субъективная концепция когнитивных понятий" - Виктор Сенкевич (проект "Organoid AGI")
-- https://arxiv.org/abs/2202.03155
-- https://medium.com/@VictorSenkevich
-- https://link.medium.com/dAs8OAMbgwb
-- https://link.medium.com/OFC7Xyehjwb
-
 ### 16 февраля 2023 - ... - уточняется
 
 ### 2 марта 2023 - ИИ для "цифровых двойнков" - уточняется
@@ -69,6 +63,13 @@ https://agi-conf.org/2023/
 - https://real-ai.ru/demo/
 
 ## Прошедшие семинары и мероприятия
+
+### 9 февраля 2023 - AGI: Субъективная концепция когнитивных понятий" - Виктор Сенкевич (проект "Organoid AGI")
+[![Watch the video](https://img.youtube.com/vi/ycIPEjN9d0I/hqdefault.jpg)](https://youtu.be/ycIPEjN9d0I)
+- https://arxiv.org/abs/2202.03155
+- https://medium.com/@VictorSenkevich
+- https://link.medium.com/dAs8OAMbgwb
+- https://link.medium.com/OFC7Xyehjwb
 
 ### 2 февраля 2023 - Искусственные и биологические нейронные сети - Андрей Белкин
 [![Watch the video](https://img.youtube.com/vi/PtSE6kwGips/hqdefault.jpg)](https://youtu.be/PtSE6kwGips)
