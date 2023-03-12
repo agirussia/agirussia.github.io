@@ -56,6 +56,8 @@ https://vk.com/video/@agirussia
 - Свобода воли https://t.me/agirussia/46564
 - Характер дискуссий https://t.me/agirussia/47407
 - Одушевленность https://t.me/agirussia/48377
+- Кто что делает для AGI https://t.me/agirussia/56907
+- Есть ли AGI после GPT https://t.me/agirussia/57961
 
 ## Ресурсы сообщества
 - [Вики AGI-in-Russian](https://github.com/agirussia/agirussia.github.io/wiki)
