@@ -68,13 +68,13 @@
   - EMNLP A https://2022.emnlp.org/calls/papers/Important-Dates	Submission Deadline: Jun 17, 2022, Conference: Abu Dhabi, December 9-11, 2022
   - AAAI A https://aaai.org/Conferences/AAAI-23/ August 8, 2022: Abstracts due, Conference: February 7-14, 2023 at the Walter E. Washington Convention Center in Washington, DC, USA.
 - **Российские**
-  - http://damdid.org/ “Data Analytics and Management in Data Intensive Domains” conference (DAMDID), сентябрь 27–30, 2022
-  - http://neuroinfo.ru/ - "НЕЙРОИНФОРМАТИКА" – вопросы теории и приложений искусственных нейронных сетей, проблемы нейробиологии и системной биофизики, задачи адаптивного поведения и когнитивных исследований и другие актуальные проблемы нейронаук, октябрь 2022 
-  - https://www.dialog-21.ru/ - Компьютерная лингвистика и интеллектуальные технологии, 15-18 июня 2022
-  - https://ainlconf.ru/ AINL: Artificial Intelligence and Natural Language Conference, 14-15 апреля 2022
+  - https://ainlconf.ru/ AINL: Artificial Intelligence and Natural Language Conference, 20-22 апреля 2023
+  - https://www.dialog-21.ru/ - Компьютерная лингвистика и интеллектуальные технологии, 14-17 июня 2023
+  - http://math.nsc.ru/conference/zont/23/ Международная конференция «Знания-Онтологии-Теории», 2–6 октября 2023 (1 раз в 2 года) 
+  - http://neuroinfo.ru/ - "НЕЙРОИНФОРМАТИКА" – вопросы теории и приложений искусственных нейронных сетей, проблемы нейробиологии и системной биофизики, задачи адаптивного поведения и когнитивных исследований и другие актуальные проблемы нейронаук, 23-27 октябрь 2023
+  - https://ai-journey.ru/ AI Journey — серия мероприятий по искусственному интеллекту и анализу данных, проводимая ведущими российскими и международными компаниями, лидерами по разработке и применению технологий искусственного интеллекта, декабрь 2023
   - https://opentalks.ai/ OpenTalks.AI — ведущая независимая открытая конференция по искусственному интеллекту в России, февраль 2022
-  - https://ai-journey.ru/ AI Journey — серия мероприятий по искусственному интеллекту и анализу данных, проводимая ведущими российскими и международными компаниями, лидерами по разработке и применению технологий искусственного интеллекта, декабрь 2021
-  - http://math.nsc.ru/conference/zont/21/ Международная конференция «Знания-Онтологии-Теории», октябрь 2021 (1 раз в 2 года) 
+  - http://damdid.org/ “Data Analytics and Management in Data Intensive Domains” conference (DAMDID), сентябрь 27–30, 2022
   - http://itnt-conf.org/index.php Международная конференция и молодёжная школа «Информационные технологии и нанотехнологии»
   - http://mmro.ru/ Всероссийская конференция с международным участием «Математические методы распознавания образов»
   - https://neuro.kaspersky.ru/conference/ - Kaspersky Neuromorphic AI 2022, международная конференция, посвященная нейроморфным технологиям ИИ и их применению в промышленности, октябрь 2022
