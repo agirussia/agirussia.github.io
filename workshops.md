@@ -8,7 +8,10 @@
 
 ### 25 мая 2023 - Искусственный интеллект с эмоциями и моделью разума или что нужно знать, чтобы создать ChatGPT - Владимир Радкевич (Технический директор ЕЮС Тех)
 
-### 1 июня 2023 - Новые приключения в интерепретируемом NLP - Антон Колонин (кандидат технических наук, ведущий специалист НГУ, основатель Aigents, архитектор SingularityNET) - уточняется
+### 1 июня 2023 - Новые приключения в интерепретируемом NLP - Антон Колонин (кандидат технических наук, ведущий специалист НГУ, основатель Aigents, архитектор SingularityNET)
+- https://github.com/aigents/pygents/blob/main/docs/2023/inlp-2023.pdf
+- https://github.com/aigents/pygents/blob/main/docs/2023/evolution_comm_codes_kolonin_2023_1.pdf
+- https://github.com/aigents/pygents/tree/main/notebooks/nlp/tokenization#results
 
 ### 8 июня 2023 - FractalGPT - Захар Понимаш - уточняется
 
