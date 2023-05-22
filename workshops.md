@@ -11,7 +11,7 @@
 - https://github.com/aigents/pygents/blob/main/docs/2023/evolution_comm_codes_kolonin_2023_1.pdf
 - https://github.com/aigents/pygents/tree/main/notebooks/nlp/tokenization#results
 
-### 8 июня 2023 - FractalGPT - Захар Понимаш - уточняется
+### 8 июня 2023 - FractalGPT - Захар Понимаш
 
 ### 15 июня 2023 - Событийный язык описания деятельности" (с примерами, демонстрацией и рассказом как ему СhatGPT обучали) - Александр Болдачев - уточняется
 - https://habr.com/ru/post/706916/
