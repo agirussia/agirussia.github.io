@@ -6,11 +6,6 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 1 июня 2023 - Новые приключения в интерепретируемом NLP - Антон Колонин (кандидат технических наук, ведущий специалист НГУ, основатель Aigents, архитектор SingularityNET)
-- https://github.com/aigents/pygents/blob/main/docs/2023/inlp-2023.pdf
-- https://github.com/aigents/pygents/blob/main/docs/2023/evolution_comm_codes_kolonin_2023_1.pdf
-- https://github.com/aigents/pygents/tree/main/notebooks/nlp/tokenization#results
-
 ### 8 июня 2023 - FractalGPT - Захар Понимаш
 
 ### 15 июня 2023 - Событийный язык описания деятельности" (с примерами, демонстрацией и рассказом как ему СhatGPT обучали) - Александр Болдачев - уточняется
@@ -50,6 +45,12 @@ https://agi-conf.org/2023/2023-workshops/
 ### 31 августа 2023 - ... - уточняется
 
 ## Прошедшие семинары и мероприятия
+
+### 1 июня 2023 - Новые приключения в интерепретируемом NLP - Антон Колонин (кандидат технических наук, ведущий специалист НГУ, основатель Aigents, архитектор SingularityNET)
+[![Watch the video](https://img.youtube.com/vi/RU2T0OFJJB4/hqdefault.jpg)](https://youtu.be/RU2T0OFJJB4)
+- https://github.com/aigents/pygents/blob/main/docs/2023/inlp-2023.pdf
+- https://github.com/aigents/pygents/blob/main/docs/2023/evolution_comm_codes_kolonin_2023_1.pdf
+- https://github.com/aigents/pygents/tree/main/notebooks/nlp/tokenization#results
 
 ### 18 мая 2023 - Ценностная концепция сознания - Денис Назипов
 [![Watch the video](https://img.youtube.com/vi/Rh1cQbSOGIk/hqdefault.jpg)](https://youtu.be/Rh1cQbSOGIk)
