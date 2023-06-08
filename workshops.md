@@ -50,6 +50,7 @@ https://agi-conf.org/2023/2023-workshops/
 
 ### 8 июня 2023 - FractalGPT - Захар Понимаш
 [![Watch the video](https://img.youtube.com/vi/ZgGR5ypaJ0I/hqdefault.jpg)](https://youtu.be/ZgGR5ypaJ0I)
+- https://t.me/fractal_gpt
 
 ### 1 июня 2023 - Новые приключения в интерепретируемом NLP - Антон Колонин (кандидат технических наук, ведущий специалист НГУ, основатель Aigents, архитектор SingularityNET)
 [![Watch the video](https://img.youtube.com/vi/RU2T0OFJJB4/hqdefault.jpg)](https://youtu.be/RU2T0OFJJB4)
