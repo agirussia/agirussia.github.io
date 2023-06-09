@@ -32,9 +32,6 @@
 - https://www.linkedin.com/pulse/russia-china-europes-trillion-trans-ai-projects-make-war-abdoullaev/?published=t
 
 ### 27 июля 2023 - ... - уточняется
-- https://habr.com/ru/post/706916/
-- https://habr.com/ru/post/708026/
-- https://www.osp.ru/os/2021/03/13055996 (Открытые системы. СУБД, №03, 2021)
 
 ### 3 августа 2023 - летние каникулы
 
