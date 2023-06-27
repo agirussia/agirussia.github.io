@@ -16,6 +16,7 @@
 - https://real-ai.ru/demo/
 
 ### 13 июля 2023 - Основные направления развития фундаментальных моделей машинного обучения на пути к AGI - Сергей Марков (Директор дирекции по ИТ Сбербанк)
+- https://www.youtube.com/watch?v=0LfAoidyAe8
 
 ### 20 июля 2023 - Машинное мировоззрение: построение альтернативного правдивого ИИ (Truth AI); ИИ как альтернативный устойчивый интеллект (ASI) - Азамат Абдулаев - уточняется
 - https://www.linkedin.com/pulse/russia-china-europes-trillion-trans-ai-projects-make-war-abdoullaev/?published=t
