@@ -32,6 +32,12 @@
 ### 7 сентября 2023 - Новое поколение DLT: Trusted Semantic Network (DLT+Semantic+LLM) - Александр Болдачев (уточняется)
 - https://hub.forklog.com/semanticheskij-web-chto-takoe-sobytijnaya-semantika-i-kak-ona-prishla-iz-filosofii-v-it/
 
+### 14 сентября 2023 - ... - уточняется
+
+### 21 сентября 2023 - ... - уточняется
+
+### 28 сентября 2023 - ... - уточняется
+
 ## Прошедшие семинары и мероприятия
 
 ### 6 июля 2023 - Cемантический анализатор - Александр Гурьев
