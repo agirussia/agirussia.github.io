@@ -6,9 +6,6 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 13 июля 2023 - Основные направления развития фундаментальных моделей машинного обучения на пути к AGI - Сергей Марков (директор Управления экспериментальных систем машинного обучения SberDevices)
-- https://www.youtube.com/watch?v=0LfAoidyAe8
-
 ### 20 июля 2023 - Машинное мировоззрение: построение альтернативного правдивого ИИ (Truth AI); ИИ как альтернативный устойчивый интеллект (ASI) - Азамат Абдулаев - уточняется
 - https://www.linkedin.com/pulse/russia-china-europes-trillion-trans-ai-projects-make-war-abdoullaev/?published=t
 
@@ -45,6 +42,9 @@
 ### 5 октября 2023 - GPT + планирование = AGI? - Юрий Бабуров - уточняется
 
 ## Прошедшие семинары и мероприятия
+
+### 13 июля 2023 - Основные направления развития фундаментальных моделей машинного обучения на пути к AGI - Сергей Марков (директор Управления экспериментальных систем машинного обучения SberDevices)
+[![Watch the video](https://img.youtube.com/vi/XOlMOBZsF24/hqdefault.jpg)](https://youtu.be/XOlMOBZsF24)
 
 ### 6 июля 2023 - Cемантический анализатор - Александр Гурьев
 [![Watch the video](https://img.youtube.com/vi/VqAi6NVDHes/hqdefault.jpg)](https://youtu.be/VqAi6NVDHes)
