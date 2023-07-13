@@ -45,6 +45,7 @@
 
 ### 13 июля 2023 - Основные направления развития фундаментальных моделей машинного обучения на пути к AGI - Сергей Марков (директор Управления экспериментальных систем машинного обучения SberDevices)
 [![Watch the video](https://img.youtube.com/vi/XOlMOBZsF24/hqdefault.jpg)](https://youtu.be/XOlMOBZsF24)
+- https://t.me/oulenspiegel_channel
 
 ### 6 июля 2023 - Cемантический анализатор - Александр Гурьев
 [![Watch the video](https://img.youtube.com/vi/VqAi6NVDHes/hqdefault.jpg)](https://youtu.be/VqAi6NVDHes)
