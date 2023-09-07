@@ -6,9 +6,6 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 7 сентября 2023 - Новое поколение DLT: Trusted Semantic Network (DLT+Semantic+LLM) - Александр Болдачев (философ, cистемный архитектор IT-проектов: блокчейн, семантические технологии)
-- https://hub.forklog.com/semanticheskij-web-chto-takoe-sobytijnaya-semantika-i-kak-ona-prishla-iz-filosofii-v-it/
-
 ### 14 сентября 2023 - Как мультимодальные модели учатся понимать текст, картинки, видео и аудио - Андрей Кузнецов (исполнительный директор по исследованию данных Sber AI)
 
 ### 21 сентября 2023 - Что есть сознание, есть ли оно и нужно ли оно естественным и искусственным интеллектам c практической точки зрения - круглый стол (Сергей Шумский, Михаил Киселев, Анна Заря, Антон Колонин)
@@ -46,6 +43,10 @@
 ### 30 ноября 2023 - ... - уточняется
 
 ## Прошедшие семинары и мероприятия
+
+### 7 сентября 2023 - Новое поколение DLT: Trusted Semantic Network (DLT+Semantic+LLM) - Александр Болдачев (философ, cистемный архитектор IT-проектов: блокчейн, семантические технологии)
+[![Watch the video](https://img.youtube.com/vi/FQQ7umzDXhI/hqdefault.jpg)](https://youtu.be/FQQ7umzDXhI)
+- https://hub.forklog.com/semanticheskij-web-chto-takoe-sobytijnaya-semantika-i-kak-ona-prishla-iz-filosofii-v-it/
 
 ### 24 августа 2023 - Лабораторный измерительный практикум: интеллект = знания + обучаемость? - Юрий Бабуров (CTO компании DreamDocs, преподаватель НГУ)
 [![Watch the video](https://img.youtube.com/vi/NYDY6xwTvOA/hqdefault.jpg)](https://youtu.be/NYDY6xwTvOA)
