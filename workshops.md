@@ -32,6 +32,7 @@
 
 ### 5 октября 2023, 16:00 (время московское) - ИИ и блокчейн - будущее или хайп? (круглый стол) - А.Нам, А.Нечесов, А.Колонин, А.Галиева, Д. Пальчунов
 [![Watch the video](https://img.youtube.com/vi/1JflMlpvUUc/hqdefault.jpg)](https://youtu.be/1JflMlpvUUc)
+- [Расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2023/%D0%98%D0%98%20%D0%B8%20%D0%B1%D0%BB%D0%BE%D0%BA%D1%87%D0%B5%D0%B8%CC%86%D0%BD%20%E2%80%94%20%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5%20%D0%B8%D0%BB%D0%B8%20%D1%85%D0%B0%D0%B8%CC%86%D0%BF_%20%E2%80%94%D0%90.%D0%9D%D0%B0%D0%BC%2C%20%D0%90.%D0%9D%D0%B5%D1%87%D0%B5%D1%81%D0%BE%D0%B2%2C%20%D0%90.%D0%9A%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D0%BD%2C%20%D0%90.%D0%93%D0%B0%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%2C%20%D0%94.%20%D0%9F%D0%B0%D0%BB%D1%8C%D1%87%D1%83%D0%BD%D0%BE%D0%B2%E2%80%94%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20AGI.pdf) (В.Попов) 
 - А.Нам: Бизнес-кейсы применения ИИ и блокчейн, [Лаборатория блокчейн, СБЕР](https://sberlabs.com/laboratories/laboratoriya-blockchain/)
 - [С.Гончаров, А.Нечесов: Аксиоматизация теории блокчейна](https://www.mdpi.com/2227-7390/11/13/2966), ИМ СО РАН
 - [А.Колонин: Будущее блокчейна и Репутационный консенсус](https://dzen.ru/a/X9JKFEkHMFmDtQfS), НГУ
