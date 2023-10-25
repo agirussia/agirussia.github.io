@@ -23,8 +23,8 @@
 - Прогресс проекта Result GPT https://t.me/result_machine
 - Про Dreamer https://habr.com/ru/articles/568320/ и борьбу с эффектом бабочки
 - Про теорию познания: https://habr.com/ru/articles/562560/
-- Обзор состояния RL https://habr.com/ru/articles/468379/ и того, как они относятся к AGI. Немного устаревшая работа
-- Обзор нейроэволюции https://www.youtube.com/watch?v=RFT6Z02FEgc плюс описание, как она относится к AGI, и в видео тот вариант нейроэволюции, что максимально General
+- Обзор состояния RL https://habr.com/ru/articles/468379/ 
+- Обзор нейроэволюции в свете AGI https://www.youtube.com/watch?v=RFT6Z02FEgc 
 - Github: https://github.com/Kilorad/rl
 
 ### 14 декабря 2023 - ... - уточняется
