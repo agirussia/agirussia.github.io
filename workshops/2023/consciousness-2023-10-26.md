@@ -182,7 +182,7 @@
 
 
 
-_https://agirussia.org/
+https://agirussia.org/
 Мы ведем группы и организуем семинары русскоязычного сообщества разработчиков систем AGI (Artificial General Intelligence или Общий Искусственный Интеллект) или Strong AI (Сильный Искусственный Интеллект), а также - являющийся их частным случаем HLAI (Human-Level Artificial Intelligence или Искусственный Интеллект Человеческого Уровня).
 
 Группы:
@@ -203,4 +203,4 @@ https://groups.google.com/g/agirussia
 https://aigents.timepad.ru/event/1412596
 
 Программа следующих семинаров:
-https://agirussia.org/workshops.html_
+https://agirussia.org/workshops.html
