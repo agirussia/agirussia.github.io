@@ -66,6 +66,7 @@
 ### 26 октября 2023 18:00 мск - О природе сознания и проблеме "сознание - тело" - Александр Хомяков
 [![Watch the video](https://img.youtube.com/vi/jSL6ccQbfJU/hqdefault.jpg)](https://youtu.be/jSL6ccQbfJU)
 - [Расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2023/consciousness-2023-10-26.md)
+- [Расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2023/bondarenko-2023-11-09.md)
 - https://www.labirint.ru/books/769933/
 
 ### 12 октября 2023 - AGI: формирование иерархических компонентных взаимодействий со сложным миром - Владимир Смолин (ФИЦ ИПМ им. М.В.Келдыша РАН)
