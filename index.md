@@ -5,7 +5,7 @@
 ## Группы
 - https://t.me/agirussianews (новостной канал)
 - https://t.me/agirussia (основная и про технологии)
-- https://t.me/agiterms (вопросы терминологии и философии)
+- https://t.me/agitopics (тематические подгруппы)
 - https://t.me/agibots (разговорный интеллект и чат-боты)
 - https://t.me/agifintech (финансовые технологии)
 - https://t.me/agiethics (этика, мораль и экзистенциальный смысл)
