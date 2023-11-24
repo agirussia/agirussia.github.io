@@ -71,6 +71,7 @@
 
 ### 23 ноября 2023 17:00 мск - Влияние Сильного ИИ на общее развитие науки - Евгений Гарин (Директор центра долгосрочного прогнозирования НТР и СЭР ИНЭС РАН, эксперт аппарата Комиссии «Коммуникации, связь, цифровая экономика» Экспертно-координационного центра Комиссий Государственного Совета Российской Федерации)
 [![Watch the video](https://img.youtube.com/vi/SXiJLqcfe68/hqdefault.jpg)](https://youtu.be/SXiJLqcfe68)
+- [Расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2023/Garin-2023-11-23.md)
 - https://cyberleninka.ru/article/n/relyatsionnaya-model-innovatsionnogo-razvitiya-i-prognoz-nauchno-tehnicheskogo-razvitiya-na-ee-osnove
 - https://elibrary.ru/item.asp?id=25225149
 - https://vk.com/id212834176
