@@ -7,7 +7,6 @@
 *Мы приглашаем спикеров со своими темами!*
 
 ### 7 декабря 2023 17:00 мск - Субъектность и AGI - круглый стол (Константин Анохин, Сергей Шумский, Сергей Терехов, модератор: Игорь Пивоваров)
-- Материалы к семинару
 - [Константин Анохин, Сознание у искусственного интеллекта, 07.10.2023](https://youtu.be/2ZzS6P47dtc?si=UXWeihZjH1RjaQ5w)
 - (Patrick Butlin, et.al., Consciousness in Artificial Intelligence: Insights from the Science of Consciousness)[https://arxiv.org/pdf/2308.08708.pdf]
 
