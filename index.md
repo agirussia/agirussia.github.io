@@ -11,9 +11,9 @@
 - https://t.me/agiethics (этика, мораль и экзистенциальный смысл)
 - https://t.me/aigentsrussia (персональные интеллектуальные ассистенты)
 - https://t.me/collectivei (коллективный интеллект)
-- https://www.facebook.com/groups/agirussia (основная)
+- https://www.facebook.com/groups/agirussia (основная для жителей FB)
 - https://www.facebook.com/groups/socialintelligence (коллективный интеллект)
-- https://vk.com/agirussia
+- https://vk.com/agirussia (основная для жителей ВК)
 - https://groups.google.com/g/agirussia
 
 ## Онлайн-семинары
