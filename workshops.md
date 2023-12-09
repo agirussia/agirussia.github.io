@@ -33,7 +33,7 @@
   - Конкретный алгоритм реализующий "Золотое правило" (проект с открытым кодом)
   - Недостатки такого подхода
 - Доклад: Антон Колонин @akolonin - текучая репутация для персональных цифровых ассистентов
-  - [Текучая репутация - что это?] (https://arxiv.org/pdf/1811.08149.pdf)
+  - [Текучая репутация - что это?](https://arxiv.org/pdf/1811.08149.pdf)
   - [Текучая репутация как консенсус для распределенных реестров](https://aigents.com/papers/2023/proof-of-reputation-2023.pdf)
   - [Текучая репутация в онлайн группах на примере Telegram](https://dzen.ru/media/aigents/chto-bot-aigents-umeet-v-telegram-5fcd08bf8f8c7853edb22bc8)
   - [Текучая репутация в Aigents (проект с открытым кодом)](https://github.com/aigents/aigents-java/blob/master/doc/aigents_reports.md)
