@@ -6,19 +6,6 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 14 декабря 2023 17:00 мск - Result GPT: применение мультимодальных трансформеров в задачах управления - Сергей Довгань
-- Тезисы доклада
-  - Какое отношение имеет обучение с подкреплением к AGI
-  - Чего не хватает обучению с подкреплением
-  - GPT, которая умеет не только генерировать текст, но и управлять
-  - Варианты организации памяти в Result GPT
-- Материалы автора
-  - Прогресс проекта Result GPT https://t.me/result_machine
-  - Про Dreamer https://habr.com/ru/articles/568320/ и борьбу с эффектом бабочки
-  - Про теорию познания: https://habr.com/ru/articles/562560/
-  - Обзор состояния RL https://habr.com/ru/articles/468379/ 
-  - Github: https://github.com/Kilorad/rl
-
 ### 21 декабря 2023 17:00 мск - Самоорганизация профессиональных и экспертных сообществ на примере AGIRussia (круглый стол) - Антон Колонин, Никита Розанов, Борис Новиков, Владимир Смолин и все желающие
 - Краткая история сообщества [AGI-in-Russian](https://agirussia.org/) и [коллективного интеллекта](https://github.com/agirussia/agirussia.github.io/wiki/AGI-%D0%BA%D0%B0%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82) в нем, [регламент](https://t.me/agirussia/75), "оргруппа/редколлегия" и [бот Aigents](https://dzen.ru/media/aigents/chto-bot-aigents-umeet-v-telegram-5fcd08bf8f8c7853edb22bc8)
 - Вопросы для обсуждения
@@ -80,6 +67,20 @@
 
 
 ## Прошедшие семинары и мероприятия
+
+### 14 декабря 2023 17:00 мск - Result GPT: применение мультимодальных трансформеров в задачах управления - Сергей Довгань
+[![Watch the video](https://img.youtube.com/vi/gas4OWpvZcQ/hqdefault.jpg)](https://youtu.be/gas4OWpvZcQ)
+- Тезисы доклада
+  - Какое отношение имеет обучение с подкреплением к AGI
+  - Чего не хватает обучению с подкреплением
+  - GPT, которая умеет не только генерировать текст, но и управлять
+  - Варианты организации памяти в Result GPT
+- Материалы автора
+  - Прогресс проекта Result GPT https://t.me/result_machine
+  - Про Dreamer https://habr.com/ru/articles/568320/ и борьбу с эффектом бабочки
+  - Про теорию познания: https://habr.com/ru/articles/562560/
+  - Обзор состояния RL https://habr.com/ru/articles/468379/ 
+  - Github: https://github.com/Kilorad/rl
 
 ### 7 декабря 2023 17:00 мск - Субъектность и AGI - круглый стол (Константин Анохин, Сергей Шумский, Сергей Терехов, модератор: Игорь Пивоваров)
 [![Watch the video](https://img.youtube.com/vi/w20aF0eFeig/hqdefault.jpg)](https://youtu.be/w20aF0eFeig)
