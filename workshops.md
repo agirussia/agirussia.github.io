@@ -58,6 +58,9 @@
 - https://habr.com/ru/users/aigame/publications/articles/
 
 ### 14 марта 2024 17:00 мск - "Через сопротивление энтропии - к языку" - Владимир Булыгин - уточняется
+- https://habr.com/ru/articles/656999/
+- https://habr.com/ru/articles/673616/
+- https://habr.com/ru/articles/678604/
 
 ### 21 марта 2024 17:00 мск - ... - уточняется
 
