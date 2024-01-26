@@ -68,6 +68,7 @@
 
 ### 25 января 2024 17:00 мск - AI Alignment, Emergent Properties и наши ожидания от следующего поколения LLM в 2024 году - Татьяна Шаврина (Principal Machine Learning Engineer, Snapchat)
 [![Watch the video](https://img.youtube.com/vi/Pvm68e-cc6U/hqdefault.jpg)](https://youtu.be/Pvm68e-cc6U)
+- [Расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/AI_Alignment%2C_Emergent_Properties%2C_expectations_from_the_next_LLM.md)
 - https://t.me/rybolos_channel
 - https://www.linkedin.com/in/tatiana-shavrina/
 
