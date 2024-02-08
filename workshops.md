@@ -63,6 +63,7 @@
 ### 8 февраля 2024 17:00 мск - Семантическое представление онтологий, структуры данных и языки, унификация, интеграция и стандартизация - Валерьян Ивашенко (БГУИР)
 [![Watch the video](https://img.youtube.com/vi/BH9sGJ-2DP4/hqdefault.jpg)](https://youtu.be/BH9sGJ-2DP4)
 - https://www.bsuir.by/ru/kaf-iit/ivashenko-v-p
+- https://ims.ostis.net/
 
 ### 1 февраля 2024 17:00 мск - Архитектурный подход к моделированию общего ИИ - Борис Славин (профессор Финансового университета при правительстве РФ)
 [![Watch the video](https://img.youtube.com/vi/om7Fa4D2D9Y/hqdefault.jpg)](https://youtu.be/om7Fa4D2D9Y)
