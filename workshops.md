@@ -63,11 +63,13 @@
 
 ### 8 февраля 2024 17:00 мск - Семантическое представление онтологий, структуры данных и языки, унификация, интеграция и стандартизация - Валерьян Ивашенко (БГУИР)
 [![Watch the video](https://img.youtube.com/vi/BH9sGJ-2DP4/hqdefault.jpg)](https://youtu.be/BH9sGJ-2DP4)
+- [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2024/agirussia_20240208_ivashenko.pptx)
 - https://www.bsuir.by/ru/kaf-iit/ivashenko-v-p
 - https://ims.ostis.net/
 
 ### 1 февраля 2024 17:00 мск - Архитектурный подход к моделированию общего ИИ - Борис Славин (профессор Финансового университета при правительстве РФ)
 [![Watch the video](https://img.youtube.com/vi/om7Fa4D2D9Y/hqdefault.jpg)](https://youtu.be/om7Fa4D2D9Y)
+- [Расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/An_architectural_approach_to_modeling_general_AI_Boris_Slavin_AGI.md)
 - https://www.cell.com/heliyon/pdf/S2405-8440(23)01650-X.pdf
 
 ### 25 января 2024 17:00 мск - AI Alignment, Emergent Properties и наши ожидания от следующего поколения LLM в 2024 году - Татьяна Шаврина (Principal Machine Learning Engineer, Snapchat)
