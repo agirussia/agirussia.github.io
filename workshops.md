@@ -63,6 +63,7 @@
 
 ### 8 февраля 2024 17:00 мск - Семантическое представление онтологий, структуры данных и языки, унификация, интеграция и стандартизация - Валерьян Ивашенко (БГУИР)
 [![Watch the video](https://img.youtube.com/vi/BH9sGJ-2DP4/hqdefault.jpg)](https://youtu.be/BH9sGJ-2DP4)
+- [Расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Semantic_representation_of_ontologies%2C_data_structures_and_languages.md)
 - [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2024/agirussia_20240208_ivashenko.pptx)
 - https://www.bsuir.by/ru/kaf-iit/ivashenko-v-p
 - https://ims.ostis.net/
