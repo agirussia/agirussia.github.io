@@ -6,11 +6,6 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 15 февраля 2024 17:00 мск - Объектно-признаковые данные: от философии до визуализации через математику и программирование - Алексей Незнанов (к.т.н., доцент. Член IEEE, РАИИ, НБМЗ, Senior Data Scientist в компании Шлюмберже, Старший научный сотрудник международной лаборатории интеллектуальных систем и структурного анализа ФКН НИУ ВШЭ)
-- http://cs.hse.ru/ai/issa
-- http://postnauka.ru/author/a_neznanov
-- https://yandex.ru/video/preview/803415799613384695
-
 ### 22 февраля 2024 17:00 мск - Построение сложных самоорганизующихся систем AGI из Базовых Компонентов Разума (БКР) - Виктор Артюхов
 - https://github.com/LiveBaster
 - Тезисы:
@@ -61,6 +56,20 @@
 ### 25 апреля 2024 18:00 мск - ... - уточняется
 
 ## Прошедшие семинары и мероприятия
+
+### 15 февраля 2024 17:00 мск - Объектно-признаковые данные: от философии до визуализации через математику и программирование - Алексей Незнанов (к.т.н., доцент. Член IEEE, РАИИ, НБМЗ, Senior Data Scientist в компании Шлюмберже, Старший научный сотрудник международной лаборатории интеллектуальных систем и структурного анализа ФКН НИУ ВШЭ)
+[![Watch the video](https://img.youtube.com/vi/hbcDZIZhdhM/hqdefault.jpg)](https://youtu.be/hbcDZIZhdhM)
+- [Расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Object_value_data_from_philosophy_to_visualization_Alexey_Neznanov.md)
+- http://cs.hse.ru/ai/issa
+- http://postnauka.ru/author/a_neznanov
+- https://yandex.ru/video/preview/803415799613384695
+- Ссылки доклада:
+ - https://lets-plot.org/
+ - https://github.com/microsoft/lida
+ - https://ieeexplore.ieee.org/document/10119327
+ - https://browser.timeviz.net/
+ - https://arxiv.org/pdf/2310.10196.pdf
+ - https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM
 
 ### 8 февраля 2024 17:00 мск - Семантическое представление онтологий, структуры данных и языки, унификация, интеграция и стандартизация - Валерьян Ивашенко (БГУИР)
 [![Watch the video](https://img.youtube.com/vi/BH9sGJ-2DP4/hqdefault.jpg)](https://youtu.be/BH9sGJ-2DP4)
