@@ -64,12 +64,12 @@
 - http://postnauka.ru/author/a_neznanov
 - https://yandex.ru/video/preview/803415799613384695
 - Ссылки доклада:
- - https://lets-plot.org/
- - https://github.com/microsoft/lida
- - https://ieeexplore.ieee.org/document/10119327
- - https://browser.timeviz.net/
- - https://arxiv.org/pdf/2310.10196.pdf
- - https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM
+  - https://lets-plot.org/
+  - https://github.com/microsoft/lida
+  - https://ieeexplore.ieee.org/document/10119327
+  - https://browser.timeviz.net/
+  - https://arxiv.org/pdf/2310.10196.pdf
+  - https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM
 
 ### 8 февраля 2024 17:00 мск - Семантическое представление онтологий, структуры данных и языки, унификация, интеграция и стандартизация - Валерьян Ивашенко (БГУИР)
 [![Watch the video](https://img.youtube.com/vi/BH9sGJ-2DP4/hqdefault.jpg)](https://youtu.be/BH9sGJ-2DP4)
