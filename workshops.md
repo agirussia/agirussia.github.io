@@ -55,6 +55,7 @@
 ### 22 февраля 2024 17:00 мск - Построение сложных самоорганизующихся систем AGI из Базовых Компонентов Разума (БКР) - Виктор Артюхов
 [![Watch the video](https://img.youtube.com/vi/9A0EaFVol9Q/hqdefault.jpg)](https://youtu.be/9A0EaFVol9Q)
 - [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2024/agirussia_20240222_Artyukhov_Victor_AGIFA_004.pdf)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Building_complex_self_organizing_AGI_systems_from_BCRs_Victor_Artyukhov.md)
 - Тезисы:
   1. Определение требований к AGI и схема деления на компоненты
   2. Определение требований к Базовому Компоненту Разума (БКР)
