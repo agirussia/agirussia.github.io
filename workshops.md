@@ -6,9 +6,6 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 28 февраля - 1 марта 2024 - Beneficial AGI Summit & Unconference
-- https://bgi24.ai/
-
 ### 6-7 марта 2024 - Конференция OpenTalks.AI в Тбилиси
 - https://opentalks.ai/ru
 
@@ -51,6 +48,10 @@
 ### 30 мая 2024 18:00 мск - ... - уточняется
 
 ## Прошедшие семинары и мероприятия
+
+### 27 февраля - 1 марта 2024 - Beneficial AGI Summit & Unconference
+[![Watch the video](https://img.youtube.com/vi/yQTjsp5tC5Y/hqdefault.jpg)](https://youtu.be/yQTjsp5tC5Y)
+- https://bgi24.ai/ 
 
 ### 22 февраля 2024 17:00 мск - Построение сложных самоорганизующихся систем AGI из Базовых Компонентов Разума (БКР) - Виктор Артюхов
 [![Watch the video](https://img.youtube.com/vi/9A0EaFVol9Q/hqdefault.jpg)](https://youtu.be/9A0EaFVol9Q)
