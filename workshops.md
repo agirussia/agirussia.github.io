@@ -6,11 +6,6 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 14 марта 2024 17:00 мск - "Через сопротивление энтропии - к языку" - Владимир Булыгин - уточняется
-- https://habr.com/ru/articles/656999/
-- https://habr.com/ru/articles/673616/
-- https://habr.com/ru/articles/678604/
-
 ### 21 марта 2024 17:00 мск - Самоорганизация профессиональных и экспертных сообществ на примере AGIRussia (часть 3)
 - Доклад: Антон Колонин
   - Технические ресурсы сообщества [AGI-in-Russian](https://agirussia.org/) https://github.com/agirussia/agirussia.github.io/
@@ -68,6 +63,12 @@
 ### 27 июня 2024 18:00 мск - ... - уточняется
 
 ## Прошедшие семинары и мероприятия
+
+### 14 марта 2024 17:00 мск - "Через сопротивление энтропии - к языку" - Владимир Булыгин - уточняется
+[![Watch the video](https://img.youtube.com/vi/gFGXNZgLFaA/hqdefault.jpg)](https://youtu.be/gFGXNZgLFaA)
+- https://habr.com/ru/articles/656999/
+- https://habr.com/ru/articles/673616/
+- https://habr.com/ru/articles/678604/
 
 ### 27 февраля - 1 марта 2024 - Beneficial AGI Summit & Unconference
 [![Watch the video](https://img.youtube.com/vi/yQTjsp5tC5Y/hqdefault.jpg)](https://youtu.be/yQTjsp5tC5Y)
