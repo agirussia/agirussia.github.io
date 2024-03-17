@@ -66,6 +66,7 @@
 
 ### 14 марта 2024 17:00 мск - "Через сопротивление энтропии - к языку" - Владимир Булыгин - уточняется
 [![Watch the video](https://img.youtube.com/vi/gFGXNZgLFaA/hqdefault.jpg)](https://youtu.be/gFGXNZgLFaA)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Through_entropy_resistance_to_language_Vladimir_Bulygin_AGI_Seminar.md)
 - https://habr.com/ru/articles/656999/
 - https://habr.com/ru/articles/673616/
 - https://habr.com/ru/articles/678604/
