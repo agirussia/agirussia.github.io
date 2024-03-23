@@ -56,6 +56,7 @@
 
 ### 21 марта 2024 17:00 мск - Самоорганизация профессиональных и экспертных сообществ на примере AGIRussia (часть 3)
 [![Watch the video](https://img.youtube.com/vi/NwZqZUaWPVo/hqdefault.jpg)](https://youtu.be/NwZqZUaWPVo)
+[расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Self_organization_of_professional_and_expert_communities_on_the.md)
 - Доклад: Антон Колонин
   - Технические ресурсы сообщества [AGI-in-Russian](https://agirussia.org/) https://github.com/agirussia/agirussia.github.io/
   - Текучая репутация - что это такое и зачем она нужна https://arxiv.org/pdf/1811.08149.pdf
