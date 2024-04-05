@@ -51,7 +51,7 @@
 
 ### 4 апреля 2024 18:00 мск - AIXI: алгоритмическая индукция как основа для интеллекта - Сергей Довгань
 [![Watch the video](https://img.youtube.com/vi/klsvJoAJsFQ/hqdefault.jpg)](https://youtu.be/klsvJoAJsFQ)
-- [слайды]([https://github.com/agirussia/agirussia.github.io/tree/main/presentations/2024](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2024/AIXI.pptx))
+- [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2024/AIXI.pptx)
 - https://github.com/Kilorad/aixi_booster
 - https://t.me/result_machine
 - [материалы по теме](https://docs.google.com/document/d/1gp9L8EEmocoZ_0bNNfhxV-Cp1104XUt0nVQIa8r6K1s/edit)
