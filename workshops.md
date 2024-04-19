@@ -55,6 +55,7 @@
 ### 18 апреля 2024 18:00 мск - Реверс-инжиниринг механизмов биологической памяти и подкрепления - Андрей Белкин
 [![Watch the video](https://img.youtube.com/vi/zy6Z5rcBYt8/hqdefault.jpg)](https://youtu.be/zy6Z5rcBYt8)
 - Систематизация и анализ знаний о механизмах биологической памяти в единую систему; Три механизма биологической памяти; О том, как происходит подкрепление в биологических нервных системах
+- [расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Reverse_engineering_the_mechanisms_of_biological_memory_and_reinforcement.md)
 - https://habr.com/ru/users/aigame/publications/articles/
 - https://belkinandrey.github.io/
 
