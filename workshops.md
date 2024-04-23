@@ -12,6 +12,9 @@
 - https://cyberpravda.com
 
 ### 23 мая 2024 18:00 мск - MeTTa, AI DSL, Hyperon - Алексей Потапов - уточняется
+- https://github.com/singnet/ai-dsl
+- [AI-DSL Phase 2 — Final report](https://blog.singularitynet.io/ai-dsl-phase-2-final-report-fc09f8b99c90)
+- [AI-DSL: Toward a General-Purpose Description Language for AI Agents](https://blog.singularitynet.io/ai-dsl-toward-a-general-purpose-description-language-for-ai-agents-21459f691b9e)
 
 ### 30 мая 2024 18:00 мск - Карты знаний: усиление коллективного естественного интеллекта - Константин Воронцов - уточняется
 
