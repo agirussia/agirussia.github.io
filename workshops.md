@@ -6,10 +6,7 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 16 мая 2024 18:00 мск - CyberPravda.com — интернациональная независимая платформа для краудсорсинга достоверной информации и оценки репутации ее авторов - Тимур Садеков — (основатель и CEO CyberPravda.com)
-- https://cyberpravda.com
-
-### 23 мая 2024 18:00 мск - MeTTa, AI DSL, Hyperon - Алексей Потапов - уточняется
+### 23 мая 2024 18:00 мск - MeTTa, AI DSL, Hyperon - Алексей Потапов
 - https://github.com/singnet/ai-dsl
 - [AI-DSL Phase 2 — Final report](https://blog.singularitynet.io/ai-dsl-phase-2-final-report-fc09f8b99c90)
 - [AI-DSL: Toward a General-Purpose Description Language for AI Agents](https://blog.singularitynet.io/ai-dsl-toward-a-general-purpose-description-language-for-ai-agents-21459f691b9e)
@@ -54,6 +51,10 @@
 ### 29 августа 2024 18:00 мск - ... - уточняется
 
 ## Прошедшие семинары и мероприятия
+
+### 16 мая 2024 18:00 мск - CyberPravda.com — интернациональная независимая платформа для краудсорсинга достоверной информации и оценки репутации ее авторов - Тимур Садеков — (основатель и CEO CyberPravda.com)
+[![Watch the video](https://img.youtube.com/vi/LiKa7UUCSno/hqdefault.jpg)](https://youtu.be/LiKa7UUCSno)
+- https://cyberpravda.com
 
 ### 18 апреля 2024 18:00 мск - Реверс-инжиниринг механизмов биологической памяти и подкрепления - Андрей Белкин
 [![Watch the video](https://img.youtube.com/vi/zy6Z5rcBYt8/hqdefault.jpg)](https://youtu.be/zy6Z5rcBYt8)
