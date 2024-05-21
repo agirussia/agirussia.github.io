@@ -44,7 +44,9 @@
 
 ### 25 июля 2024 18:00 мск - ... - уточняется
 
-### 15 августа 2024 18:00 мск - ... - уточняется
+### 13-16 августа 2024 - AGI 2024 - The 17th Annual AGI Conference
+- https://agi-conference.org/2024/
+- https://payqlick.com/events/agi2024/registration2024/
 
 ### 22 августа 2024 18:00 мск - ... - уточняется
 
