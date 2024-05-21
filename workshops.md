@@ -54,6 +54,10 @@
 
 ## Прошедшие семинары и мероприятия
 
+## 20 мая 2024 - О сильном и общем ИИ - Антон Колонин и Елена Покатаева - Интервью AGI для BIS Journal
+[![Watch the video](https://img.youtube.com/vi/G-SusjSIXKM/hqdefault.jpg)](https://youtu.be/G-SusjSIXKM)
+- https://ib-bank.ru/bisjournal/
+
 ### 16 мая 2024 18:00 мск - CyberPravda.com — интернациональная независимая платформа для краудсорсинга достоверной информации и оценки репутации ее авторов - Тимур Садеков — (основатель и CEO CyberPravda.com)
 [![Watch the video](https://img.youtube.com/vi/LiKa7UUCSno/hqdefault.jpg)](https://youtu.be/LiKa7UUCSno)
 - [расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/CyberPravda_com_an_independent_platform_for_crowdsourcing_T_Sadekov.md)
