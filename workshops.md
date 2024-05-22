@@ -56,6 +56,7 @@
 
 ## 20 мая 2024 - О сильном и общем ИИ - Антон Колонин и Елена Покатаева - Интервью AGI для BIS Journal
 [![Watch the video](https://img.youtube.com/vi/G-SusjSIXKM/hqdefault.jpg)](https://youtu.be/G-SusjSIXKM)
+- [расшифровка интервью](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/kolonin_for_bis_journal.md)
 - https://ib-bank.ru/bisjournal/
 
 ### 16 мая 2024 18:00 мск - CyberPravda.com — интернациональная независимая платформа для краудсорсинга достоверной информации и оценки репутации ее авторов - Тимур Садеков — (основатель и CEO CyberPravda.com)
