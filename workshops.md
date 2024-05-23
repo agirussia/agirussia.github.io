@@ -6,11 +6,6 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 23 мая 2024 18:00 мск - MeTTa / Hyperon альфа-релиз - Алексей Потапов (ведущий ученый SingularityNET)
-- https://github.com/trueagi-io/hyperon-experimental/
-- https://metta-lang.dev/
-- https://hyperon.opencog.org/
-
 ### 30 мая 2024 18:00 мск - Карты знаний: усиление коллективного естественного интеллекта - Константин Воронцов - уточняется
 
 ### 6 июня 2024 18:00 мск - И снова про интерпретируемую обработку языка - Антон Колонин
@@ -53,6 +48,12 @@
 ### 29 августа 2024 18:00 мск - ... - уточняется
 
 ## Прошедшие семинары и мероприятия
+
+### 23 мая 2024 18:00 мск - MeTTa / Hyperon альфа-релиз - Алексей Потапов (ведущий ученый SingularityNET)
+[![Watch the video](https://img.youtube.com/vi/ayUw1f98iUY/hqdefault.jpg)](https://youtu.be/ayUw1f98iUY)
+- https://github.com/trueagi-io/hyperon-experimental/
+- https://metta-lang.dev/
+- https://hyperon.opencog.org/
 
 ## 20 мая 2024 - О сильном и общем ИИ - Антон Колонин и Елена Покатаева - Интервью AGI для BIS Journal
 [![Watch the video](https://img.youtube.com/vi/G-SusjSIXKM/hqdefault.jpg)](https://youtu.be/G-SusjSIXKM)
