@@ -6,7 +6,7 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 23 мая 2024 18:00 мск - MeTTa / Hyperon альфа-релиз - Алексей Потапов
+### 23 мая 2024 18:00 мск - MeTTa / Hyperon альфа-релиз - Алексей Потапов (ведущий ученый SingularityNET)
 - https://github.com/trueagi-io/hyperon-experimental/
 - https://metta-lang.dev/
 - https://hyperon.opencog.org/
