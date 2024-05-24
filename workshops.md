@@ -51,6 +51,7 @@
 
 ### 23 мая 2024 18:00 мск - MeTTa / Hyperon альфа-релиз - Алексей Потапов (ведущий ученый SingularityNET)
 [![Watch the video](https://img.youtube.com/vi/ayUw1f98iUY/hqdefault.jpg)](https://youtu.be/ayUw1f98iUY)
+- [расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/MeTTa%20Hyperon%20alpha%20release%20-%20Alexey%20Potapov%20-%20AGI%20Seminar.md)
 - https://github.com/trueagi-io/hyperon-experimental/
 - https://metta-lang.dev/
 - https://hyperon.opencog.org/
