@@ -48,6 +48,7 @@
 
 ### 30 мая 2024 18:00 мск - Интерпретируемая обработка естественного языка (прежние результаты и свежие подробности) - Антон Колонин
 [![Watch the video](https://img.youtube.com/vi/PRmST_EnJsc/hqdefault.jpg)](https://youtu.be/PRmST_EnJsc)
+- [расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Interpretable_natural_language_processing_known_and_unknown_A_Kolonin.md)
 - https://github.com/aigents/pygents/blob/main/docs/2024/inlp-2024.pdf
 
 ### 23 мая 2024 18:00 мск - MeTTa / Hyperon альфа-релиз - Алексей Потапов (ведущий ученый SingularityNET)
