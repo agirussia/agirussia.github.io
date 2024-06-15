@@ -31,6 +31,7 @@
 
 ### 13 июня 2024 18:00 мск - Человеко-машинный разум для проектирования и производства микросхем - Виктор Артюхов
 [![Watch the video](https://img.youtube.com/vi/So25RQ8ft8k/hqdefault.jpg)](https://youtu.be/So25RQ8ft8k)
+- [расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Human_machine_intelligence_for_the_design_and_production_of_microcircuits.md)
 - [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2024/agirussia_20240613_Artyukhov_Victor_Goldchip.pdf)
  1. Общие проблемы САПР СБИС
  2. Управление проектами
