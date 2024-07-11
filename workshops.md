@@ -11,7 +11,8 @@
 - https://habr.com/ru/users/aigame/publications/articles/
 - https://belkinandrey.github.io/
 
-### 18 июля 2024 18:00 мск - ... - уточняется
+### 18 июля 2024 18:00 мск - "AGI - 10 лет заранее", или обсуждение статьи "Понимание ситуации на 10 лет вперед" Леопольда Ашенбреннера - Игорь Пивоваров
+- https://www.forourposterity.com/situational-awareness-the-decade-ahead/
 
 ### 25 июля 2024 18:00 мск - LLM - путь к narrow AGI - Дмитрий Салихов (предприниматель-самурай) - уточняется
 
