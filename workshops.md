@@ -6,11 +6,6 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 11 июля 2024 18:00 мск - Теория сознания. Теоретическая модель сознания как совокупность работы нескольких психических механизмов. Модель работы мозга на основе графа. - Андрей Белкин
-- https://t.me/neuro_cyber
-- https://habr.com/ru/users/aigame/publications/articles/
-- https://belkinandrey.github.io/
-
 ### 18 июля 2024 18:00 мск - "AGI - 10 лет заранее", или обсуждение статьи "Понимание ситуации на 10 лет вперед" Леопольда Ашенбреннера - Игорь Пивоваров
 - https://www.forourposterity.com/situational-awareness-the-decade-ahead/
 
@@ -33,6 +28,13 @@
 ### 26 сентября 2024 18:00 мск - ... - уточняется
 
 ## Прошедшие семинары и мероприятия
+
+### 11 июля 2024 18:00 мск - Теория сознания. Теоретическая модель сознания как совокупность работы нескольких психических механизмов. Модель работы мозга на основе графа. - Андрей Белкин
+[![Watch the video](https://img.youtube.com/vi/iM5AGzYLwHs/hqdefault.jpg)](https://youtu.be/iM5AGzYLwHs)
+- [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2024/TheoryOfConsciousnessAndreyBelkin.pdf)
+- https://t.me/neuro_cyber
+- https://habr.com/ru/users/aigame/publications/articles/
+- https://belkinandrey.github.io/
 
 ### 10 июля 2024 - Прикладной социальный ИИ-психоанализ в интернете - Антон Колонин для ["Магия нейросетей. Просто о технологиях"](https://www.youtube.com/@Neural_Magic)
 [![Watch the video](https://img.youtube.com/vi/g4JCudcyBjY/hqdefault.jpg)](https://youtu.be/g4JCudcyBjY)
