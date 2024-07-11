@@ -33,16 +33,23 @@
 
 ## Прошедшие семинары и мероприятия
 
-### 4 июля 2024 18:00 мск - Социум и ИИ: Этические кодексы «Человек - Искусственный интеллект» как локальные ответы на глобальный вызов на основе Экономической Теории Относительности - Николай Бадулин (к.т.н., пост-доцент ФИТ НИ ТГУ г.Томск, президент НП БИЗНЕС-АНГЕЛЫ СИБИРИ 2010-2013, инвестор в 20+ стартапов)
+### 10 июля 2024 - Прикладной социальный ИИ-психоанализ в интернете - Антон Колонин для ["Магия нейросетей. Просто о технологиях"](https://www.youtube.com/@Neural_Magic)
+[![Watch the video](https://img.youtube.com/vi/g4JCudcyBjY/hqdefault.jpg)](https://youtu.be/g4JCudcyBjY)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Applied_Social_AI_Psychoanalysis_on_the_Internet_Anton_Kolonin.md)
+- https://aigents.com/
+- https://github.com/aigents/
+
+### 4 июля 2024 - Социум и ИИ: Этические кодексы «Человек - Искусственный интеллект» как локальные ответы на глобальный вызов на основе Экономической Теории Относительности - Николай Бадулин (к.т.н., пост-доцент ФИТ НИ ТГУ г.Томск, президент НП БИЗНЕС-АНГЕЛЫ СИБИРИ 2010-2013, инвестор в 20+ стартапов)
 [![Watch the video](https://img.youtube.com/vi/zMeCygpKzX8/hqdefault.jpg)](https://youtu.be/zMeCygpKzX8)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Society_and_AI_Ethical_Codes_of_Human_Artificial_Intelligence_Nikolay.md)
 - [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2024/240704_%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80_AGI_%D0%A1%D0%BE%D1%86%D0%B8%D1%83%D0%BC_%D0%B8_%D0%98%D0%98_%D0%AD%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81%D1%8B_%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA_%D0%98%D0%98_%D0%BA%D0%B0%D0%BA.pdf)
 
-### 20 июня 2024 18:00 мск - Применение нейронных сетей для прогноза свойств резервуара нефтегазовых месторождений. Будут рассмотрены классические нейронные сети, нейронные сети Колмогорова, иерархические нейронные сети на основе «ближайшего соседа» - Приезжев Иван Иванович, д.т.н., генеральный директор ООО «Лаборатория Приезжева», профессор РГУ нефти и газ (НИУ) имени И.М. Губкина
+### 20 июня 2024 - Применение нейронных сетей для прогноза свойств резервуара нефтегазовых месторождений. Будут рассмотрены классические нейронные сети, нейронные сети Колмогорова, иерархические нейронные сети на основе «ближайшего соседа» - Приезжев Иван Иванович, д.т.н., генеральный директор ООО «Лаборатория Приезжева», профессор РГУ нефти и газ (НИУ) имени И.М. Губкина
 [![Watch the video](https://img.youtube.com/vi/UMF_VEp4KuI/hqdefault.jpg)](https://youtu.be/UMF_VEp4KuI)
 - [расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Neural_networks_for_predicting_oil_and_gas_field_properties_Ivan.md)
 - http://www.ivanplab.ru
 
-### 13 июня 2024 18:00 мск - Человеко-машинный разум для проектирования и производства микросхем - Виктор Артюхов
+### 13 июня 2024 - Человеко-машинный разум для проектирования и производства микросхем - Виктор Артюхов
 [![Watch the video](https://img.youtube.com/vi/So25RQ8ft8k/hqdefault.jpg)](https://youtu.be/So25RQ8ft8k)
 - [расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Human_machine_intelligence_for_the_design_and_production_of_microcircuits.md)
 - [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2024/agirussia_20240613_Artyukhov_Victor_Goldchip.pdf)
@@ -60,17 +67,17 @@
 12. Ускорения разработки в разы
 13. Использования для разработки не столь высоко подготовленного персонала
 
-### 6 июня 2024 18:00 мск - Карты знаний: усиление коллективного естественного интеллекта - Константин Воронцов
+### 6 июня 2024 - Карты знаний: усиление коллективного естественного интеллекта - Константин Воронцов
 [![Watch the video](https://img.youtube.com/vi/EQY6VSBaPnU/hqdefault.jpg)](https://youtu.be/EQY6VSBaPnU)
 - [расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Knowledge_maps_reinforcement_of_collective_natural_intelligence.md)
 - [Константин Воронцов](https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2,_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%92%D1%8F%D1%87%D0%B5%D1%81%D0%BB%D0%B0%D0%B2%D0%BE%D0%B2%D0%B8%D1%87)
 
-### 30 мая 2024 18:00 мск - Интерпретируемая обработка естественного языка (прежние результаты и свежие подробности) - Антон Колонин
+### 30 мая 2024 - Интерпретируемая обработка естественного языка (прежние результаты и свежие подробности) - Антон Колонин
 [![Watch the video](https://img.youtube.com/vi/PRmST_EnJsc/hqdefault.jpg)](https://youtu.be/PRmST_EnJsc)
 - [расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Interpretable_natural_language_processing_known_and_unknown_A_Kolonin.md)
 - https://github.com/aigents/pygents/blob/main/docs/2024/inlp-2024.pdf
 
-### 23 мая 2024 18:00 мск - MeTTa / Hyperon альфа-релиз - Алексей Потапов (ведущий ученый SingularityNET)
+### 23 мая 2024 - MeTTa / Hyperon альфа-релиз - Алексей Потапов (ведущий ученый SingularityNET)
 [![Watch the video](https://img.youtube.com/vi/ayUw1f98iUY/hqdefault.jpg)](https://youtu.be/ayUw1f98iUY)
 - [расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/MeTTa%20Hyperon%20alpha%20release%20-%20Alexey%20Potapov%20-%20AGI%20Seminar.md)
 - https://github.com/trueagi-io/hyperon-experimental/
@@ -82,38 +89,38 @@
 - [расшифровка интервью](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/kolonin_for_bis_journal.md)
 - https://ib-bank.ru/bisjournal/
 
-### 16 мая 2024 18:00 мск - CyberPravda.com — интернациональная независимая платформа для краудсорсинга достоверной информации и оценки репутации ее авторов - Тимур Садеков — (основатель и CEO CyberPravda.com)
+### 16 мая 2024 - CyberPravda.com — интернациональная независимая платформа для краудсорсинга достоверной информации и оценки репутации ее авторов - Тимур Садеков — (основатель и CEO CyberPravda.com)
 [![Watch the video](https://img.youtube.com/vi/LiKa7UUCSno/hqdefault.jpg)](https://youtu.be/LiKa7UUCSno)
 - [расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/CyberPravda_com_an_independent_platform_for_crowdsourcing_T_Sadekov.md)
 - https://cyberpravda.com
 
-### 18 апреля 2024 18:00 мск - Реверс-инжиниринг механизмов биологической памяти и подкрепления - Андрей Белкин
+### 18 апреля 2024 - Реверс-инжиниринг механизмов биологической памяти и подкрепления - Андрей Белкин
 [![Watch the video](https://img.youtube.com/vi/zy6Z5rcBYt8/hqdefault.jpg)](https://youtu.be/zy6Z5rcBYt8)
 - Систематизация и анализ знаний о механизмах биологической памяти в единую систему; Три механизма биологической памяти; О том, как происходит подкрепление в биологических нервных системах
 - [расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Reverse_engineering_the_mechanisms_of_biological_memory_and_reinforcement.md)
 - https://habr.com/ru/users/aigame/publications/articles/
 - https://belkinandrey.github.io/
 
-### 11 апреля 2024 18:00 мск - Актуальные вопросы регулирования ИИ в России и за рубежом - Гарин Евгений Викторович (директор центра долгосрочного прогнозирования НТР и СЭР ИНЭС РАН), Полстовалов Олег Владимирович (д.ю.н., профессор, руководитель аппарата комиссии по направлению "Наука" Экспертно-координационного центра Комиссий Государственного Совета Российской федерации), Колонин Антон Германович (к.т.н., ведущий специалист НГУ, эксперт РСМД, архитектор SingularityNET)
+### 11 апреля 2024 - Актуальные вопросы регулирования ИИ в России и за рубежом - Гарин Евгений Викторович (директор центра долгосрочного прогнозирования НТР и СЭР ИНЭС РАН), Полстовалов Олег Владимирович (д.ю.н., профессор, руководитель аппарата комиссии по направлению "Наука" Экспертно-координационного центра Комиссий Государственного Совета Российской федерации), Колонин Антон Германович (к.т.н., ведущий специалист НГУ, эксперт РСМД, архитектор SingularityNET)
 [![Watch the video](https://img.youtube.com/vi/KibmmcF2RvQ/hqdefault.jpg)](https://youtu.be/KibmmcF2RvQ)
 - [расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Topical_issues_of_AI_regulation_in_Russia_and_abroad.md)
   - Последствия принятия законодательного запрета ЕС в использовании ИИ и состояние вопроса в РФ
   - Cостояния вопроса о регулировании ИИ на международном уровне, по итогам https://bgi24.ai/ 
 
-### 4 апреля 2024 18:00 мск - AIXI: алгоритмическая индукция как основа для интеллекта - Сергей Довгань
+### 4 апреля 2024 - AIXI: алгоритмическая индукция как основа для интеллекта - Сергей Довгань
 [![Watch the video](https://img.youtube.com/vi/klsvJoAJsFQ/hqdefault.jpg)](https://youtu.be/klsvJoAJsFQ)
 - [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2024/AIXI.pptx)
 - https://github.com/Kilorad/aixi_booster
 - https://t.me/result_machine
 - [материалы по теме](https://docs.google.com/document/d/1gp9L8EEmocoZ_0bNNfhxV-Cp1104XUt0nVQIa8r6K1s/edit)
 
-### 28 марта 2024 17:00 мск - Обучение с подкреплением на импульсных нейронных сетях - Михаил Киселев (Лаборатория Касперского)
+### 28 марта 2024 - Обучение с подкреплением на импульсных нейронных сетях - Михаил Киселев (Лаборатория Касперского)
 [![Watch the video](https://img.youtube.com/vi/_Wu5cU-OFDk/hqdefault.jpg)](https://youtu.be/_Wu5cU-OFDk)
 - [расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Learning_with_reinforcement_on_impulse_neural_networks_Mikhail_Kiselev.md)
 - [Зачем мы моделируем импульсные нейронные сети и с помощью чего это делаем](https://habr.com/ru/companies/rosatom/articles/712244/)
 - [Импульсные нейронные сети: Представление информации, обучение, память](https://www.amazon.com/%D0%98%D0%BC%D0%BF%D1%83%D0%BB%D1%8C%D1%81%D0%BD%D1%8B%D0%B5-%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5-%D1%81%D0%B5%D1%82%D0%B8-%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8/dp/6202394382)
 
-### 21 марта 2024 17:00 мск - Самоорганизация профессиональных и экспертных сообществ на примере AGIRussia (часть 3)
+### 21 марта 2024 - Самоорганизация профессиональных и экспертных сообществ на примере AGIRussia (часть 3)
 [![Watch the video](https://img.youtube.com/vi/NwZqZUaWPVo/hqdefault.jpg)](https://youtu.be/NwZqZUaWPVo)
 - [расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Self_organization_of_professional_and_expert_communities_on_the.md)
 - Доклад: Антон Колонин
@@ -128,7 +135,7 @@
   - Как рейтинговать участников? Использовать "хирш", число научных публикаций, число постов в группе, число "лайков" и "реплаев" на посты участника, или выдавать рейтинги участникам вручную на регламентированных консилиумах "орггруппы" или использовать [текучую репутацию, автоматически рассчитываемую ботом Aigents] (https://arxiv.org/pdf/1811.08149.pdf) ?
   - Голосование https://t.me/collectivei/6046
 
-### 14 марта 2024 17:00 мск - "Через сопротивление энтропии - к языку" - Владимир Булыгин - уточняется
+### 14 марта 2024 - "Через сопротивление энтропии - к языку" - Владимир Булыгин - уточняется
 [![Watch the video](https://img.youtube.com/vi/gFGXNZgLFaA/hqdefault.jpg)](https://youtu.be/gFGXNZgLFaA)
 - [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Through_entropy_resistance_to_language_Vladimir_Bulygin_AGI_Seminar.md)
 - https://habr.com/ru/articles/656999/
@@ -139,7 +146,7 @@
 [![Watch the video](https://img.youtube.com/vi/yQTjsp5tC5Y/hqdefault.jpg)](https://youtu.be/yQTjsp5tC5Y)
 - https://bgi24.ai/ 
 
-### 22 февраля 2024 17:00 мск - Построение сложных самоорганизующихся систем AGI из Базовых Компонентов Разума (БКР) - Виктор Артюхов
+### 22 февраля 2024 - Построение сложных самоорганизующихся систем AGI из Базовых Компонентов Разума (БКР) - Виктор Артюхов
 [![Watch the video](https://img.youtube.com/vi/9A0EaFVol9Q/hqdefault.jpg)](https://youtu.be/9A0EaFVol9Q)
 - [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2024/agirussia_20240222_Artyukhov_Victor_AGIFA_004.pdf)
 - [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Building_complex_self_organizing_AGI_systems_from_BCRs_Victor_Artyukhov.md)
@@ -153,7 +160,7 @@
   7. Развитие до Самодостаточного Разума (СР) > AGI
 - https://github.com/LiveBaster
 
-### 15 февраля 2024 17:00 мск - Объектно-признаковые данные: от философии до визуализации через математику и программирование - Алексей Незнанов (к.т.н., доцент. Член IEEE, РАИИ, НБМЗ, Senior Data Scientist в компании Шлюмберже, Старший научный сотрудник международной лаборатории интеллектуальных систем и структурного анализа ФКН НИУ ВШЭ)
+### 15 февраля 2024 - Объектно-признаковые данные: от философии до визуализации через математику и программирование - Алексей Незнанов (к.т.н., доцент. Член IEEE, РАИИ, НБМЗ, Senior Data Scientist в компании Шлюмберже, Старший научный сотрудник международной лаборатории интеллектуальных систем и структурного анализа ФКН НИУ ВШЭ)
 [![Watch the video](https://img.youtube.com/vi/hbcDZIZhdhM/hqdefault.jpg)](https://youtu.be/hbcDZIZhdhM)
 - [Расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Object_value_data_from_philosophy_to_visualization_Alexey_Neznanov.md)
 - Ссылки автора:
@@ -168,25 +175,25 @@
   - https://arxiv.org/pdf/2310.10196.pdf
   - https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM
 
-### 8 февраля 2024 17:00 мск - Семантическое представление онтологий, структуры данных и языки, унификация, интеграция и стандартизация - Валерьян Ивашенко (БГУИР)
+### 8 февраля 2024 - Семантическое представление онтологий, структуры данных и языки, унификация, интеграция и стандартизация - Валерьян Ивашенко (БГУИР)
 [![Watch the video](https://img.youtube.com/vi/BH9sGJ-2DP4/hqdefault.jpg)](https://youtu.be/BH9sGJ-2DP4)
 - [Расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Semantic_representation_of_ontologies%2C_data_structures_and_languages.md)
 - [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2024/agirussia_20240208_ivashenko.pptx)
 - https://www.bsuir.by/ru/kaf-iit/ivashenko-v-p
 - https://ims.ostis.net/
 
-### 1 февраля 2024 17:00 мск - Архитектурный подход к моделированию общего ИИ - Борис Славин (профессор Финансового университета при правительстве РФ)
+### 1 февраля 2024 - Архитектурный подход к моделированию общего ИИ - Борис Славин (профессор Финансового университета при правительстве РФ)
 [![Watch the video](https://img.youtube.com/vi/om7Fa4D2D9Y/hqdefault.jpg)](https://youtu.be/om7Fa4D2D9Y)
 - [Расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/An_architectural_approach_to_modeling_general_AI_Boris_Slavin_AGI.md)
 - https://www.cell.com/heliyon/pdf/S2405-8440(23)01650-X.pdf
 
-### 25 января 2024 17:00 мск - AI Alignment, Emergent Properties и наши ожидания от следующего поколения LLM в 2024 году - Татьяна Шаврина (Principal Machine Learning Engineer, Snapchat)
+### 25 января 2024 - AI Alignment, Emergent Properties и наши ожидания от следующего поколения LLM в 2024 году - Татьяна Шаврина (Principal Machine Learning Engineer, Snapchat)
 [![Watch the video](https://img.youtube.com/vi/Pvm68e-cc6U/hqdefault.jpg)](https://youtu.be/Pvm68e-cc6U)
 - [Расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/AI_Alignment%2C_Emergent_Properties%2C_expectations_from_the_next_LLM.md)
 - https://t.me/rybolos_channel
 - https://www.linkedin.com/in/tatiana-shavrina/
 
-### 18 января 2024 17:00 мск - Самоорганизация профессиональных и экспертных сообществ на примере AGIRussia (круглый стол - часть 2)
+### 18 января 2024 - Самоорганизация профессиональных и экспертных сообществ на примере AGIRussia (круглый стол - часть 2)
 [![Watch the video](https://img.youtube.com/vi/CrNu7JDMGmk/hqdefault.jpg)](https://youtu.be/CrNu7JDMGmk)
 - [Расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Self_organization_of_professional_and_expert_communities_on_the.md)
 - Доклад: Владимир Смолин - [слайды доклада](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2024/agirussia_20240111_smolin.pdf) 
@@ -197,7 +204,7 @@
   - Важность философского осмысления проблематики моделирования для методологии, терминологии и регулирования деятельности на примере ИИ.
   - Примеры. Таблица терминов, Различение слабых и сильных ИИ и их взаимодействие. Ценности, цели и назначение ИИ как сферы деятельности (человеку и человечеству от ИИ нужны инструменты, а не конкуренты), Локальные и экзистенциальные угрозы ИИ, различение разумности и "живости" роботов и ИИ.
 
-### 21 декабря 2023 17:00 мск - Самоорганизация профессиональных и экспертных сообществ на примере AGIRussia (круглый стол)
+### 21 декабря 2023 - Самоорганизация профессиональных и экспертных сообществ на примере AGIRussia (круглый стол)
 [![Watch the video](https://img.youtube.com/vi/9spNTql_13c/hqdefault.jpg)](https://youtu.be/9spNTql_13c)
 - [Расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2023/Self_organization_of_professional_and_expert_communities_on_the.md)
 - Краткая история сообщества [AGI-in-Russian](https://agirussia.org/) и [коллективного интеллекта](https://github.com/agirussia/agirussia.github.io/wiki/AGI-%D0%BA%D0%B0%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82) в нем, [регламент](https://t.me/agirussia/75), "оргруппа/редколлегия" и [бот Aigents](https://dzen.ru/media/aigents/chto-bot-aigents-umeet-v-telegram-5fcd08bf8f8c7853edb22bc8)
@@ -206,7 +213,7 @@
   - Как поддерживать уровень дискуссии? Как избежать того, что знающие мэтры обычно даже не читают группу, а незнающие дилетанты иногда выступают громче всех, в результате чего порой сильнее всего звучат наименее компетентные голоса (известный социальный феномен)? Вводить рейтинги "компетентности" и регулировать (ограничивать) частоту высказываний пропорционально компетентности? Это можно легко формализовать с динамическим "порогом права голоса" в зависимости от коммуникационного трафика, но Телеграм этого не поддерживает технически. Написать бота (типа [Aigents](https://www.youtube.com/watch?v=LNgwbaiKEJk)), который будет считать частоты постов в группе и индивидуально по участникам и предотвращать посты тех, кто "выбрал лимит"? Или ввести негласное [правило кредита высказываний](https://t.me/agirussia/72828) или [правило уровня компетентности](https://t.me/agitopics/13994/22178) (или [правило Бабурова](https://t.me/collectivei/5093) или [правило Пивоварова](https://t.me/collectivei/5095) ) в расчете на самосознательность участников (или опять таки запрограммировать бота на применение этих правил)?
   - Как решить проблему "вавилонской башни" - когда у каждого участника есть свое мнение по любому вопросу и свой способ определения любого термина в своей личной понятийной сетке, отличной от общепринятой? Вести общую [терминологическую табличку](https://docs.google.com/spreadsheets/d/15PChaGD9bnZnW1M3pLtsu8i0vDT3Ge6qNaEUnGmiQIU/edit#gid=0)? Пока что в ней только плодятся колонки, никто даже не попытался прийти к "общему знаменателю". Доверить это снова боту?
 
-### 14 декабря 2023 17:00 мск - Result GPT: применение мультимодальных трансформеров в задачах управления - Сергей Довгань
+### 14 декабря 2023 - Result GPT: применение мультимодальных трансформеров в задачах управления - Сергей Довгань
 [![Watch the video](https://img.youtube.com/vi/gas4OWpvZcQ/hqdefault.jpg)](https://youtu.be/gas4OWpvZcQ)
 - [Расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2023/Result_GPT_Sergey_Dovgan.md)
 - Тезисы доклада
@@ -221,17 +228,17 @@
   - Обзор состояния RL https://habr.com/ru/articles/468379/ 
   - Github: https://github.com/Kilorad/rl
 
-### 7 декабря 2023 17:00 мск - Субъектность и AGI - круглый стол (Константин Анохин, Сергей Шумский, Сергей Терехов, модератор: Игорь Пивоваров)
+### 7 декабря 2023 - Субъектность и AGI - круглый стол (Константин Анохин, Сергей Шумский, Сергей Терехов, модератор: Игорь Пивоваров)
 [![Watch the video](https://img.youtube.com/vi/w20aF0eFeig/hqdefault.jpg)](https://youtu.be/w20aF0eFeig)
 - [Расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2023/Subject-AGI_Anokhin_Shumsky_Terekhov_Pivovarov.md)
 - Тема обсуждения - сознание и субьектность у ИИ. На прошлой дискуссии мы выяснили, что многие учёные и разрабочики ИИ считают, что существующие гигантские модели ИИ (типа ChatGPT или Dreamer) уже обладают минимальным  феноменологическим опытом, который можно назвать минимальным сознанием. Однако, обладают ли они субъектностью? Может ли вообще возникнуть субьектность у ИИ? Кроме этого, недавно вышла большая статья с обзором разных теоретических моделей сознания и анализом, возможно ли  сознания у ИИ - [Patrick Butlin, et.al., Consciousness in Artificial Intelligence: Insights from the Science of Consciousness](https://arxiv.org/pdf/2308.08708.pdf). Мы обсудим эту статью и основные выводы из неё и попробуем в результате ответить, сможет ли ИИ обладать сознанием и субьектностью.
 
-### 30 ноября 2023 17:00 мск - GPT + планирование = AGI? - Юрий Бабуров (CTO компании DreamDocs, преподаватель НГУ)
+### 30 ноября 2023 - GPT + планирование = AGI? - Юрий Бабуров (CTO компании DreamDocs, преподаватель НГУ)
 [![Watch the video](https://img.youtube.com/vi/qtfr7zmsDX8/hqdefault.jpg)](https://youtu.be/qtfr7zmsDX8)
 - [Расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2023/Baburov-2023-11-30.md)
 - https://buriy.com/
 
-### 23 ноября 2023 17:00 мск - Влияние Сильного ИИ на общее развитие науки - Евгений Гарин (Директор центра долгосрочного прогнозирования НТР и СЭР ИНЭС РАН, эксперт аппарата Комиссии «Коммуникации, связь, цифровая экономика» Экспертно-координационного центра Комиссий Государственного Совета Российской Федерации)
+### 23 ноября 2023 - Влияние Сильного ИИ на общее развитие науки - Евгений Гарин (Директор центра долгосрочного прогнозирования НТР и СЭР ИНЭС РАН, эксперт аппарата Комиссии «Коммуникации, связь, цифровая экономика» Экспертно-координационного центра Комиссий Государственного Совета Российской Федерации)
 [![Watch the video](https://img.youtube.com/vi/SXiJLqcfe68/hqdefault.jpg)](https://youtu.be/SXiJLqcfe68)
 - [Расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2023/Garin-2023-11-23.md)
 - https://cyberleninka.ru/article/n/relyatsionnaya-model-innovatsionnogo-razvitiya-i-prognoz-nauchno-tehnicheskogo-razvitiya-na-ee-osnove
@@ -239,17 +246,17 @@
 - https://vk.com/id212834176
 - https://ras.jes.su/oie/s020736760011885-2-1
 
-### 16 ноября 2023 17:00 мск - Задачный подход в искусственном интеллекте: теория обучения и иерархия знаний - Андрей Нечесов (ИМ СО РАН)
+### 16 ноября 2023 - Задачный подход в искусственном интеллекте: теория обучения и иерархия знаний - Андрей Нечесов (ИМ СО РАН)
 [![Watch the video](https://img.youtube.com/vi/P91AeZ9QV6E/hqdefault.jpg)](https://youtu.be/P91AeZ9QV6E)
 - [Расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2023/Nechesov-2023-11-16.md)
 - https://sciact.math.nsc.ru/ru/public/profile/287
 
-### 9 ноября 2023 17:00 мск - О переносе знаний из предметной области в глубокую нейросеть с помощью иерархического многозадачного обучения" - Иван Бондаренко (НГУ, научный сотрудник лаборатории прикладных цифровых технологий, старший преподаватель кафедры фундаментальной и прикладной лингвистики)
+### 9 ноября 2023 - О переносе знаний из предметной области в глубокую нейросеть с помощью иерархического многозадачного обучения" - Иван Бондаренко (НГУ, научный сотрудник лаборатории прикладных цифровых технологий, старший преподаватель кафедры фундаментальной и прикладной лингвистики)
 [![Watch the video](https://img.youtube.com/vi/aVI79jQ8r3c/hqdefault.jpg)](https://youtu.be/aVI79jQ8r3c)
 - [Расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2023/bondarenko-2023-11-09.md)
 - https://pure.nsu.ru/portal/ru/persons/-(384cd2ea-9d16-402e-817c-27eb7330d3e1).html
 
-### 26 октября 2023 18:00 мск - О природе сознания и проблеме "сознание - тело" - Александр Хомяков
+### 26 октября 2023 - О природе сознания и проблеме "сознание - тело" - Александр Хомяков
 [![Watch the video](https://img.youtube.com/vi/jSL6ccQbfJU/hqdefault.jpg)](https://youtu.be/jSL6ccQbfJU)
 - [Расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2023/consciousness-2023-10-26.md)
 - https://www.labirint.ru/books/769933/
@@ -257,7 +264,7 @@
 ### 12 октября 2023 - AGI: формирование иерархических компонентных взаимодействий со сложным миром - Владимир Смолин (ФИЦ ИПМ им. М.В.Келдыша РАН)
 [![Watch the video](https://img.youtube.com/vi/agGV70bvpFY/hqdefault.jpg)](https://youtu.be/agGV70bvpFY)
 
-### 5 октября 2023, 16:00 (время московское) - ИИ и блокчейн - будущее или хайп? (круглый стол) - А.Нам, А.Нечесов, А.Колонин, А.Галиева, Д. Пальчунов
+### 5 октября 2023 - ИИ и блокчейн - будущее или хайп? (круглый стол) - А.Нам, А.Нечесов, А.Колонин, А.Галиева, Д. Пальчунов
 [![Watch the video](https://img.youtube.com/vi/1JflMlpvUUc/hqdefault.jpg)](https://youtu.be/1JflMlpvUUc)
 - [Расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2023/%D0%98%D0%98%20%D0%B8%20%D0%B1%D0%BB%D0%BE%D0%BA%D1%87%D0%B5%D0%B8%CC%86%D0%BD%20%E2%80%94%20%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5%20%D0%B8%D0%BB%D0%B8%20%D1%85%D0%B0%D0%B8%CC%86%D0%BF_%20%E2%80%94%D0%90.%D0%9D%D0%B0%D0%BC%2C%20%D0%90.%D0%9D%D0%B5%D1%87%D0%B5%D1%81%D0%BE%D0%B2%2C%20%D0%90.%D0%9A%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D0%BD%2C%20%D0%90.%D0%93%D0%B0%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%2C%20%D0%94.%20%D0%9F%D0%B0%D0%BB%D1%8C%D1%87%D1%83%D0%BD%D0%BE%D0%B2%E2%80%94%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20AGI.pdf) (В.Попов) 
 - А.Нам: Бизнес-кейсы применения ИИ и блокчейн, [Лаборатория блокчейн, СБЕР](https://sberlabs.com/laboratories/laboratoriya-blockchain/)
