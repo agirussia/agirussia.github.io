@@ -1,4 +1,4 @@
-## 11 июля 2024 - Прикладной социальный ИИ-психоанализ в интернете - Антон Колонин для ["Магия нейросетей. Просто о технологиях"](https://www.youtube.com/@Neural_Magic)
+## 10 июля 2024 - Прикладной социальный ИИ-психоанализ в интернете - Антон Колонин для ["Магия нейросетей. Просто о технологиях"](https://www.youtube.com/@Neural_Magic)
 [![Watch the video](https://img.youtube.com/vi/g4JCudcyBjY/hqdefault.jpg)](https://youtu.be/g4JCudcyBjY)
 
 
