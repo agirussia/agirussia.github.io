@@ -31,6 +31,7 @@
 
 ### 11 июля 2024 18:00 мск - Теория сознания. Теоретическая модель сознания как совокупность работы нескольких психических механизмов. Модель работы мозга на основе графа. - Андрей Белкин
 [![Watch the video](https://img.youtube.com/vi/iM5AGzYLwHs/hqdefault.jpg)](https://youtu.be/iM5AGzYLwHs)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Theoretical_model_of_consciousness_as_a_set_of_psychic_mechanisms.md)
 - [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2024/TheoryOfConsciousnessAndreyBelkin.pdf)
 - https://t.me/neuro_cyber
 - https://habr.com/ru/users/aigame/publications/articles/
