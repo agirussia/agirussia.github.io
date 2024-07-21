@@ -6,10 +6,7 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 18 июля 2024 18:00 мск - "AGI - 10 лет заранее", или обсуждение статьи "Понимание ситуации на 10 лет вперед" Леопольда Ашенбреннера - Игорь Пивоваров
-- https://www.forourposterity.com/situational-awareness-the-decade-ahead/
-
-### 25 июля 2024 18:00 мск - LLM - путь к narrow AGI - Дмитрий Салихов (предприниматель-самурай) - уточняется
+### 25 июля 2024 18:00 мск - LLM - путь к narrow AGI - Дмитрий Салихов (предприниматель-самурай)
 
 ### 13-16 августа 2024 - AGI 2024 - The 17th Annual AGI Conference
 - https://agi-conference.org/2024/
@@ -24,7 +21,7 @@
 - https://cyberspace.pgu.ru/jour/article/view/310
 - https://www.labirint.ru/books/769933/
 
-### 12 сентября 2024 18:00 мск - ... - уточняется
+### 12 сентября 2024 18:00 мск - Информационная теория сознания - Евгений Витяев - уточняется
 
 ### 19 сентября 2024 18:00 мск - ... - уточняется
 
@@ -32,7 +29,11 @@
 
 ## Прошедшие семинары и мероприятия
 
-### 11 июля 2024 18:00 мск - Теория сознания. Теоретическая модель сознания как совокупность работы нескольких психических механизмов. Модель работы мозга на основе графа. - Андрей Белкин
+### 18 июля 2024 - Обсуждение статьи по AGI "Ситуационная осведомленность на 10 лет вперед" Леопольда Ашенбреннера - Игорь Пивоваров
+[![Watch the video](https://img.youtube.com/vi/65BVk12lqEU/hqdefault.jpg)](https://youtu.be/65BVk12lqEU)
+- https://www.forourposterity.com/situational-awareness-the-decade-ahead/
+
+### 11 июля 2024 - Теория сознания. Теоретическая модель сознания как совокупность работы нескольких психических механизмов. Модель работы мозга на основе графа. - Андрей Белкин
 [![Watch the video](https://img.youtube.com/vi/iM5AGzYLwHs/hqdefault.jpg)](https://youtu.be/iM5AGzYLwHs)
 - [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Theoretical_model_of_consciousness_as_a_set_of_psychic_mechanisms.md)
 - [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2024/TheoryOfConsciousnessAndreyBelkin.pdf)
