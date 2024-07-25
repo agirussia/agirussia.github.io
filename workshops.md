@@ -6,8 +6,6 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 25 июля 2024 18:00 мск - БЯМ (LLM) как путь к специализированному ОИИ (AGI) - Дмитрий Салихов (предприниматель-самурай)
-
 ### 13-16 августа 2024 - AGI 2024 - The 17th Annual AGI Conference
 - https://agi-conference.org/2024/
 - https://payqlick.com/events/agi2024/registration2024/
@@ -28,6 +26,9 @@
 ### 26 сентября 2024 18:00 мск - ... - уточняется
 
 ## Прошедшие семинары и мероприятия
+
+### 25 июля 2024 18:00 мск - БЯМ (LLM) как путь к специализированному ОИИ (AGI) - Дмитрий Салихов (предприниматель-самурай)
+[![Watch the video](https://img.youtube.com/vi/0p3GKJakWwk/hqdefault.jpg)](https://youtu.be/0p3GKJakWwk)
 
 ### 18 июля 2024 - Обсуждение статьи по AGI "Ситуационная осведомленность на 10 лет вперед" Леопольда Ашенбреннера - Игорь Пивоваров
 [![Watch the video](https://img.youtube.com/vi/65BVk12lqEU/hqdefault.jpg)](https://youtu.be/65BVk12lqEU)
