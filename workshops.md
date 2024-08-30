@@ -21,7 +21,7 @@
 
 ### 13-16 августа 2024 - AGI 2024 - The 17th Annual AGI Conference
 - https://agi-conference.org/2024/
-- [Материалы конференции AGI-2024 (https://www.youtube.com/watch?v=AxZo9eGGhGs&list=PLAJnaovHtaFQFUX5kp3d1UYmaUH_Ux8OL)](https://www.youtube.com/watch?v=AxZo9eGGhGs&list=PLAJnaovHtaFQFUX5kp3d1UYmaUH_Ux8OL)
+- [Материалы конференции AGI-2024](https://www.youtube.com/watch?v=AxZo9eGGhGs&list=PLAJnaovHtaFQFUX5kp3d1UYmaUH_Ux8OL)](https://www.youtube.com/watch?v=AxZo9eGGhGs&list=PLAJnaovHtaFQFUX5kp3d1UYmaUH_Ux8OL)
  
 ### 25 июля 2024 18:00 мск - БЯМ (LLM) как путь к специализированному ОИИ (AGI) - Дмитрий Салихов (предприниматель-самурай)
 [![Watch the video](https://img.youtube.com/vi/0p3GKJakWwk/hqdefault.jpg)](https://youtu.be/0p3GKJakWwk)
