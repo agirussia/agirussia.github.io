@@ -6,10 +6,6 @@
 
 *Мы приглашаем спикеров со своими темами!*
 
-### 13-16 августа 2024 - AGI 2024 - The 17th Annual AGI Conference
-- https://agi-conference.org/2024/
-- https://payqlick.com/events/agi2024/registration2024/
-
 ### 5 сентября 2024 18:00 мск - Аналогия это все, что нам нужно! - Александр Хомяков (приглашенный специалист ШФиК НИУ ВШЭ, постоянный участник семинара по философии математики МГУ, директор по информационным сервисам ЭТМ, автор книги "О природе сознания и проблеме сознание-тело", специалист по философии ИИ) - уточняется
 - Как и почему аналогия является основой мышления на основе вышедшей статьи
 - https://cyberspace.pgu.ru/jour/article/view/310
@@ -23,6 +19,10 @@
 
 ## Прошедшие семинары и мероприятия
 
+### 13-16 августа 2024 - AGI 2024 - The 17th Annual AGI Conference
+- https://agi-conference.org/2024/
+- [Материалы конференции AGI-2024 (https://www.youtube.com/watch?v=AxZo9eGGhGs&list=PLAJnaovHtaFQFUX5kp3d1UYmaUH_Ux8OL)](https://www.youtube.com/watch?v=AxZo9eGGhGs&list=PLAJnaovHtaFQFUX5kp3d1UYmaUH_Ux8OL)
+ 
 ### 25 июля 2024 18:00 мск - БЯМ (LLM) как путь к специализированному ОИИ (AGI) - Дмитрий Салихов (предприниматель-самурай)
 [![Watch the video](https://img.youtube.com/vi/0p3GKJakWwk/hqdefault.jpg)](https://youtu.be/0p3GKJakWwk)
 
