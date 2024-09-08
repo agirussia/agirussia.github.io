@@ -22,9 +22,8 @@
 
 ### 5 сентября 2024 18:00 мск - Аналогия это все, что нам нужно! - Александр Хомяков (приглашенный специалист ШФиК НИУ ВШЭ, постоянный участник семинара по философии математики МГУ, директор по информационным сервисам ЭТМ, автор книги "О природе сознания и проблеме сознание-тело", специалист по философии ИИ)
 [![Watch the video](https://img.youtube.com/vi/XiKX54myxJw/hqdefault.jpg)](https://youtu.be/XiKX54myxJw)
-- Как и почему аналогия является основой мышления на основе вышедшей статьи
+- [Как и почему аналогия является основой мышления на основе вышедшей статьи - расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/An_analogy_is_all_we_need_Alexander_Khomyakov_%E2%80%93_AGI_Seminar.md)
 - https://cyberspace.pgu.ru/jour/article/view/310
-- https://www.labirint.ru/books/769933/
 
 ### 13-16 августа 2024 - AGI 2024 - The 17th Annual AGI Conference
 - https://agi-conference.org/2024/
