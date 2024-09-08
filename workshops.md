@@ -34,6 +34,7 @@
 
 ### 18 июля 2024 - Обсуждение статьи по AGI "Ситуационная осведомленность на 10 лет вперед" Леопольда Ашенбреннера - Игорь Пивоваров
 [![Watch the video](https://img.youtube.com/vi/65BVk12lqEU/hqdefault.jpg)](https://youtu.be/65BVk12lqEU)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Discussion_of_the_article_Understanding_the_Situation_by_Leopold.md)
 - https://www.forourposterity.com/situational-awareness-the-decade-ahead/
 
 ### 11 июля 2024 - Теория сознания. Теоретическая модель сознания как совокупность работы нескольких психических механизмов. Модель работы мозга на основе графа. - Андрей Белкин
