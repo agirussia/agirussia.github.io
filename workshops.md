@@ -33,6 +33,11 @@
 
 ## Прошедшие семинары и мероприятия
 
+### 5 сентября 2024 14:00 мск - Искусственный интеллект сегодня и его применимость в АСУ ТП - Антон Колонин
+[![Watch the video](https://img.youtube.com/vi/6ejk7C-pCtc/hqdefault.jpg)](https://youtu.be/6ejk7C-pCtc)
+- [видео в ВК](https://vk.com/video-210968399_456239192)
+- [расшифровка](https://vk.com/video-210968399_456239192)
+
 ### 5 сентября 2024 18:00 мск - Аналогия это все, что нам нужно! - Александр Хомяков (приглашенный специалист ШФиК НИУ ВШЭ, постоянный участник семинара по философии математики МГУ, директор по информационным сервисам ЭТМ, автор книги "О природе сознания и проблеме сознание-тело", специалист по философии ИИ)
 [![Watch the video](https://img.youtube.com/vi/XiKX54myxJw/hqdefault.jpg)](https://youtu.be/XiKX54myxJw)
 - [Как и почему аналогия является основой мышления на основе вышедшей статьи - расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/An_analogy_is_all_we_need_Alexander_Khomyakov_%E2%80%93_AGI_Seminar.md)
