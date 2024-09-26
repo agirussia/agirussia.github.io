@@ -33,7 +33,7 @@
 
 ## Прошедшие семинары и мероприятия
 
-### 5 сентября 2024 14:00 мск - Искусственный интеллект сегодня и его применимость в АСУ ТП - Антон Колонин
+### 5 сентября 2024 14:00 мск - Искусственный интеллект сегодня и его применимость в АСУ ТП - Антон Колонин для КузГТУ, Системы управления ПИШ 2024 09 05
 [![Watch the video](https://img.youtube.com/vi/6ejk7C-pCtc/hqdefault.jpg)](https://youtu.be/6ejk7C-pCtc)
 - [видео в ВК](https://vk.com/video-210968399_456239192)
 - [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/NSP_control_systems.md)
