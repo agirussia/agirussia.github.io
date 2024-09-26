@@ -1,5 +1,6 @@
 ## 24 сентября 2024 - Антон Колонин для КузГТУ, Системы управления ПИШ 2024 09 05
 [![Watch the video](https://img.youtube.com/vi/6ejk7C-pCtc/hqdefault.jpg)](https://www.youtube.com/watch?v=6ejk7C-pCtc)
+- [видео в ВК](https://vk.com/video-210968399_456239192)
 
 Обзор доклада:
 
