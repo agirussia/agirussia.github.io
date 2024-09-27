@@ -33,6 +33,7 @@
 
 ### 26 сентября 2024 18:00 мск - General Problem Solver, современная версия - Юрий Бабуров (CTO компании DreamDocs, преподаватель НГУ)
 [![Watch the video](https://img.youtube.com/vi/10Q-lZ7ym2A/hqdefault.jpg)](https://youtu.be/10Q-lZ7ym2A)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/General_Problem_Solver_modern_version_Yuri_Baburov_%E2%80%93_AGI_Seminar.md)
 
 ### 5 сентября 2024 14:00 мск - Искусственный интеллект сегодня и его применимость в АСУ ТП - Антон Колонин для КузГТУ, Системы управления ПИШ 2024 09 05
 [![Watch the video](https://img.youtube.com/vi/6ejk7C-pCtc/hqdefault.jpg)](https://youtu.be/6ejk7C-pCtc)
