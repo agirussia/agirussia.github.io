@@ -1,6 +1,6 @@
 ## 26 сентября 2024 - General Problem Solver, современная версия - Юрий Бабуров — Семинар AGI
 [![Watch the video](https://img.youtube.com/vi/10Q-lZ7ym2A/hqdefault.jpg)](https://youtu.be/10Q-lZ7ym2A)
-
+- [Видео в ВК](https://vk.com/video/@agirussia?z=video-210968399_456239196)
 
 Суммаризация доклада:
 
