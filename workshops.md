@@ -31,8 +31,8 @@
 
 ### 3 октября 2024 17:00 мск - Информационная теория сознания - Евгений Витяев
 [![Watch the video](https://img.youtube.com/vi/PgrmLbDtp3Y/hqdefault.jpg)](https://youtu.be/PgrmLbDtp3Y)
-- видео в ВК
-- расшифровка
+- [видео в ВК](https://vk.com/video/@agirussia?z=video-210968399_456239198)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Information%20theory%20of%20consciousness%20-%20Evgeniy%20Vityaev.md)
 - https://sciact.math.nsc.ru/public/profile/43
 
 ### 26 сентября 2024 18:00 мск - General Problem Solver, современная версия - Юрий Бабуров (CTO компании DreamDocs, преподаватель НГУ)
