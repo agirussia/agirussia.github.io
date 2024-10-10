@@ -24,7 +24,7 @@
 ## Прошедшие семинары и мероприятия
 
 ### 10 октября 2024 17:00 мск - Технические мышление и сознание как необходимые составляющие AGI - Смолин В.С. (н.с. сектора робототехники ФИЦ ИПМ им. М.В.Келдыша РАН)
-[![Watch the video](https://img.youtube.com/vi/mPxCWCJpZlw/hqdefault.jpg)](https://youtu.be/mPxCWCJpZlw)
+[![Watch the video](https://img.youtube.com/vi/mPxCWCJpZlw/hqdefault.jpg)](https://youtu.be/mPxCWCJpZlw) 
 
 ### 3 октября 2024 17:00 мск - Информационная теория сознания - Евгений Витяев
 [![Watch the video](https://img.youtube.com/vi/PgrmLbDtp3Y/hqdefault.jpg)](https://youtu.be/PgrmLbDtp3Y)
