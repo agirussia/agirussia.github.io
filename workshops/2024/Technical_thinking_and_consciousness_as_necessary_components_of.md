@@ -1,6 +1,7 @@
 ## 10 октября 2024 - Технические мышление и сознание как необходимые составляющие AGI - Владимир Смолин — Семинар AGI
 [![Watch the video](https://img.youtube.com/vi/mPxCWCJpZlw/hqdefault.jpg)](https://youtu.be/mPxCWCJpZlw)
 
+[Видео в ВК](https://vk.com/video/@agirussia?z=video-210968399_456239200)
 
 Суммаризация семинара:
 
