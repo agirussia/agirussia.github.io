@@ -25,6 +25,8 @@
 
 ### 10 октября 2024 17:00 мск - Технические мышление и сознание как необходимые составляющие AGI - Смолин В.С. (н.с. сектора робототехники ФИЦ ИПМ им. М.В.Келдыша РАН)
 [![Watch the video](https://img.youtube.com/vi/mPxCWCJpZlw/hqdefault.jpg)](https://youtu.be/mPxCWCJpZlw) 
+- [видео в ВК](https://vk.com/video/@agirussia?z=video-210968399_456239200)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Technical_thinking_and_consciousness_as_necessary_components_of.md)
 
 ### 3 октября 2024 17:00 мск - Информационная теория сознания - Евгений Витяев
 [![Watch the video](https://img.youtube.com/vi/PgrmLbDtp3Y/hqdefault.jpg)](https://youtu.be/PgrmLbDtp3Y)
