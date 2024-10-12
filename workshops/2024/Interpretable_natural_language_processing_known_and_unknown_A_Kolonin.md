@@ -1,6 +1,7 @@
 ## 30 мая 2024 - Интерпретируемая обработка естественного языка (известное и неизвестное) - А. Колонин — Семинар AGI
 [![Watch the video](https://img.youtube.com/vi/PRmST_EnJsc/hqdefault.jpg)](https://youtu.be/PRmST_EnJsc)
 
+[Видео в ВК](https://vk.com/video/@agirussia/all?z=video-210968399_456239175)
 
 Основные моменты:
 
