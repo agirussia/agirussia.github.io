@@ -12,6 +12,7 @@
 
 ### 21 ноября 2024 17:00 мск - Модель человеческой психики в перспективе построения искусственной или диалог об искусственной и естественной психике как системе принятия решений - Владимир Крюков и Антон Колонин
 [![Watch the video](https://img.youtube.com/vi/Vpgv7N6yBEc/hqdefault.jpg)](https://youtu.be/Vpgv7N6yBEc)
+- [видео в ВК](https://vk.com/video-210968399_456239205)
 - https://yandex.ru/patents/doc/RU2791840C2_20230313
 - https://www.litres.ru/author/vladimir-krukov-20298282/
 - https://www.ozon.ru/product/samostoyatelnyy-psihoanaliz-samoanaliz-kryukov-vladimir-elektronnaya-kniga-909742720/
