@@ -535,6 +535,7 @@
 
 ### 18 августа - Кластеризация и сегментация без учителя - зачем и как? - Антон Колонин
 [![Watch the video](https://img.youtube.com/vi/oTBxdQL_lnU/hqdefault.jpg)](https://youtu.be/oTBxdQL_lnU)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2022/Clustering_and_segmentation_without_a_teacher_why_and_how_Anton.md)
 - https://github.com/aigents/pygents/blob/main/docs/2022/experiential-sequential-2022.pdf
 - https://github.com/aigents/pygents/blob/main/notebooks/cluster/distribution_modes.ipynb
 
