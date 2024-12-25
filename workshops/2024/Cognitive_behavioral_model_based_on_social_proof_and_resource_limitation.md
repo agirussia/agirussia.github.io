@@ -1,6 +1,7 @@
 ## 10 ноября 2024 - Когнитивно-поведенческая модель на основе социального доказательства и ограничении ресурсов — Семинар AGI
 [![Watch the video](https://img.youtube.com/vi/x6tDU-5eXcE/hqdefault.jpg)](https://youtu.be/x6tDU-5eXcE)
 
+[Видео в ВК](https://vk.com/video/@agirussia?z=video-210968399_456239203)
 
 Суммаризация семинара:
 
