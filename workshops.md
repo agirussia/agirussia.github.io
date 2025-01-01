@@ -12,6 +12,7 @@
 - http://aigents.com/papers/2015/ZONT-2015-Agent-Language-Kolonin.pdf
 - https://youtu.be/pry5kcafINE?t=1343
 - http://webstructor.net/docs/orl/index.html
+- https://russiancouncil.ru/analytics-and-comments/analytics/kuda-rasti-gryadushchemu-sverkhintellektu/
 
 ### 16 января 2024 17:00 мск - обсуждается
 
