@@ -32,7 +32,11 @@ https://agirussia.org/workshops2021.html
 https://www.youtube.com/siberai
 
 ## Видео семинаров в ВК
+https://vkvideo.ru/@agirussia/
 https://vk.com/video/@agirussia
+
+## Видео семинаров в RuTube
+https://rutube.ru/channel/24279932/
 
 ## Проекты участников:
 - [Антон Колонин, Aigents® - Персональные интеллектуальные агенты для Интернета](https://github.com/aigents/)
