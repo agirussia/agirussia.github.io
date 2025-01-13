@@ -4,16 +4,6 @@
 
 Онлайн-семинары проводятся по понедельникам или четвергам в 17:00 (октябрь-март) или 18:00 (апрель-сентябрь) по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на Zoom придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только зарегистрированным пользователям Zoom с полностью указанными действительными именем и фамилией и включенным видео. 
 
-### 9 января 2025 17:00 мск - Зачем AGI онтологии, системы логического (нечеткого) вывода, DSL и редакторы онтологий - обсуждение с затравкой А.Колонина и обсуждением всеми желающими
-- https://t.me/rusontology/7921
-- https://siberai.blogspot.com/2020/02/blog-post_10.html
-- https://www.youtube.com/watch?v=90NDhLUDuqs
-- https://youtu.be/6Gm6Faa88Q4
-- http://aigents.com/papers/2015/ZONT-2015-Agent-Language-Kolonin.pdf
-- https://youtu.be/pry5kcafINE?t=1343
-- http://webstructor.net/docs/orl/index.html
-- https://russiancouncil.ru/analytics-and-comments/analytics/kuda-rasti-gryadushchemu-sverkhintellektu/
-
 ### 13 января 2025 17:00 мск - Полностью спайковая реализация обучения с подкреплением - Михаил Киселев (Чувашский государственный университет, Лаборатория нейроморфных вычислений)
 - https://www.researchgate.net/profile/Mikhail-Kiselev-5
 
@@ -34,6 +24,20 @@
 *Мы приглашаем спикеров со своими темами!*
 
 ## Прошедшие семинары и мероприятия
+
+### 9 января 2025 17:00 мск - Зачем AGI онтологии, системы логического (нечеткого) вывода, DSL и редакторы онтологий - обсуждение с затравкой А.Колонина и обсуждением всеми желающими
+[![Watch the video](https://img.youtube.com/vi/5pQf9zib7-Y/hqdefault.jpg)](https://youtu.be/5pQf9zib7-Y)
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239207)
+- [видео в RUTUBE](https://rutube.ru/video/aa3f5363da69d205466816a492933c52/)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Model_of_human_psyche_-_Vladimir_Kryukov.md)
+- https://t.me/rusontology/7921
+- https://siberai.blogspot.com/2020/02/blog-post_10.html
+- https://www.youtube.com/watch?v=90NDhLUDuqs
+- https://youtu.be/6Gm6Faa88Q4
+- http://aigents.com/papers/2015/ZONT-2015-Agent-Language-Kolonin.pdf
+- https://youtu.be/pry5kcafINE?t=1343
+- http://webstructor.net/docs/orl/index.html
+- https://russiancouncil.ru/analytics-and-comments/analytics/kuda-rasti-gryadushchemu-sverkhintellektu/
 
 ### 21 ноября 2024 17:00 мск - Модель человеческой психики в перспективе построения искусственной или диалог об искусственной и естественной психике как системе принятия решений - Владимир Крюков и Антон Колонин
 [![Watch the video](https://img.youtube.com/vi/Vpgv7N6yBEc/hqdefault.jpg)](https://youtu.be/Vpgv7N6yBEc)
