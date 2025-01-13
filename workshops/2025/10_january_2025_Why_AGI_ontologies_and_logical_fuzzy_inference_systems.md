@@ -1,6 +1,7 @@
 ## 10 января 2025 - Зачем AGI онтологии и системы логического (нечеткого) вывода - Антон Колонин — Семинар AGI
-[![Watch the video]()]()
-
+[![Watch the video](https://img.youtube.com/vi/5pQf9zib7-Y/hqdefault.jpg)](https://youtu.be/5pQf9zib7-Y)
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239207)
+- [видео в RUTUBE](https://rutube.ru/video/aa3f5363da69d205466816a492933c52/)
 
 Суммаризация семинара:
 
