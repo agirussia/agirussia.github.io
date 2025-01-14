@@ -8,7 +8,16 @@
 - http://cs.hse.ru/ai/issa
 - http://postnauka.ru/author/a_neznanov
 - https://yandex.ru/video/preview/803415799613384695
- 
+
+### 23 января 2025 17:00 мск - Редакторы и просмотрщики онтологий (на примере Webstructor), DSL-и (на примере ORL и AL) - Антон Колонин
+- http://webstructor.net/
+- http://webstructor.net/docs/orl/index.html
+- http://aigents.com/papers/2015/ZONT-2015-Agent-Language-Kolonin-slides.pdf
+- http://aigents.com/papers/2015/ZONT-2015-Agent-Language-Kolonin.pdf
+- http://aigents.com/papers/2015/Distributed-and-social-evidence-based-Kolonin-KESW-2015-slides.pdf
+- http://link.springer.com/chapter/10.1007/978-3-319-24543-0_23
+- https://siberai.blogspot.com/2020/02/blog-post_10.html
+
 ### 3 февраля 2025 17:00 мск - Дифференциалная феноменология, другой взгляд на создание динамических онотолгий (Максим Кулишев,  MS  Intelligent systems engineering, Le Mans University / Pierre and Marie Curie University, Paris, France, ех HSBC bank, ex Google, CTO cognito.one; Дмитрий Балашов, BS applied math / BS Sociology Geneva University, Geneva, Switzerland, COO cognito.one)
 - https://cognito.one/
 
