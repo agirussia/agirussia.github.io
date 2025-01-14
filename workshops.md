@@ -12,7 +12,9 @@
 ### 3 февраля 2025 17:00 мск - Дифференциалная феноменология, другой взгляд на создание динамических онотолгий (Максим Кулишев,  MS  Intelligent systems engineering, Le Mans University / Pierre and Marie Curie University, Paris, France, ех HSBC bank, ex Google, CTO cognito.one; Дмитрий Балашов, BS applied math / BS Sociology Geneva University, Geneva, Switzerland, COO cognito.one)
 - https://cognito.one/
 
-### 6 февраля 2025 17:00 мск - обсуждается
+### 6 февраля 2025 17:00 мск - На пути к AGI: Обзор работ 2024-2025 года - Татьяна Шавриина (Meta, Llama)
+- https://t.me/rybolos_channel
+- https://www.linkedin.com/in/tatiana-shavrina/
 
 ### 13 февраля 2025 17:00 мск - обсуждается
 
