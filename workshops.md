@@ -24,6 +24,9 @@
 
 ### 13 января 2025 17:00 мск - Полностью спайковая реализация обучения с подкреплением - Михаил Киселев (Чувашский государственный университет, Лаборатория нейроморфных вычислений)
 [![Watch the video](https://img.youtube.com/vi/Xb67MhTsfEg/hqdefault.jpg)](https://youtu.be/Xb67MhTsfEg)
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239208)
+- [видео в RUTUBE](https://rutube.ru/video/deff16cc1bd6fb372ca84e83694a80f7/)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/13_january_2025_Fully_Spiking_Implementation_of_Reinforcement_Learning.md)
 - https://www.researchgate.net/profile/Mikhail-Kiselev-5
 
 ### 9 января 2025 17:00 мск - Зачем AGI онтологии, системы логического (нечеткого) вывода, DSL и редакторы онтологий - обсуждение с затравкой А.Колонина и обсуждением всеми желающими
