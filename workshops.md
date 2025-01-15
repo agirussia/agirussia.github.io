@@ -18,7 +18,7 @@
 - http://link.springer.com/chapter/10.1007/978-3-319-24543-0_23
 - https://siberai.blogspot.com/2020/02/blog-post_10.html
 
-### 3 февраля 2025 17:00 мск - Дифференциалная феноменология, другой взгляд на создание динамических онотолгий (Максим Кулишев,  MS  Intelligent systems engineering, Le Mans University / Pierre and Marie Curie University, Paris, France, ех HSBC bank, ex Google, CTO cognito.one; Дмитрий Балашов, BS applied math / BS Sociology Geneva University, Geneva, Switzerland, COO cognito.one)
+### 3 февраля 2025 17:00 мск - Дифференциальная феноменология, другой взгляд на создание динамических онотологий (Максим Кулишев,  MS  Intelligent systems engineering, Le Mans University / Pierre and Marie Curie University, Paris, France, ех HSBC bank, ex Google, CTO cognito.one; Дмитрий Балашов, BS applied math / BS Sociology Geneva University, Geneva, Switzerland, COO cognito.one)
 - https://cognito.one/
 
 ### 6 февраля 2025 17:00 мск - На пути к AGI: Обзор работ 2024-2025 года - Татьяна Шаврина (Meta, Llama)
