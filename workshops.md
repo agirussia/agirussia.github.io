@@ -4,11 +4,6 @@
 
 Онлайн-семинары проводятся по понедельникам или четвергам в 17:00 (октябрь-март) или 18:00 (апрель-сентябрь) по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на Zoom придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только зарегистрированным пользователям Zoom с полностью указанными действительными именем и фамилией и включенным видео. 
 
-### 16 января 2025 17:00 мск - Системы управления базами знаний в контексте управления данными - Алексей Незнанов (к.т.н., доцент. Член IEEE, РАИИ, НБМЗ, Senior Data Scientist в компании Шлюмберже, Старший научный сотрудник международной лаборатории интеллектуальных систем и структурного анализа ФКН НИУ ВШЭ)
-- http://cs.hse.ru/ai/issa
-- http://postnauka.ru/author/a_neznanov
-- https://yandex.ru/video/preview/803415799613384695
-
 ### 23 января 2025 17:00 мск - Редакторы и просмотрщики онтологий (на примере Webstructor), DSL-и (на примере ORL и AL) - Антон Колонин
 - http://webstructor.net/
 - http://webstructor.net/docs/orl/index.html
@@ -17,6 +12,8 @@
 - http://aigents.com/papers/2015/Distributed-and-social-evidence-based-Kolonin-KESW-2015-slides.pdf
 - http://link.springer.com/chapter/10.1007/978-3-319-24543-0_23
 - https://siberai.blogspot.com/2020/02/blog-post_10.html
+
+### 30 января 2025 17:00 мск - обсуждается
 
 ### 3 февраля 2025 17:00 мск - Дифференциальная феноменология, другой взгляд на создание динамических онтологий (Максим Кулишев,  MS  Intelligent systems engineering, Le Mans University / Pierre and Marie Curie University, Paris, France, ех HSBC bank, ex Google, CTO cognito.one; Дмитрий Балашов, BS applied math / BS Sociology Geneva University, Geneva, Switzerland, COO cognito.one)
 - https://cognito.one/
@@ -32,6 +29,14 @@
 *Мы приглашаем спикеров со своими темами!*
 
 ## Прошедшие семинары и мероприятия
+
+### 16 января 2025 17:00 мск - Системы управления базами знаний в контексте управления данными - Алексей Незнанов (к.т.н., доцент. Член IEEE, РАИИ, НБМЗ, Senior Data Scientist в компании Шлюмберже, Старший научный сотрудник международной лаборатории интеллектуальных систем и структурного анализа ФКН НИУ ВШЭ)
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239209)
+- [видео в RUTUBE](https://rutube.ru/video/9880d2576f8fb1f0ffcf1676d3df2823/)
+- [расшифровка]()
+- http://cs.hse.ru/ai/issa
+- http://postnauka.ru/author/a_neznanov
+- https://yandex.ru/video/preview/803415799613384695
 
 ### 13 января 2025 17:00 мск - Полностью спайковая реализация обучения с подкреплением - Михаил Киселев (Чувашский государственный университет, Лаборатория нейроморфных вычислений)
 [![Watch the video](https://img.youtube.com/vi/Xb67MhTsfEg/hqdefault.jpg)](https://youtu.be/Xb67MhTsfEg)
