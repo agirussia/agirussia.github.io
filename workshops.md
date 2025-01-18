@@ -34,6 +34,7 @@
 [![Watch the video](https://img.youtube.com/vi/5pxIDlKa46w/hqdefault.jpg)](https://youtu.be/5pxIDlKa46w)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239209)
 - [видео в RUTUBE](https://rutube.ru/video/9880d2576f8fb1f0ffcf1676d3df2823/)
+- [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2025/Neznanov_KnowledgeManagement4DataManagement_2024.pdf)
 - [расшифровка]()
 - http://cs.hse.ru/ai/issa
 - http://postnauka.ru/author/a_neznanov
