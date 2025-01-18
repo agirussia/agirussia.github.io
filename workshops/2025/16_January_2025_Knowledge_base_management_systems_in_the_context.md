@@ -1,23 +1,17 @@
 ## 16 января 2025 - Системы управления базами знаний в контексте управления данными - Алексей Незнанов — Семинар AGI
 [![Watch the video](https://img.youtube.com/vi/5pxIDlKa46w/hqdefault.jpg)](https://youtu.be/5pxIDlKa46w)
 
-- <a href="https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2025/Neznanov_KnowledgeManagement4DataManagement_2024.pdf">слайды</a>
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239209)
+- [видео в RUTUBE](https://rutube.ru/video/9880d2576f8fb1f0ffcf1676d3df2823/)
+- [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2025/Neznanov_KnowledgeManagement4DataManagement_2024.pdf)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/16_January_2025_Knowledge_base_management_systems_in_the_context.md)
+- http://cs.hse.ru/ai/issa
+- http://postnauka.ru/author/a_neznanov
+- https://yandex.ru/video/preview/803415799613384695
 
-- <a href="https://vkvideo.ru/video-210968399_456239209">видео в ВК</a>
+_ВНИМАНИЕ: СЛЕДУЮЩИЙ ТЕКСТ СГЕНЕРИРОВАН ИИ, РАЗРАБОТАННЫМ УЧАСТНИКАМИ НАШЕГО СООБЩЕСТВА!_
 
-- <a href="https://rutube.ru/video/9880d2576f8fb1f0ffcf1676d3df2823/">видео в RUTUBE</a>
-
-- <a href="https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/16_January_2025_Knowledge_base_management_systems_in_the_context.md">расшифровка</a>
-
-- <a href="http://cs.hse.ru/ai/issa">ИССА</a>
-
-- <a href="http://postnauka.ru/author/a_neznanov">ПостНаука</a>
-
-- <a href="https://yandex.ru/video/preview/803415799613384695">Яндекс.Видео</a>
-
-## ВНИМАНИЕ: СЛЕДУЮЩИЙ ТЕКСТ СГЕНЕРИРОВАН ИИ, РАЗРАБОТАННЫМ УЧАСТНИКАМИ НАШЕГО СООБЩЕСТВА!
-
-##Суммаризация семинара:
+**Суммаризация семинара:**
 
 Общая Тема и Контекст:
 Семинар посвящен обсуждению систем управления базами знаний в контексте управления данными. Спикеры затронули вопросы антологизации, интеграции знаний в корпоративные системы и перспективы развития интеллектуальных систем.
