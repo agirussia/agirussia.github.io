@@ -2,6 +2,7 @@
 [![Watch the video](https://img.youtube.com/vi/5pQf9zib7-Y/hqdefault.jpg)](https://youtu.be/5pQf9zib7-Y)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239207)
 - [видео в RUTUBE](https://rutube.ru/video/aa3f5363da69d205466816a492933c52/)
+- [слайды](https://aigents.com/papers/2025/ontologies-back-2025.pdf)
 
 Суммаризация семинара:
 
