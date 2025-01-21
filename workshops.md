@@ -4,14 +4,8 @@
 
 Онлайн-семинары проводятся по понедельникам или четвергам в 17:00 (октябрь-март) или 18:00 (апрель-сентябрь) по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на Zoom придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только зарегистрированным пользователям Zoom с полностью указанными действительными именем и фамилией и включенным видео. 
 
-### 23 января 2025 17:00 мск - Редакторы и просмотрщики онтологий (на примере Webstructor), DSL-и (на примере ORL и AL) - Антон Колонин (AGIRussia, Aigents, НГУ, SingularityNET)
-- http://webstructor.net/
-- http://webstructor.net/docs/orl/index.html
-- http://aigents.com/papers/2015/ZONT-2015-Agent-Language-Kolonin-slides.pdf
-- http://aigents.com/papers/2015/ZONT-2015-Agent-Language-Kolonin.pdf
-- http://aigents.com/papers/2015/Distributed-and-social-evidence-based-Kolonin-KESW-2015-slides.pdf
-- http://link.springer.com/chapter/10.1007/978-3-319-24543-0_23
-- https://siberai.blogspot.com/2020/02/blog-post_10.html
+### 23 января 2025 17:00 мск - Редакторы и просмотрщики онтологий (на примере Webstructor), DSL-и (на примере ORL и AL), а также о нечетких "знаниях" и "ризонерах" - Антон Колонин (AGIRussia, Aigents, НГУ, SingularityNET)
+- [слайды](https://aigents.com/papers/2025/ontologies-webstructor-aigents-2025.pdf)
 
 ### 30 января 2025 17:00 мск - обсуждается
 
@@ -52,6 +46,7 @@
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239207)
 - [видео в RUTUBE](https://rutube.ru/video/aa3f5363da69d205466816a492933c52/)
 - [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/10_january_2025_Why_AGI_ontologies_and_logical_fuzzy_inference_systems.md)
+- [слайды](https://aigents.com/papers/2025/ontologies-back-2025.pdf)
 - https://t.me/rusontology/7921
 - https://siberai.blogspot.com/2020/02/blog-post_10.html
 - https://www.youtube.com/watch?v=90NDhLUDuqs
