@@ -26,7 +26,7 @@
 [![Watch the video](https://img.youtube.com/vi/WSkd1008hGE/hqdefault.jpg)](https://youtu.be/WSkd1008hGE)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239210)
 - [видео в RUTUBE](https://rutube.ru/video/d0f42d6f0d7c38afcecf03d9f9f32f6f/)
-- [расшифровка]()
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/23_january_2025_Editors_and_viewers_of_ontologies_Anton_Kolonin.md)
 - [слайды](https://aigents.com/papers/2025/ontologies-webstructor-aigents-2025.pdf)
 
 ### 16 января 2025 17:00 мск - Системы управления базами знаний в контексте управления данными - Алексей Незнанов (к.т.н., доцент. Член IEEE, РАИИ, НБМЗ, Senior Data Scientist в компании Шлюмберже, Старший научный сотрудник международной лаборатории интеллектуальных систем и структурного анализа ФКН НИУ ВШЭ)
