@@ -18,7 +18,16 @@
 
 ### 13-20 февраля 2025 17:00 мск - отдыхаем
 
-### 27 февраля 2025 17:00 мск - Александр Болдачев
+### 27 февраля 2025 17:00 мск - boldsea - событийно-ориентированный подход к семантическому моделированию - Александр Болдачев
+- Архитектура на основе событийной семантики - https://www.osp.ru/os/2021/03/13055996
+- Событийная онтология vs объектная - https://habr.com/ru/articles/706916/
+- Как я учил ChatGPT - https://habr.com/ru/articles/715492/
+- Акты, классы и семантический сахар - https://habr.com/ru/articles/708026/
+- Семантика и деятельность - https://habr.com/ru/articles/503406/
+- Деятельность, документы и семантика - https://habr.com/ru/articles/509990/
+- https://www.youtube.com/watch?v=gazUrDmjAOw&ab_channel=siberai
+- https://www.youtube.com/live/FQQ7umzDXhI
+- https://www.youtube.com/live/fhU2nJVlgRw
 
 *Мы приглашаем спикеров со своими темами!*
 
