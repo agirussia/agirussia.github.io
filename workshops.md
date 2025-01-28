@@ -28,6 +28,7 @@
 - https://www.youtube.com/watch?v=gazUrDmjAOw&ab_channel=siberai
 - https://www.youtube.com/live/FQQ7umzDXhI
 - https://www.youtube.com/live/fhU2nJVlgRw
+- Дополнительные материалы в Телеграм-группе https://t.me/boldsea
 
 *Мы приглашаем спикеров со своими темами!*
 
