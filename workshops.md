@@ -4,9 +4,6 @@
 
 Онлайн-семинары проводятся по понедельникам или четвергам в 17:00 (октябрь-март) или 18:00 (апрель-сентябрь) по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на Zoom придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только зарегистрированным пользователям Zoom с полностью указанными действительными именем и фамилией и включенным видео. 
 
-### 30 января 2025 17:00 мск - DSL-и (на примере AL), нечеткие "знания" и "ризонеры" (продолжение семинара 23 февраля) - Антон Колонин (AGIRussia, Aigents, НГУ, SingularityNET)
-- [слайды](https://aigents.com/papers/2025/ontologies-webstructor-aigents-2025.pdf)
-
 ### 3 февраля 2025 17:00 мск - Дифференциальная феноменология, другой взгляд на создание динамических онтологий (Максим Кулишев,  MS  Intelligent systems engineering, Le Mans University / Pierre and Marie Curie University, Paris, France, ех HSBC bank, ex Google, CTO cognito.one; Дмитрий Балашов, BS applied math / BS Sociology Geneva University, Geneva, Switzerland, COO cognito.one)
 - https://cognito.one/
 
@@ -33,6 +30,14 @@
 *Мы приглашаем спикеров со своими темами!*
 
 ## Прошедшие семинары и мероприятия
+
+### 30 января 2025 17:00 мск - DSL-и (на примере AL), нечеткие "знания" и "ризонеры" (продолжение семинара 23 февраля) - Антон Колонин (AGIRussia, Aigents, НГУ, SingularityNET)
+[![Watch the video](https://img.youtube.com/vi/AGcSQ7KukVs/hqdefault.jpg)](https://youtu.be/AGcSQ7KukVs)
+- [слайды](https://aigents.com/papers/2025/ontologies-webstructor-aigents-2025.pdf)
+- https://aigents.com/papers/2015/ZONT-2015-Agent-Language-Kolonin.pdf
+- https://aigents.com/papers/2015/ZONT-2015-Agent-Language-Kolonin-slides.pdf
+- https://github.com/aigents/aigents-java/tree/master/doc
+- https://aigents.medium.com/
 
 ### 23 января 2025 17:00 мск - Редакторы и просмотрщики онтологий (на примере Webstructor), DSL-и (на примере ORL) - Антон Колонин (AGIRussia, Aigents, НГУ, SingularityNET)
 [![Watch the video](https://img.youtube.com/vi/WSkd1008hGE/hqdefault.jpg)](https://youtu.be/WSkd1008hGE)
