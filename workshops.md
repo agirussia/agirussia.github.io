@@ -42,6 +42,7 @@
 
 ### 30 января 2025 17:00 мск - DSL-и (на примере AL), нечеткие "знания" и "ризонеры" (продолжение семинара 23 февраля) - Антон Колонин (AGIRussia, Aigents, НГУ, SingularityNET)
 [![Watch the video](https://img.youtube.com/vi/AGcSQ7KukVs/hqdefault.jpg)](https://youtu.be/AGcSQ7KukVs)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/30_January_2025_DSL_on_the_example_of_AL_and_the_Aigents_project.md)
 - [слайды](https://aigents.com/papers/2025/ontologies-webstructor-aigents-2025.pdf)
 - [видео в RUTUBE](https://rutube.ru/video/929471beb7e317212f4346c6767fa932/)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239211)
