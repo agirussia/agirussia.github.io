@@ -27,6 +27,15 @@
 - https://www.youtube.com/live/fhU2nJVlgRw
 - Дополнительные материалы в Телеграм-группе https://t.me/boldsea
 
+### 6 марта 2025 17:00 мск - Нечеткие "знания" и "ризонеры" (продолжение семинаров 23-30 февраля) - Антон Колонин (AGIRussia, Aigents, НГУ, SingularityNET)
+- [слайды](https://aigents.com/papers/2025/ontologies-webstructor-aigents-2025.pdf)
+
+### 13 марта 2025 17:00 мск - уточняется
+
+### 20 марта 2025 17:00 мск - уточняется
+
+### 27 марта 2025 17:00 мск - уточняется
+
 *Мы приглашаем спикеров со своими темами!*
 
 ## Прошедшие семинары и мероприятия
@@ -34,6 +43,8 @@
 ### 30 января 2025 17:00 мск - DSL-и (на примере AL), нечеткие "знания" и "ризонеры" (продолжение семинара 23 февраля) - Антон Колонин (AGIRussia, Aigents, НГУ, SingularityNET)
 [![Watch the video](https://img.youtube.com/vi/AGcSQ7KukVs/hqdefault.jpg)](https://youtu.be/AGcSQ7KukVs)
 - [слайды](https://aigents.com/papers/2025/ontologies-webstructor-aigents-2025.pdf)
+- [видео в RUTUBE](https://rutube.ru/video/929471beb7e317212f4346c6767fa932/)
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239211)
 - https://aigents.com/papers/2015/ZONT-2015-Agent-Language-Kolonin.pdf
 - https://aigents.com/papers/2015/ZONT-2015-Agent-Language-Kolonin-slides.pdf
 - https://github.com/aigents/aigents-java/tree/master/doc
