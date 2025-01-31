@@ -1,4 +1,4 @@
-## 30 января 2025 - DSL на примере AL и проекта Aigents (продолжение семинара 23 февраля) — Антон Колонин (AGIRussia, Aigents, НГУ, SingularityNET) — Семинар AGI
+## 30 января 2025 - DSL на примере AL и проекта Aigents (продолжение семинара 23 января) — Антон Колонин (AGIRussia, Aigents, НГУ, SingularityNET) — Семинар AGI
 [![Watch the video](https://img.youtube.com/vi/AGcSQ7KukVs/hqdefault.jpg)](https://youtu.be/AGcSQ7KukVs)
 - [слайды](https://aigents.com/papers/2025/ontologies-webstructor-aigents-2025.pdf)
 - [видео в RUTUBE](https://rutube.ru/video/929471beb7e317212f4346c6767fa932/)
