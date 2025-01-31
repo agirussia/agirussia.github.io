@@ -40,7 +40,7 @@
 
 ## Прошедшие семинары и мероприятия
 
-### 30 января 2025 17:00 мск - DSL-и (на примере AL), нечеткие "знания" и "ризонеры" (продолжение семинара 23 февраля) - Антон Колонин (AGIRussia, Aigents, НГУ, SingularityNET)
+### 30 января 2025 17:00 мск - DSL-и (на примере AL), нечеткие "знания" и "ризонеры" (продолжение семинара 23 января) - Антон Колонин (AGIRussia, Aigents, НГУ, SingularityNET)
 [![Watch the video](https://img.youtube.com/vi/AGcSQ7KukVs/hqdefault.jpg)](https://youtu.be/AGcSQ7KukVs)
 - [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/30_January_2025_DSL_on_the_example_of_AL_and_the_Aigents_project.md)
 - [слайды](https://aigents.com/papers/2025/ontologies-webstructor-aigents-2025.pdf)
