@@ -39,6 +39,8 @@
 
 ### 3 февраля 2025 17:00 мск - Дифференциальная феноменология, другой взгляд на создание динамических онтологий (Максим Кулишев,  MS  Intelligent systems engineering, Le Mans University / Pierre and Marie Curie University, Paris, France, ех HSBC bank, ex Google, CTO cognito.one; Дмитрий Балашов, BS applied math / BS Sociology Geneva University, Geneva, Switzerland, COO cognito.one)
 [![Watch the video](https://img.youtube.com/vi/giBj5PzlVyo/hqdefault.jpg)](https://youtu.be/giBj5PzlVyo)
+- [видео в RUTUBE](https://rutube.ru/video/eecb8903e7471d767ee151c0c216ccb8/)
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239212)
 - https://cognito.one/
 
 ### 30 января 2025 17:00 мск - DSL-и (на примере AL), нечеткие "знания" и "ризонеры" (продолжение семинара 23 января) - Антон Колонин (AGIRussia, Aigents, НГУ, SingularityNET)
