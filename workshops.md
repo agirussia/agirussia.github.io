@@ -34,8 +34,8 @@
 ### 6 февраля 2025 18:00 мск - На пути к AGI: Обзор работ 2024-2025 года - Татьяна Шаврина (Llama, Главный научный сотрудник Института Языкознания РАН)
 [![Watch the video](https://img.youtube.com/vi/s2stfH7Zji8/hqdefault.jpg)](https://youtu.be/s2stfH7Zji8)
 - [расшифровка]()
-- [видео в RUTUBE]()
-- [видео в ВК]()
+- [видео в RUTUBE](https://rutube.ru/video/4681e7d70e94ba01798a96446e82df06/)
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239213)
 - https://t.me/rybolos_channel
 - https://www.linkedin.com/in/tatiana-shavrina/
 - https://www.llama.com/
