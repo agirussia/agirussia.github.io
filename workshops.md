@@ -4,12 +4,6 @@
 
 Онлайн-семинары проводятся по понедельникам или четвергам в 17:00 (октябрь-март) или 18:00 (апрель-сентябрь) по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на Zoom придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только зарегистрированным пользователям Zoom с полностью указанными действительными именем и фамилией и включенным видео. 
 
-### 6 февраля 2025 18:00 мск - На пути к AGI: Обзор работ 2024-2025 года - Татьяна Шаврина (Llama, Главный научный сотрудник Института Языкознания РАН)
-- https://t.me/rybolos_channel
-- https://www.linkedin.com/in/tatiana-shavrina/
-- https://www.llama.com/
-- https://iling-ran.ru/
-
 ### 13-20 февраля 2025 17:00 мск - отдыхаем
 
 ### 27 февраля 2025 17:00 мск - boldsea - событийно-ориентированный подход к семантическому моделированию - Александр Болдачев
@@ -36,6 +30,16 @@
 *Мы приглашаем спикеров со своими темами!*
 
 ## Прошедшие семинары и мероприятия
+
+### 6 февраля 2025 18:00 мск - На пути к AGI: Обзор работ 2024-2025 года - Татьяна Шаврина (Llama, Главный научный сотрудник Института Языкознания РАН)
+[![Watch the video](https://img.youtube.com/vi/s2stfH7Zji8/hqdefault.jpg)](https://youtu.be/s2stfH7Zji8)
+- [расшифровка]()
+- [видео в RUTUBE]()
+- [видео в ВК]()
+- https://t.me/rybolos_channel
+- https://www.linkedin.com/in/tatiana-shavrina/
+- https://www.llama.com/
+- https://iling-ran.ru/
 
 ### 3 февраля 2025 17:00 мск - Дифференциальная феноменология, другой взгляд на создание динамических онтологий (Максим Кулишев,  MS  Intelligent systems engineering, Le Mans University / Pierre and Marie Curie University, Paris, France, ех HSBC bank, ex Google, CTO cognito.one; Дмитрий Балашов, BS applied math / BS Sociology Geneva University, Geneva, Switzerland, COO cognito.one)
 [![Watch the video](https://img.youtube.com/vi/giBj5PzlVyo/hqdefault.jpg)](https://youtu.be/giBj5PzlVyo)
