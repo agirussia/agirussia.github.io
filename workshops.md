@@ -18,7 +18,12 @@
 
 ### 6 марта 2025 17:00 мск - выходной
 
-### 13 марта 2025 17:00 мск - уточняется - Егор Чурилов
+### 13 марта 2025 17:00 мск - Действие-центричные онтологии. Транспонирование онтологических оснований - Егор Чурилов
+- https://anticomplexity.org/dejtsentrichnye-ontologii/
+- https://rutube.ru/video/aea3b7785de4d61dcddd83a325718fbf/?r=wd&t=1683
+- https://rutube.ru/video/a4375f893256fbaee566874f53eaefeb/?r=wd&t=2623
+- https://anticomplexity.org/slozhnost-pravovyh-ontologicheskih-modelej-na-primere-iz-pdd/
+- https://anticomplexity.org/transponirovanie-ontologicheskih-osnovanij-na-prostom-primere/
 
 ### 20 марта 2025 17:00 мск - выходной
 
