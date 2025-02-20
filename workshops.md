@@ -26,6 +26,7 @@
 - [слайды](https://aigents.com/papers/2025/ontologies-webstructor-aigents-2025.pdf)
 
 ### 10 апреля 2025 17:00 мск - RAG. Примеры использования внешний памяти и источникоа данных для улучшения качества работы LLM - Павел Саловский (NotAIbook) уточняется
+- http://notaibook.site
 - https://www.youtube.com/watch?v=GOVu-ec9h2w
   
 ### 24 апреля 2025 17:00 мск - уточняется
