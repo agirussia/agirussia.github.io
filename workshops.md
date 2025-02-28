@@ -4,18 +4,6 @@
 
 Онлайн-семинары проводятся по понедельникам или четвергам в 17:00 (октябрь-март) или 18:00 (апрель-сентябрь) по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на Zoom придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только зарегистрированным пользователям Zoom с полностью указанными действительными именем и фамилией и включенным видео. 
 
-### 27 февраля 2025 17:00 мск - boldsea - событийно-ориентированный подход к семантическому моделированию - Александр Болдачев
-- Архитектура на основе событийной семантики - https://www.osp.ru/os/2021/03/13055996
-- Событийная онтология vs объектная - https://habr.com/ru/articles/706916/
-- Как я учил ChatGPT - https://habr.com/ru/articles/715492/
-- Акты, классы и семантический сахар - https://habr.com/ru/articles/708026/
-- Семантика и деятельность - https://habr.com/ru/articles/503406/
-- Деятельность, документы и семантика - https://habr.com/ru/articles/509990/
-- https://www.youtube.com/watch?v=gazUrDmjAOw&ab_channel=siberai
-- https://www.youtube.com/live/FQQ7umzDXhI
-- https://www.youtube.com/live/fhU2nJVlgRw
-- Дополнительные материалы в Телеграм-группе https://t.me/boldsea
-
 ### 6 марта 2025 17:00 мск - выходной
 
 ### 13 марта 2025 17:00 мск - Действие-центричные онтологии. Транспонирование онтологических оснований - Егор Чурилов
@@ -42,6 +30,22 @@
 *Мы приглашаем спикеров со своими темами!*
 
 ## Прошедшие семинары и мероприятия
+
+### 27 февраля 2025 17:00 мск - boldsea - событийно-ориентированный подход к семантическому моделированию - Александр Болдачев
+[![Watch the video](https://img.youtube.com/vi/DqcrKcbV7ec/hqdefault.jpg)](https://youtu.be/DqcrKcbV7ec)
+- [расшифровка]()
+- [видео в RUTUBE](https://rutube.ru/video/2bbd62123abbbbd1e8afb6dd5e6bea22/)
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239214)
+- Архитектура на основе событийной семантики - https://www.osp.ru/os/2021/03/13055996
+- Событийная онтология vs объектная - https://habr.com/ru/articles/706916/
+- Как я учил ChatGPT - https://habr.com/ru/articles/715492/
+- Акты, классы и семантический сахар - https://habr.com/ru/articles/708026/
+- Семантика и деятельность - https://habr.com/ru/articles/503406/
+- Деятельность, документы и семантика - https://habr.com/ru/articles/509990/
+- https://www.youtube.com/watch?v=gazUrDmjAOw&ab_channel=siberai
+- https://www.youtube.com/live/FQQ7umzDXhI
+- https://www.youtube.com/live/fhU2nJVlgRw
+- Дополнительные материалы в Телеграм-группе https://t.me/boldsea
 
 ### 6 февраля 2025 18:00 мск - На пути к AGI: Обзор работ 2024-2025 года - Татьяна Шаврина (Llama, Главный научный сотрудник Института Языкознания РАН)
 [![Watch the video](https://img.youtube.com/vi/s2stfH7Zji8/hqdefault.jpg)](https://youtu.be/s2stfH7Zji8)
