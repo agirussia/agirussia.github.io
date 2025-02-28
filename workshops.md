@@ -33,7 +33,7 @@
 
 ### 27 февраля 2025 17:00 мск - boldsea - событийно-ориентированный подход к семантическому моделированию - Александр Болдачев
 [![Watch the video](https://img.youtube.com/vi/DqcrKcbV7ec/hqdefault.jpg)](https://youtu.be/DqcrKcbV7ec)
-- [расшифровка]()
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/28_February_2025_Boldsea_event_driven_semantic_modeling_Alexander.md)
 - [видео в RUTUBE](https://rutube.ru/video/2bbd62123abbbbd1e8afb6dd5e6bea22/)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239214)
 - Архитектура на основе событийной семантики - https://www.osp.ru/os/2021/03/13055996
