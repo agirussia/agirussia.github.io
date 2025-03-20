@@ -4,15 +4,6 @@
 
 Онлайн-семинары проводятся по понедельникам или четвергам в 17:00 (октябрь-март) или 18:00 (апрель-сентябрь) по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на Zoom придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только зарегистрированным пользователям Zoom с полностью указанными действительными именем и фамилией и включенным видео. 
 
-### 13 марта 2025 17:00 мск - выходной
-
-### 20 марта 2025 17:00 мск - Онтологизация, управляемая когнитивной архитектурой, и действие-центричные онтологии - Егор Чурилов
-- https://anticomplexity.org/dejtsentrichnye-ontologii/
-- https://rutube.ru/video/aea3b7785de4d61dcddd83a325718fbf/?r=wd&t=1683
-- https://rutube.ru/video/a4375f893256fbaee566874f53eaefeb/?r=wd&t=2623
-- https://anticomplexity.org/slozhnost-pravovyh-ontologicheskih-modelej-na-primere-iz-pdd/
-- https://anticomplexity.org/transponirovanie-ontologicheskih-osnovanij-na-prostom-primere/
-
 ### 27 марта 2025 17:00 мск - выходной
 
 ### 3 апреля 2025 17:00 мск - Нечеткие "знания" и "ризонеры" (продолжение семинаров 23-30 февраля) - Антон Колонин (AGIRussia, Aigents, НГУ, SingularityNET)
@@ -32,6 +23,14 @@
 *Мы приглашаем спикеров со своими темами!*
 
 ## Прошедшие семинары и мероприятия
+
+### 20 марта 2025 17:00 мск - Онтологизация, управляемая когнитивной архитектурой, и действие-центричные онтологии - Егор Чурилов
+[![Watch the video](https://img.youtube.com/vi/P_zRuMXhF7I/hqdefault.jpg)](https://youtu.be/P_zRuMXhF7I)
+- https://anticomplexity.org/dejtsentrichnye-ontologii/
+- https://rutube.ru/video/aea3b7785de4d61dcddd83a325718fbf/?r=wd&t=1683
+- https://rutube.ru/video/a4375f893256fbaee566874f53eaefeb/?r=wd&t=2623
+- https://anticomplexity.org/slozhnost-pravovyh-ontologicheskih-modelej-na-primere-iz-pdd/
+- https://anticomplexity.org/transponirovanie-ontologicheskih-osnovanij-na-prostom-primere/
 
 ### 27 февраля 2025 17:00 мск - boldsea - событийно-ориентированный подход к семантическому моделированию - Александр Болдачев
 [![Watch the video](https://img.youtube.com/vi/DqcrKcbV7ec/hqdefault.jpg)](https://youtu.be/DqcrKcbV7ec)
