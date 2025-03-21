@@ -26,7 +26,7 @@
 
 ### 20 марта 2025 17:00 мск - Онтологизация, управляемая когнитивной архитектурой, и действие-центричные онтологии - Егор Чурилов
 [![Watch the video](https://img.youtube.com/vi/P_zRuMXhF7I/hqdefault.jpg)](https://youtu.be/P_zRuMXhF7I)
-- [расшифровка]()
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/20_March_2025_Ontologization%2C_Cognitive_Architecture%2CAction_Centric.md)
 - [видео в RUTUBE](https://rutube.ru/video/ee46300c0bd1ed94a5a771de046470b5/)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239215)
 - https://anticomplexity.org/dejtsentrichnye-ontologii/
