@@ -15,7 +15,7 @@
 - http://notaibook.site
 - https://www.youtube.com/watch?v=GOVu-ec9h2w
 
-### 24 апреля 2025 17:00 мск - уточняется
+### 24 апреля 2025 17:00 мск - Александр Болдачев - уточняется
 
 ### 10-13 августа 2025 - Конференция AGI-2025
 - https://agi-conf.org/2025/
@@ -26,6 +26,9 @@
 
 ### 20 марта 2025 17:00 мск - Онтологизация, управляемая когнитивной архитектурой, и действие-центричные онтологии - Егор Чурилов
 [![Watch the video](https://img.youtube.com/vi/P_zRuMXhF7I/hqdefault.jpg)](https://youtu.be/P_zRuMXhF7I)
+- [расшифровка]()
+- [видео в RUTUBE]()
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239215)
 - https://anticomplexity.org/dejtsentrichnye-ontologii/
 - https://rutube.ru/video/aea3b7785de4d61dcddd83a325718fbf/?r=wd&t=1683
 - https://rutube.ru/video/a4375f893256fbaee566874f53eaefeb/?r=wd&t=2623
