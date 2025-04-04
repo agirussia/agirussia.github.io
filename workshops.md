@@ -22,7 +22,7 @@
 ### 3 апреля 2025 18:00 мск - О моделях, задачах, нечетких "знаниях" и "ризонерах" (продолжение семинаров 23-30 февраля) - Антон Колонин (AGIRussia, Aigents, НГУ, SingularityNET)
 [![Watch the video](https://img.youtube.com/vi/X5gQ6LUMsMU/hqdefault.jpg)](https://youtu.be/X5gQ6LUMsMU)
 - [расшифровка]()
-- [видео в RUTUBE]()
+- [видео в RUTUBE](https://rutube.ru/video/79cb4ed2d1e3a9cb7f05713f8beca309/)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239216)
 - [слайды](https://aigents.com/papers/2025/ontologies-webstructor-aigents-2025.pdf)
 
