@@ -21,6 +21,9 @@
 
 ### 3 апреля 2025 18:00 мск - О моделях, задачах, нечетких "знаниях" и "ризонерах" (продолжение семинаров 23-30 февраля) - Антон Колонин (AGIRussia, Aigents, НГУ, SingularityNET)
 [![Watch the video](https://img.youtube.com/vi/X5gQ6LUMsMU/hqdefault.jpg)](https://youtu.be/X5gQ6LUMsMU)
+- [расшифровка]()
+- [видео в RUTUBE]()
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239216)
 - [слайды](https://aigents.com/papers/2025/ontologies-webstructor-aigents-2025.pdf)
 
 ### 20 марта 2025 17:00 мск - Онтологизация, управляемая когнитивной архитектурой, и действие-центричные онтологии - Егор Чурилов
