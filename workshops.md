@@ -23,7 +23,7 @@
 ### 9 апреля 2025 18:00 мск - RAG. Примеры использования внешний памяти и источников данных для улучшения качества работы LLM - Павел Саловский (NotAIbook)
 [![Watch the video](https://img.youtube.com/vi/gvloZQaF_8w/hqdefault.jpg)](https://youtu.be/gvloZQaF_8w)
 - [расшифровка]()
-- [видео в RUTUBE]()
+- [видео в RUTUBE](https://rutube.ru/video/f33cf2556b5eed3d58a870a86266276e/)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239217)
 - http://notaibook.site
 
