@@ -454,7 +454,7 @@
 
 ### 10 августа 2023 - Модель индивидуального и коллективного сознания на основе принципов социального доказательства и свободной энергии - Антон Колонин (основатель проекта Aigents, ведущий специалист НГУ)
 [![Watch the video](https://img.youtube.com/vi/tE5SS9kVEAM/hqdefault.jpg)](https://youtu.be/tE5SS9kVEAM)
-- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2023/Kolonin-2023-09-10.md)
+- [расшифровка]([https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2023/Kolonin-2023-09-10.md](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2023/10_august_2023_Model_of_individual_and_collective_consciousness_based_on_principles_of_social_proof_and_free_energy_Anton_Kolonin_founder_of_Aigents_project_leading_specialist_of_NSU.md))
 - https://ieeexplore.ieee.org/document/7361869?arnumber=7361869
 - https://link.springer.com/chapter/10.1007/978-3-319-97676-1_10
 - https://www.sciencedirect.com/science/article/pii/S1877050916317239
