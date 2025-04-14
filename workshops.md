@@ -20,6 +20,12 @@
 
 ## Прошедшие семинары и мероприятия
 
+### 9 апреля 2025 - Где я в моём мозге? - Александр Савостьянов (д.ф.н., к.б.н., НГУ, ИЦиГ) - Открытая лекция 9 апреля в 18:30 в центре коллективной работы «Точка кипения – Новосибирск»
+[![Watch the video](https://img.youtube.com/vi/PKtRG4dGf2I/hqdefault.jpg)](https://youtu.be/PKtRG4dGf2I)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/9_April_2025_Where_am_I_in_my_brain_-_Alexander_Savostyanov.md)
+- [видео в RUTUBE](https://rutube.ru/video/21c2d720de6184786a63f64b469d4610/)
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239218)
+
 ### 9 апреля 2025 18:00 мск - RAG. Примеры использования внешний памяти и источников данных для улучшения качества работы LLM - Павел Саловский (NotAIbook)
 [![Watch the video](https://img.youtube.com/vi/gvloZQaF_8w/hqdefault.jpg)](https://youtu.be/gvloZQaF_8w)
 - [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/April_9_2025_1800_MSK_RAG_Examples_of_using_external_memory_and.md)
