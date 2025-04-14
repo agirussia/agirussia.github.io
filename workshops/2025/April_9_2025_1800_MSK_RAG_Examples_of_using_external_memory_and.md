@@ -4,6 +4,8 @@
 - [видео в RUTUBE](https://rutube.ru/video/f33cf2556b5eed3d58a870a86266276e/)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239217)
 - http://notaibook.site
+- http://Partenit.tech
+- http://Partenit.io
 
 # Суммаризация семинара:
 
