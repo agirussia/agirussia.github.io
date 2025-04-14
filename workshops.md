@@ -26,6 +26,8 @@
 - [видео в RUTUBE](https://rutube.ru/video/f33cf2556b5eed3d58a870a86266276e/)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239217)
 - http://notaibook.site
+- http://Partenit.tech
+- http://Partenit.io
 
 ### 3 апреля 2025 18:00 мск - О моделях, задачах, нечетких "знаниях" и "ризонерах" (продолжение семинаров 23-30 февраля) - Антон Колонин (AGIRussia, Aigents, НГУ, SingularityNET)
 [![Watch the video](https://img.youtube.com/vi/X5gQ6LUMsMU/hqdefault.jpg)](https://youtu.be/X5gQ6LUMsMU)
