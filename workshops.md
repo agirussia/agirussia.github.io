@@ -15,7 +15,7 @@
 
 ### 24 апреля 2025 18:00 мск - Защищенное распределенное хранилище уникальных данных и большие языковые модели - Александр Болдачев
 [![Watch the video](https://img.youtube.com/vi/SRqw6fP1aZA/hqdefault.jpg)](https://youtu.be/SRqw6fP1aZA)
-- [расшифровка]()
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/24_April_2025_Secure_distributed_storage_of_unique_data_and_large.md)
 - [видео в RUTUBE](https://rutube.ru/video/fa305adfb33e46cb83a65672d323dc0c/)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239219)
 - Архитектура на основе событийной семантики - https://www.osp.ru/os/2021/03/13055996
