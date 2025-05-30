@@ -19,6 +19,7 @@
 - [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/)
 - [видео в RUTUBE](https://rutube.ru/channel/24279932/)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239220)
+- [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2025/Savostyanov_natural_and_artificial.ppt)
 - https://www.scopus.com/authid/detail.uri?authorId=6506101859
 - https://siberai.blogspot.com/2020/03/blog-post.html
 
