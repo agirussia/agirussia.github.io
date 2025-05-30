@@ -1,4 +1,4 @@
-## 28 мая 2025 - AGI-взгляд нейрофизиолога - Александр Савостьянов (д.ф.н., к.б.н., НГУ, ИЦиГ) - Антон Колонин — Семинар русскоязычного сообщества AGI
+## 28 мая 2025 - AGI-взгляд нейрофизиолога - Александр Савостьянов (д.ф.н., к.б.н., НГУ, ИЦиГ)
 [![Watch the video](https://img.youtube.com/vi/5yBWdkU1bpA/hqdefault.jpg)](https://youtu.be/5yBWdkU1bpA)
 - [видео в RUTUBE](https://rutube.ru/video/806669d7380aa179eb8fee745ecd83b0/)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239220)
