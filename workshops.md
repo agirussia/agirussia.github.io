@@ -17,7 +17,7 @@
 ### 28 мая 2025 18:00 мск - AGI-взгляд нейрофизиолога - Александр Савостьянов (д.ф.н., к.б.н., НГУ, ИЦиГ)
 [![Watch the video](https://img.youtube.com/vi/5yBWdkU1bpA/hqdefault.jpg)](https://youtu.be/5yBWdkU1bpA)
 - [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/)
-- [видео в RUTUBE](https://rutube.ru/channel/24279932/)
+- [видео в RUTUBE](https://rutube.ru/video/806669d7380aa179eb8fee745ecd83b0/)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239220)
 - [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2025/Savostyanov_natural_and_artificial.ppt)
 - https://www.scopus.com/authid/detail.uri?authorId=6506101859
