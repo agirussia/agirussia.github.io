@@ -4,9 +4,6 @@
 
 Онлайн-семинары проводятся по средам или четвергам в 17:00 (октябрь-март) или 18:00 (апрель-сентябрь) по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на Zoom придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только зарегистрированным пользователям Zoom с полностью указанными действительными именем и фамилией и включенным видео. 
 
-### 26-28 июня 2025 - «Сознание в виртуальной реальности» - международная конференция, приуроченную к 75-летию теста Тьюринга
-- https://lomonosov-msu.ru/rus/event/9601/
-
 ### 10-13 августа 2025 - Конференция AGI-2025
 - https://agi-conf.org/2025/
 
@@ -14,9 +11,16 @@
 
 ## Прошедшие семинары и мероприятия
 
+### 26 июня 2025 - Сознание ИИ – возможно или нет, необходимо или ни в коем случае? - Антон Колонин, «Сознание в виртуальной реальности» - международная конференция, приуроченную к 75-летию теста Тьюринга
+[![Watch the video](https://img.youtube.com/vi/NT9zyrytWiw/hqdefault.jpg)](https://youtu.be/NT9zyrytWiw)
+- [расшифровка](http://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/AI_Consciousness_Yes_No_Kolonin_20250626.md)
+- [видео в RUTUBE](https://rutube.ru/video/c65d215ca030ad6def0f352d698f089d/)
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239221)
+- https://lomonosov-msu.ru/rus/event/9601/
+
 ### 28 мая 2025 18:00 мск - AGI-взгляд нейрофизиолога - Александр Савостьянов (д.ф.н., к.б.н., НГУ, ИЦиГ)
 [![Watch the video](https://img.youtube.com/vi/5yBWdkU1bpA/hqdefault.jpg)](https://youtu.be/5yBWdkU1bpA)
-- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/May_28%2C_2025_AGI_the_view_of_a_neurophysiologist_Alexander_Savostyanov.md)
 - [видео в RUTUBE](https://rutube.ru/video/806669d7380aa179eb8fee745ecd83b0/)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239220)
 - [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2025/Savostyanov_natural_and_artificial.ppt)
