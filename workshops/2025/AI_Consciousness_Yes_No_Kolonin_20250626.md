@@ -1,5 +1,8 @@
 ## 27 июня 2025 - Сознание ИИ – возможно или нет, необходимо или ни в коем случае? - Антон Колонин
 [![Watch the video](https://img.youtube.com/vi/NT9zyrytWiw/hqdefault.jpg)](https://youtu.be/NT9zyrytWiw)
+- [видео в RUTUBE](https://rutube.ru/video/c65d215ca030ad6def0f352d698f089d/)
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239221)
+- https://lomonosov-msu.ru/rus/event/9601/
 
 **Краткое содержание**:
 
