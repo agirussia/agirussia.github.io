@@ -7,6 +7,9 @@
 ### 10-13 августа 2025 - Конференция AGI-2025
 - https://agi-conf.org/2025/
 
+### 11 сентября 2025 Общая теория управления - Михаил Никольский 
+- https://www.litres.ru/book/mihail-nikolskiy-332/russkiy-put-v-upravlenie-zachem-kak-i-chto-ponimat-ru-71481805/chitat-onlayn/
+
 *Мы приглашаем спикеров со своими темами!*
 
 ## Прошедшие семинары и мероприятия
