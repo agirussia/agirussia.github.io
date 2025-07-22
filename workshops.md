@@ -7,13 +7,13 @@
 ### 10-13 августа 2025 - Конференция AGI-2025
 - https://agi-conf.org/2025/
 
+### 4 сентября 2025 18:00 мск - Общая теория управления - Михаил Никольский 
+- https://www.litres.ru/book/mihail-nikolskiy-332/russkiy-put-v-upravlenie-zachem-kak-i-chto-ponimat-ru-71481805/chitat-onlayn/
+
 ### 8-12 сентября 2025 - Конференция "СОЗНАНИЕ-2025"
 - https://congrsysalgbai.ru/ru/
 
 ### 18 сентября 2025 18:00 мск - уточняется - Николай Токарев
-
-### 25 сентября 2025 18:00 мск - Общая теория управления - Михаил Никольский 
-- https://www.litres.ru/book/mihail-nikolskiy-332/russkiy-put-v-upravlenie-zachem-kak-i-chto-ponimat-ru-71481805/chitat-onlayn/
 
 *Мы приглашаем спикеров со своими темами!*
 
