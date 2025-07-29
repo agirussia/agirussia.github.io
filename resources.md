@@ -75,6 +75,7 @@
   - https://ai-journey.ru/ AI Journey — серия мероприятий по искусственному интеллекту и анализу данных, проводимая ведущими российскими и международными компаниями, лидерами по разработке и применению технологий искусственного интеллекта, декабрь 2023
   - https://opentalks.ai/ OpenTalks.AI — ведущая независимая открытая конференция по искусственному интеллекту в России, февраль 2022
   - http://damdid.org/ “Data Analytics and Management in Data Intensive Domains” conference (DAMDID), сентябрь 27–30, 2022
+  - https://aistconf.org/ The International Conference on Analysis of Images, Social Networks and Texts, октябрь 17–19, 2025
   - http://itnt-conf.org/index.php Международная конференция и молодёжная школа «Информационные технологии и нанотехнологии»
   - http://mmro.ru/ Всероссийская конференция с международным участием «Математические методы распознавания образов»
   - https://neuro.kaspersky.ru/conference/ - Kaspersky Neuromorphic AI 2022, международная конференция, посвященная нейроморфным технологиям ИИ и их применению в промышленности, октябрь 2022
