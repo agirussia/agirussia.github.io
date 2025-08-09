@@ -1,5 +1,9 @@
 ## 31 июля 2025 - Оптимальная архитектура Изобретающей машины (Сильного ИИ — делающего научные открытия) — Евгений Гарин (Директор центра долгосрочного прогнозирования НТР и СЭР ИНЭС РАН)
 [![Watch the video](https://img.youtube.com/vi/yP9OdhRlGQY/hqdefault.jpg)](https://youtu.be/yP9OdhRlGQY)
+- [видео в RUTUBE](https://rutube.ru/video/03f5b3d7dafc7a6d74e4405c54f38a32/)
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239223)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/31_July_2025_Optimal_Architecture_of_the_Inventing_MachineStrong.md)
+- [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2025/2025-07-31-Garin-Invention-Machine-ASI.pdf)
 
 **Краткое содержание**:
 
@@ -177,3 +181,4 @@ https://aigents.timepad.ru/event/1412596
 
 Программа следующих семинаров:
 https://agirussia.org/workshops.html
+
