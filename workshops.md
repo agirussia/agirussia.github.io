@@ -53,6 +53,7 @@
 
 ### 10-13 августа 2025 - Конференция AGI-2025 (Рейкьявик и онлайн виртуально)
 - https://agi-conf.org/2025/
+- [все видеозаписи](https://www.youtube.com/watch?v=XqYTQfQeMrE&list=PLAJnaovHtaFQZIZqNxIaBaNrFpCLmMPWx)
 
 ### 10 августа 2025 12:00 мск - Мастерская по Интерпретируемому NLP (Рейкьявик и онлайн виртуально)
 [![Watch the video](https://img.youtube.com/vi/l69Z0ArYKWo/hqdefault.jpg)](https://youtu.be/l69Z0ArYKWo)
