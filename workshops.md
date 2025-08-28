@@ -49,6 +49,7 @@
 [![Watch the video](https://img.youtube.com/vi/ERNu240umQg/hqdefault.jpg)](https://youtu.be/ERNu240umQg)
 - [видео в RUTUBE](https://rutube.ru/video/4d0de669aab490222d5a8c517fddbb77/)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239224)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/21_August_2025_Continuous_Learning_and_the_Problem_of_Catastrophic.md)
 - [презентация и код](https://gitflic.ru/project/dlarionov/cl)
 - https://arxiv.org/abs/2506.17169
 
