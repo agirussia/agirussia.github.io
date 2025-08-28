@@ -1,5 +1,9 @@
 ## 21 августа 2025 - Непрерывное обучение и проблема катастрофического забывания в импульсных нейронных сетях с колоночной организацией - Денис Ларионов
 [![Watch the video](https://img.youtube.com/vi/ERNu240umQg/hqdefault.jpg)](https://www.youtube.com/watch?v=ERNu240umQg)
+- [видео в RUTUBE](https://rutube.ru/video/4d0de669aab490222d5a8c517fddbb77/)
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239224)
+- [презентация и код](https://gitflic.ru/project/dlarionov/cl)
+- https://arxiv.org/abs/2506.17169
 
 **Краткое содержание**:
 
@@ -142,3 +146,4 @@ https://aigents.timepad.ru/event/1412596
 
 Программа следующих семинаров:
 https://agirussia.org/workshops.html
+
