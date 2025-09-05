@@ -44,6 +44,9 @@
 
 ### 4 сентября 2025 18:00 мск - Дискретный подход к машинному обучению - Дмитрий Кашицын (независимый исследователь)
 [![Watch the video](https://img.youtube.com/vi/b4gqensuK7g/hqdefault.jpg)](https://youtu.be/b4gqensuK7g)
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239226)
+- [видео в RUTUBE](https://rutube.ru/video/cd91eccf9af56d9e5e43f9722e0ef3bf/)
+- [презентация](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2025/Discrete_approach_to_machine_learning_Kashitsyn.pdf)
 - https://arxiv.org/abs/2508.00869
 - https://youtube.com/playlist?list=PLrIfOs8n6avYjKNpm6SNY-J3jMKfr5tSY&si=r_yb3zMzQiH9VHIX
 
