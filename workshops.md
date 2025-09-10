@@ -56,6 +56,7 @@
 - [видео в RUTUBE](https://rutube.ru/video/f60410d9830a05ff18964663055dbc23/)
 - [презентация](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2025/psyche_model_krykov_kolonin_slides.pdf)
 - [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/29_august_2025_System_model_of_natural_and_artificial_psyche.md)
+- https://arxiv.org/abs/2509.07009
 
 ### 21 августа 2025 18:00 мск - Непрерывное обучение и проблема катастрофического забывания в импульсных нейронных сетях с колоночной организацией - Денис Ларионов (Лаборатория нейроморфных вычислений Чувашский государственный университет)
 [![Watch the video](https://img.youtube.com/vi/ERNu240umQg/hqdefault.jpg)](https://youtu.be/ERNu240umQg)
