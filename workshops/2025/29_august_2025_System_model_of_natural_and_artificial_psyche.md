@@ -3,6 +3,7 @@
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239225)
 - [видео в RUTUBE](https://rutube.ru/video/f60410d9830a05ff18964663055dbc23/)
 - [презентация](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2025/psyche_model_krykov_kolonin_slides.pdf)
+- https://arxiv.org/abs/2509.07009
 
 ## Краткое содержание:
 
@@ -236,4 +237,5 @@ https://aigents.timepad.ru/event/1412596
 
 Программа следующих семинаров:
 https://agirussia.org/workshops.html
+
 
