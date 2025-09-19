@@ -52,6 +52,7 @@
 
 ### 8-12 сентября 2025 - Конференция "СОЗНАНИЕ-2025"
 - https://congrsysalgbai.ru/ru/
+- [А. Колонин, В. Крюков: Вычислительная концепция сознания и подсознания](https://rutube.ru/video/926b0102792315a43be313dde87aaac9/)
 
 ### 4 сентября 2025 18:00 мск - Дискретный подход к машинному обучению - Дмитрий Кашицын (независимый исследователь)
 [![Watch the video](https://img.youtube.com/vi/b4gqensuK7g/hqdefault.jpg)](https://youtu.be/b4gqensuK7g)
