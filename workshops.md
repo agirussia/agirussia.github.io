@@ -48,6 +48,7 @@
 [![Watch the video](https://img.youtube.com/vi/mAuOKhsS4K0/hqdefault.jpg)](https://youtu.be/mAuOKhsS4K0)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239227)
 - [видео в RUTUBE](https://rutube.ru/video/e9781516d47cda62a42db2e804e14c79/)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/19_09_2025_Beyond_deep_learning_a_new_paradigm_in_machine_learning.md)
 - [КОРА (алгоритм) Бонгарда](https://ru.wikipedia.org/wiki/%D0%9A%D0%9E%D0%A0%D0%90_(%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC))
 
 ### 8-12 сентября 2025 - Конференция "СОЗНАНИЕ-2025"
