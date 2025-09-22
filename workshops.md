@@ -9,12 +9,12 @@
 - http://postnauka.ru/author/a_neznanov
 - https://yandex.ru/video/preview/803415799613384695
 
-### 2 октября 2025 17:00 мск - самоподготовка 
+### 2 октября 2025 17:00 мск - Общая теория управления - Михаил Никольский 
+- https://www.litres.ru/book/mihail-nikolskiy-332/russkiy-put-v-upravlenie-zachem-kak-i-chto-ponimat-ru-71481805/chitat-onlayn/ 
 
 ### 9 октября 2025 17:00 мск - Новые приключения Марти (Марти 5.2 - математическая модель "себя в мире" как первая ступень самосознания) - Игорь Пивоваров
 
-### 16 октября 2025 17:00 мск - Общая теория управления - Михаил Никольский 
-- https://www.litres.ru/book/mihail-nikolskiy-332/russkiy-put-v-upravlenie-zachem-kak-i-chto-ponimat-ru-71481805/chitat-onlayn/
+### 16 октября 2025 17:00 мск - возжигание бамбука и вдыхание его аромата
 
 ### 20-24 октября - XXVII Международная научно-техническая конференция "Нейроинформатика-2025" (Москва)
 - https://neuroinfo.ru/index.php/ru/
