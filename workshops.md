@@ -48,7 +48,7 @@
 - https://microelectronica.pro/
 
 ### 25 сентября 2025 18:00 мск - RSE with AI or RSE vs AI: что даёт и что сможет дать искусственный интеллект исследовательской программной инженерии? - Алексей Незнанов (к.т.н., доцент. Член IEEE, РАИИ, НБМЗ, Senior Data Scientist в компании Шлюмберже, Старший научный сотрудник международной лаборатории интеллектуальных систем и структурного анализа ФКН НИУ ВШЭ)
-[![Watch the video](https://img.youtube.com/vi//hqdefault.jpg)](https://youtu.be/)
+[![Watch the video](https://img.youtube.com/vi/p8eqDYYSCRU/hqdefault.jpg)](https://youtu.be/p8eqDYYSCRU)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239229)
 - [видео в RUTUBE](https://rutube.ru/video/b291a8157e0598c1e88db7ab4e76b22e/)
 - [расшифровка]()
