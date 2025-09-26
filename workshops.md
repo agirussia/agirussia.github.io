@@ -43,8 +43,8 @@
 [![Watch the video](https://img.youtube.com/vi//hqdefault.jpg)](https://youtu.be/)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239228)
 - [видео в RUTUBE](https://rutube.ru/video/696c2c7d145688ec9bf1cb511339d4d4/)
-- [тезисы]()
-- [презентация (слайды)]()
+- [тезисы](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_2025_%D0%A1%D0%91%D0%98%D0%A1_%D0%91%D0%AF%D0%9C_%D0%9A%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D0%BD.pdf)
+- [презентация (слайды)](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2025/llm_vlsi_kolonin.pdf)
 - https://microelectronica.pro/
 
 ### 25 сентября 2025 18:00 мск - RSE with AI or RSE vs AI: что даёт и что сможет дать искусственный интеллект исследовательской программной инженерии? - Алексей Незнанов (к.т.н., доцент. Член IEEE, РАИИ, НБМЗ, Senior Data Scientist в компании Шлюмберже, Старший научный сотрудник международной лаборатории интеллектуальных систем и структурного анализа ФКН НИУ ВШЭ)
