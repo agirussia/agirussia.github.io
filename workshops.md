@@ -51,7 +51,7 @@
 [![Watch the video](https://img.youtube.com/vi/p8eqDYYSCRU/hqdefault.jpg)](https://youtu.be/p8eqDYYSCRU)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239229)
 - [видео в RUTUBE](https://rutube.ru/video/b291a8157e0598c1e88db7ab4e76b22e/)
-- [расшифровка]()
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/26_09_2025_RSE_with_AI_or_RSE_vs_AI_AI_for_Research_Software_Engineering.md)
 - [презентация (слайды)](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2025/Neznanov-RSE-2025-09-AI.pdf)
 - http://cs.hse.ru/ai/issa
 - http://postnauka.ru/author/a_neznanov
