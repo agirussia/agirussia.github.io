@@ -69,7 +69,8 @@
   - EMNLP A https://2022.emnlp.org/calls/papers/Important-Dates	Submission Deadline: Jun 17, 2022, Conference: Abu Dhabi, December 9-11, 2022
   - AAAI A https://aaai.org/Conferences/AAAI-23/ August 8, 2022: Abstracts due, Conference: February 7-14, 2023 at the Walter E. Washington Convention Center in Washington, DC, USA.
 - **Российские / Russian**
-  - https://ainlconf.ru/ AINL: Artificial Intelligence and Natural Language Conference, 20-22 апреля 2023
+  - https://knoth.ru/ - International Symposium on Knowledge-Ontology-Theory (IEEE KNOTH)
+  - https://ainlconf.ru/ - AINL: Artificial Intelligence and Natural Language Conference, 20-22 апреля 2023
   - https://dialogue-conf.org/ - INTERNATIONAL CONFERENCE on Computational Linguistics and Intellectual Technologies / Компьютерная лингвистика и интеллектуальные технологии
   - https://usbereit.ieeesiberia.org/ - IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT)
   - https://edm.ieeesiberia.org/ - IEEE International Conference of Young Professionals in Electron Devices and Materials (EDM)
