@@ -38,7 +38,7 @@
 
 ### 2 октября 2025 17:00 мск - Общая теория управления - Михаил Никольский 
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239230)
-- [видео в RUTUBE](https://studio.rutube.ru/video-editor/51d2f8f4c9186f6be3335efbf63e1b72)
+- [видео в RUTUBE](https://rutube.ru/video/51d2f8f4c9186f6be3335efbf63e1b72/)
 - https://t.me/upravdamen
 - https://www.litres.ru/book/mihail-nikolskiy-332/russkiy-put-v-upravlenie-zachem-kak-i-chto-ponimat-ru-71481805/chitat-onlayn/
 
