@@ -37,6 +37,7 @@
 ## Прошедшие семинары и мероприятия
 
 ### 2 октября 2025 17:00 мск - Общая теория управления - Михаил Никольский 
+[![Watch the video](https://img.youtube.com/vi/OeH424QQPk0/hqdefault.jpg)](https://youtu.be/OeH424QQPk0)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239230)
 - [видео в RUTUBE](https://rutube.ru/video/51d2f8f4c9186f6be3335efbf63e1b72/)
 - https://t.me/upravdamen
