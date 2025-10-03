@@ -48,13 +48,14 @@
 - https://github.com/opennars/OpenNARS-for-Applications/tree/master/examples/nal
 - https://github.com/ccrock4t/NARS-Pong
 
-### Конференции
+### Конференции / Conferences
 
-- **Рейтинги**
+- **Рейтинги / Ranks**
   - http://www.conferenceranks.com/
-- **Планируемые**
-  - http://www.conferencelist.info/upcoming.html  
-- **Международные**			
+- **Планируемые / Planned**
+  - https://internationalconferencealerts.com/conferences/
+  - http://www.conferencelist.info/upcoming.html
+- **Международные / International (High class)**			
   - IJCAI A	https://ijcai-23.org/call-for-papers/	South Africa, Aug 19-25, 2023. Abstract submission deadline: January 11, 2023
   - ACL A	https://2023.aclweb.org/  Association for Computational Linguistics, Toronto, Canada July 9-14, 2023 / Abstract deadline for submissions	January 13, 2023
   - AGI B4	https://agi-conf.org/	Stockholm and Virtual, June 16 – 19, 2023 / Paper submission: March 5 (Sun.), 2023 http://agi-conf.org/2023/call-for-papers-2/	
@@ -67,9 +68,11 @@
   - KDD/SIGKDD A https://kdd.org/ ACM Confernece on Knowledge Discovery and Daya Minaing, Confernece: Aug 14-18 2022, Washington DC USA
   - EMNLP A https://2022.emnlp.org/calls/papers/Important-Dates	Submission Deadline: Jun 17, 2022, Conference: Abu Dhabi, December 9-11, 2022
   - AAAI A https://aaai.org/Conferences/AAAI-23/ August 8, 2022: Abstracts due, Conference: February 7-14, 2023 at the Walter E. Washington Convention Center in Washington, DC, USA.
-- **Российские**
+- **Российские / Russian**
   - https://ainlconf.ru/ AINL: Artificial Intelligence and Natural Language Conference, 20-22 апреля 2023
-  - https://www.dialog-21.ru/ - Компьютерная лингвистика и интеллектуальные технологии, 14-17 июня 2023
+  - https://dialogue-conf.org/ - INTERNATIONAL CONFERENCE on Computational Linguistics and Intellectual Technologies / Компьютерная лингвистика и интеллектуальные технологии
+  - https://usbereit.ieeesiberia.org/ - IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT)
+  - https://edm.ieeesiberia.org/ - IEEE International Conference of Young Professionals in Electron Devices and Materials (EDM)
   - http://math.nsc.ru/conference/zont/23/ Международная конференция «Знания-Онтологии-Теории», 2–6 октября 2023 (1 раз в 2 года) 
   - http://neuroinfo.ru/ - "НЕЙРОИНФОРМАТИКА" – вопросы теории и приложений искусственных нейронных сетей, проблемы нейробиологии и системной биофизики, задачи адаптивного поведения и когнитивных исследований и другие актуальные проблемы нейронаук, 23-27 октябрь 2023
   - https://ai-journey.ru/ AI Journey — серия мероприятий по искусственному интеллекту и анализу данных, проводимая ведущими российскими и международными компаниями, лидерами по разработке и применению технологий искусственного интеллекта, декабрь 2023
