@@ -40,6 +40,7 @@
 [![Watch the video](https://img.youtube.com/vi/OeH424QQPk0/hqdefault.jpg)](https://youtu.be/OeH424QQPk0)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239230)
 - [видео в RUTUBE](https://rutube.ru/video/51d2f8f4c9186f6be3335efbf63e1b72/)
+- [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2025/Nikolsky_General_Control_Theory_AGI_in_Russian_2025_09_04.pdf)
 - [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/02_10_2025_General_Theory_of_Management_Mikhail_Nikolsky_AGI_seminar.md)
 - https://t.me/upravdamen
 - https://www.litres.ru/book/mihail-nikolskiy-332/russkiy-put-v-upravlenie-zachem-kak-i-chto-ponimat-ru-71481805/chitat-onlayn/
