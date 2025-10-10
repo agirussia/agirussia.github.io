@@ -33,7 +33,7 @@
 ## Прошедшие семинары и мероприятия
 
 ### 9 октября 2025 17:00 мск - Новые приключения Марти (Марти 5.2 - математическая модель "себя в мире" как первая ступень самосознания) - Игорь Пивоваров
-[![Watch the video](https://img.youtube.com/vi/OeH424QQPk0/hqdefault.jpg)](https://youtu.be/OeH424QQPk0)
+[![Watch the video](https://img.youtube.com/vi/XnqxJSIKGnE/hqdefault.jpg)](https://youtu.be/XnqxJSIKGnE)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239231)
 - [видео в RUTUBE](https://rutube.ru/video/746e51a64dea8a664deaf6f55b5ccb46/)
 - [видео в Telegram](https://t.me/agirussianews/2206?comment=111748)
