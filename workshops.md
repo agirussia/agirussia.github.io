@@ -37,6 +37,7 @@
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239231)
 - [видео в RUTUBE](https://rutube.ru/video/746e51a64dea8a664deaf6f55b5ccb46/)
 - [видео в Telegram](https://t.me/agirussianews/2206?comment=111748)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/09_10_2025_New_Adventures_of_Marty_Igor_Pivovarov.md)
 
 ### 2 октября 2025 17:00 мск - Общая теория управления - Михаил Никольский 
 [![Watch the video](https://img.youtube.com/vi/OeH424QQPk0/hqdefault.jpg)](https://youtu.be/OeH424QQPk0)
