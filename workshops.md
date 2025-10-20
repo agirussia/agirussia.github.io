@@ -26,7 +26,9 @@
 
 ### 11 декабря 2025 17:00 мск - Долгая или короткая дорога к AGI - Владимир Смолин - уточняется
 
-### 18 декабря 2025 17:00 мск - уточняется
+### 18 декабря 2025 17:00 мск - Интеллект без нейронов? Сложное поведение в перспективе эволюционной биологии - Дарья Романова (к.б.н., институт высшей нервной деятельности и нейрофизиологии РАН)
+- https://scientificrussia.ru/articles/zivye-relikty-mehanika-pamati-i-evolucia-nervnoj-sistemy-studenceskij-tur-v-ivnd-i-nf-ran
+- https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2022.1071961/full
 
 ### 15 января 2026 17:00 мск - уточняется
 
