@@ -1,4 +1,4 @@
-# 21 октября 2025 - СИЛЬНЫЙ ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ - РЕШЕНИЯ, ТЕКУЩИЕ И БУДУЩИЕ ПРОБЛЕМЫ - Нейроинформатика-2025
+# 20 октября 2025 - СИЛЬНЫЙ ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ - РЕШЕНИЯ, ТЕКУЩИЕ И БУДУЩИЕ ПРОБЛЕМЫ - Нейроинформатика-2025
 [![Watch the video](https://img.youtube.com/vi/zLAvMID3h9g/hqdefault.jpg)](https://youtu.be/zLAvMID3h9g)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239233)
 - [видео в RUTUBE](https://rutube.ru/video/91c586d943dec8e91ab65660f7bd5afa/)
@@ -186,4 +186,5 @@ https://aigents.timepad.ru/event/1412596
 
 Программа следующих семинаров:
 https://agirussia.org/workshops.html
+
 
