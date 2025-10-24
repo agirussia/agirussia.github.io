@@ -27,7 +27,8 @@
 - https://scientificrussia.ru/articles/zivye-relikty-mehanika-pamati-i-evolucia-nervnoj-sistemy-studenceskij-tur-v-ivnd-i-nf-ran
 - https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2022.1071961/full
 
-### 15 января 2026 17:00 мск - уточняется
+### 15 января 2026 17:00 мск - Системный взгляд на эволюцию мозга - Смирнитская Ирина Аркадьевна (НИЦ "Курчатовский институт", НИИСИ) - уточняется
+- https://www.niisi.ru/iont/staff/sia/
 
 ### 22 января 2026 17:00 мск - уточняется
 
