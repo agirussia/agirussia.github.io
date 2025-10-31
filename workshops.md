@@ -54,6 +54,7 @@
 [![Watch the video](https://img.youtube.com/vi/zLAvMID3h9g/hqdefault.jpg)](https://youtu.be/zLAvMID3h9g)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239233)
 - [видео в RUTUBE](https://rutube.ru/video/91c586d943dec8e91ab65660f7bd5afa/)
+- [видео в Telegram](https://t.me/agitopics/53344/56001)
 - [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/21_10_2025_October_21_2025_STRONG_ARTIFICIAL_INTELLIGENCE_SOLUTIONS.md)
 - https://neuroinfo.ru/index.php/ru/
 
