@@ -43,6 +43,7 @@
 ## Прошедшие семинары и мероприятия
 
 ### 30 октября 2025 17:00 мск - Мультиагентная система FractalAgents AI - Захар Понимаш (Chief of Ai research ООО "Аватар Машина"), Виктор Носко (Генеральный директор ООО "Аватар Машина")
+[![Watch the video](https://img.youtube.com/vi/btDsmXzxwRU/hqdefault.jpg)](https://youtu.be/btDsmXzxwRU)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239234)
 - [видео в RUTUBE](https://rutube.ru/video/fda959cee5b856d6e65fa53063cb0db4/)
 - [видео в Telegram](https://t.me/agitopics/53344/55889)
