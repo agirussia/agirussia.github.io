@@ -47,6 +47,7 @@
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239234)
 - [видео в RUTUBE](https://rutube.ru/video/fda959cee5b856d6e65fa53063cb0db4/)
 - [видео в Telegram](https://t.me/agitopics/53344/55889)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/October_30,2025_Multi_agent_system_FractalAgents_AI_Zakhar_Ponimash.md)
 
 ### 21-23 октября - Международный форум за общественно-полезный AGI (Стамбул)
 - https://bgisummit.io
