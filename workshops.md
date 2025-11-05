@@ -222,7 +222,7 @@
 - https://www.youtube.com/live/fhU2nJVlgRw
 - Дополнительные материалы в Телеграм-группе https://t.me/boldsea
 
-### 6 февраля 2025 18:00 мск - На пути к AGI: Обзор работ 2024-2025 года - Татьяна Шаврина (Llama, Главный научный сотрудник Института Языкознания РАН)
+### 6 февраля 2025 18:00 мск - На пути к AGI: Обзор работ 2024-2025 года - Татьяна Шаврина (Llama, старший научный сотрудник Института Языкознания РАН)
 [![Watch the video](https://img.youtube.com/vi/s2stfH7Zji8/hqdefault.jpg)](https://youtu.be/s2stfH7Zji8)
 - [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/06_February_2025_On_the_path_to_AGI_Overview_of_works_from_2024.md)
 - [видео в RUTUBE](https://rutube.ru/video/4681e7d70e94ba01798a96446e82df06/)
