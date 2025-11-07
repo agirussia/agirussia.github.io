@@ -40,7 +40,7 @@
 ## Прошедшие семинары и мероприятия
 
 ### 6 ноября 2025 17:00 мск - Секретные тайны обучения с подкреплением в OpenAI Gym, Игорь Пивоваров - семинар AGI
-[![Watch the video](https://img.youtube.com/vi//hqdefault.jpg)](https://youtu.be/)
+[![Watch the video](https://img.youtube.com/vi/QpBSIsMP1RY/hqdefault.jpg)](https://youtu.be/QpBSIsMP1RY)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239235)
 - [видео в RUTUBE](https://rutube.ru/video/51d24bdfb671305659978b688970d7da/)
 - [видео в Telegram](https://t.me/agitopics/53344/56853)
