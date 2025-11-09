@@ -44,7 +44,7 @@
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239235)
 - [видео в RUTUBE](https://rutube.ru/video/51d24bdfb671305659978b688970d7da/)
 - [видео в Telegram](https://t.me/agitopics/53344/56853)
-- [расшифровка]()
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/November_6%2C_2025_Secrets_of_Reinforcement_Learning_in_OpenAI_Gym.md)
 - https://t.me/agitopics/55366/55367
 
 ### 30 октября 2025 17:00 мск - Мультиагентная система FractalAgents AI - Захар Понимаш (Chief of Ai research ООО "Аватар Машина"), Виктор Носко (Генеральный директор ООО "Аватар Машина")
