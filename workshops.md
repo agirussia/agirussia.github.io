@@ -52,7 +52,7 @@
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239236)
 - [видео в RUTUBE](https://rutube.ru/video/19ac779630ec02b9fb525860aa425e41/)
 - [видео в Telegram](https://t.me/agitopics/53344/57468)
-- [расшифровка]()
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/November_13%2C2025_Applied_phenomenology_of_sports_neurophysiology.md)
 - https://coachtube.com/
  
 ### 6 ноября 2025 17:00 мск - Секретные тайны обучения с подкреплением в OpenAI Gym, Игорь Пивоваров - семинар AGI
