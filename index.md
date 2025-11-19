@@ -2,6 +2,8 @@
 
 Мы ведем группы и организуем семинары русскоязычного сообщества разработчиков систем AGI (Artificial General Intelligence или Общий Искусственный Интеллект) или Strong AI (Сильный Искусственный Интеллект), а также - являющийся их частным случаем HLAI (Human-Level Artificial Intelligence или Искусственный Интеллект Человеческого Уровня).
 
+[AGI Russia — юридический дисклеймер и отказ от ответственности](https://agirussia.org/disclaimer.html)
+
 ## Группы
 - https://t.me/agirussianews (новостной канал)
 - https://t.me/agirussia (основная и про технологии)
