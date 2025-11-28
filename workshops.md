@@ -4,7 +4,7 @@
 
 Онлайн-семинары проводятся по средам или четвергам в 17:00 (октябрь-март) или 18:00 (апрель-сентябрь) по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на Zoom придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только зарегистрированным пользователям Zoom с полностью указанными действительными именем и фамилией и включенным видео. 
 
-### 4 декабря 2025 17:00 мск - Чем искусственный И от естественного отличается - Александр Хомяков 
+### 4 декабря 2025 17:00 мск - самоподготовка 
 
 ### 11 декабря 2025 17:00 мск - Долгая или короткая дорога к AGI - Владимир Смолин - уточняется
 
@@ -45,12 +45,15 @@
 ## Прошедшие семинары и мероприятия
 
 ### 27 ноября 2025 17:00 мск - Методы оптимизации баз данных с использованием генеративных подходов машинного обучения - Василенко Никита (Институт Систем Информатики СО РАН) 
-
+[![Watch the video](https://img.youtube.com/vi/ZotclrCBpCc/hqdefault.jpg)](https://youtu.be/ZotclrCBpCc)
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239237)
+- [видео в RUTUBE](https://rutube.ru/video/19ac779630ec02b9fb525860aa425e41/)
+- [видео в Telegram](https://t.me/agitopics/53344/60460)
 
 ### 13 ноября 2025 17:00 мск - О, спорт! Ты AGI? (прикладная феноменология спортивной нейрофизиологии применительно к созданию AGI) - Антон Морозов (CTO coachtube.com)
 [![Watch the video](https://img.youtube.com/vi/ONAi3cg3jvY/hqdefault.jpg)](https://youtu.be/ONAi3cg3jvY)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239236)
-- [видео в RUTUBE](https://rutube.ru/video/19ac779630ec02b9fb525860aa425e41/)
+- [видео в RUTUBE](https://rutube.ru/video/bbbe762aa339b9e24f23d0f4de36c7d6/)
 - [видео в Telegram](https://t.me/agitopics/53344/57468)
 - [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/November_13%2C2025_Applied_phenomenology_of_sports_neurophysiology.md)
 - https://coachtube.com/
