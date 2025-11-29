@@ -49,6 +49,7 @@
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239237)
 - [видео в RUTUBE](https://rutube.ru/video/bbbe762aa339b9e24f23d0f4de36c7d6/)
 - [видео в Telegram](https://t.me/agitopics/53344/60460)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/28_11_25_Database_optimization_methods_using_generative_machine.md)
 
 ### 13 ноября 2025 17:00 мск - О, спорт! Ты AGI? (прикладная феноменология спортивной нейрофизиологии применительно к созданию AGI) - Антон Морозов (CTO coachtube.com)
 [![Watch the video](https://img.youtube.com/vi/ONAi3cg3jvY/hqdefault.jpg)](https://youtu.be/ONAi3cg3jvY)
