@@ -46,7 +46,7 @@
 
 # 2 декабря 2025 - Когнитивнаая архитектура и вычислительная модель искусственной психики - Антон Колонин
 [![Watch the video](https://img.youtube.com/vi/KjLBTDnN0AQ/hqdefault.jpg)](https://youtu.be/KjLBTDnN0AQ)
-- [видео в ВК](video-227141975_456239033)
+- [видео в ВК](https://vk.com/video-227141975_456239033)
 - [презентация](https://github.com/aigents/iai/blob/main/docs/2025/psyche_model_kolonin_en.pdf)
 - https://arxiv.org/abs/2509.07009
 
