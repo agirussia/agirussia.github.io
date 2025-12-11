@@ -17,7 +17,7 @@
 
 ### 29 января 2026 17:00 мск - тема уточняется - Татьяна Шаврина
 
-### 5 февраля 2026 17:00 мск - Как SHARIK (State-based History-aware Artificially Reinforced Kernel) за MARTI в Open AI Gym гонялся - Антон Колонин   
+### 5 февраля 2026 17:00 мск - Как SHARIK (State-based History-aware Artificiall Reinforcement Intelligence Kernel) за MARTI в Open AI Gym гонялся - Антон Колонин   
 
 ### 12 февраля 2026 17:00 мск - пропускаем
 
