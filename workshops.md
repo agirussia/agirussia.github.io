@@ -44,6 +44,12 @@
 
 ## Прошедшие семинары и мероприятия
 
+# 2 декабря 2025 - Когнитивнаая архитектура и вычислительная модель искусственной психики - Антон Колонин
+[![Watch the video](https://img.youtube.com/vi/KjLBTDnN0AQ/hqdefault.jpg)](https://youtu.be/KjLBTDnN0AQ)
+- [видео в ВК](video-227141975_456239033)
+- [презентация](https://github.com/aigents/iai/blob/main/docs/2025/psyche_model_kolonin_en.pdf)
+- https://arxiv.org/abs/2509.07009
+
 ### 27 ноября 2025 17:00 мск - Методы оптимизации баз данных с использованием генеративных подходов машинного обучения - Василенко Никита (Институт Систем Информатики СО РАН) 
 [![Watch the video](https://img.youtube.com/vi/ZotclrCBpCc/hqdefault.jpg)](https://youtu.be/ZotclrCBpCc)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239237)
@@ -142,7 +148,7 @@
 [![Watch the video](https://img.youtube.com/vi/lxLFcYNpuDI/hqdefault.jpg)](https://youtu.be/lxLFcYNpuDI)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239225)
 - [видео в RUTUBE](https://rutube.ru/video/f60410d9830a05ff18964663055dbc23/)
-- [презентация](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2025/psyche_model_krykov_kolonin_slides.pdf)
+- [презентация](https://github.com/aigents/iai/blob/main/docs/2025/psyche_model_kolonin_en.pdf)
 - [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/29_august_2025_System_model_of_natural_and_artificial_psyche.md)
 - https://arxiv.org/abs/2509.07009
 
