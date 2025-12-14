@@ -45,6 +45,8 @@
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239238)
 - [видео в RUTUBE](https://rutube.ru/video/e1f27936c89f2314bf2640cdfc1435da/)
 - [видео в Telegram](https://t.me/agitopics/53344/62683)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/December_11_2025_Analysis_of_AGI_construction_paths_from_the_perspective.md)
+- [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2025/2025_Path_2_AGI_Smolin.pdf)
 
 # 2 декабря 2025 - Когнитивная архитектура и вычислительная модель искусственной психики - Антон Колонин
 [![Watch the video](https://img.youtube.com/vi/KjLBTDnN0AQ/hqdefault.jpg)](https://youtu.be/KjLBTDnN0AQ)
