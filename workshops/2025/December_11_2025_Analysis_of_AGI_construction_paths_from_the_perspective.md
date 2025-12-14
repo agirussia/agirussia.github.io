@@ -3,6 +3,8 @@
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239238)
 - [видео в RUTUBE](https://rutube.ru/video/e1f27936c89f2314bf2640cdfc1435da/)
 - [видео в Telegram](https://t.me/agitopics/53344/62683)
+- [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2025/2025_Path_2_AGI_Smolin.pdf)
+
 
 ### Ключевые тезисы доклада
 
@@ -155,6 +157,7 @@ https://aigents.timepad.ru/event/1412596
 
 Программа следующих семинаров:
 https://agirussia.org/workshops.html
+
 
 
 
