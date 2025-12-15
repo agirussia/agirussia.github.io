@@ -334,9 +334,9 @@
 
 ### 7 ноября 2024 - Когнитивно-поведенческая модель на основе социального доказательства и ограничении ресурсов - Антон Колонин
 [![Watch the video](https://img.youtube.com/vi/x6tDU-5eXcE/hqdefault.jpg)](https://youtu.be/x6tDU-5eXcE)
-- [видео в ВК](https://vk.com/video/@agirussia?z=video-210968399_456239203)
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239203)
 - [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/Cognitive_behavioral_model_based_on_social_proof_and_resource_limitation.md)
-- [слайды](https://aigents.com/papers/2024/social-evidence_kolonin_2024.pdf) 
+- [слайды](https://github.com/aigents/iai/blob/main/docs/2024/social-evidence_kolonin_2024.pdf) 
 
 ### 31 октября 2024 17:00 мск - Современное понимание принципов работы психики и подходы к созданию зооморфного искусственного интеллекта - Сычёв Василий Алексеевич (психофизиолог, член Президиума и секретарь этического комитета межнациональной психофизиологической ассоциации)
 [![Watch the video](https://img.youtube.com/vi/Gc9hbyEUOzE/hqdefault.jpg)](https://youtu.be/Gc9hbyEUOzE)
