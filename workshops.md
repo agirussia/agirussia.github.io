@@ -4,10 +4,6 @@
 
 Онлайн-семинары проводятся по средам или четвергам в 17:00 (октябрь-март) или 18:00 (апрель-сентябрь) по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на Zoom придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только зарегистрированным пользователям Zoom с полностью указанными действительными именем и фамилией и включенным видео. 
 
-### 18 декабря 2025 17:00 мск - Интеллект без нейронов? Сложное поведение в перспективе эволюционной биологии - Дарья Романова (к.б.н., институт высшей нервной деятельности и нейрофизиологии РАН)
-- https://scientificrussia.ru/articles/zivye-relikty-mehanika-pamati-i-evolucia-nervnoj-sistemy-studenceskij-tur-v-ivnd-i-nf-ran
-- https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2022.1071961/full
-
 ### 15 января 2026 17:00 мск - Системный взгляд на эволюцию мозга - Смирнитская Ирина Аркадьевна (НИЦ "Курчатовский институт", НИИСИ) - уточняется
 - https://www.niisi.ru/iont/staff/sia/
 
@@ -39,6 +35,13 @@
 *Мы приглашаем спикеров со своими темами!*
 
 ## Прошедшие семинары и мероприятия
+
+### 18 декабря 2025 17:00 мск - Интеллект без нейронов? Сложное поведение в перспективе эволюционной биологии - Дарья Романова (к.б.н., институт высшей нервной деятельности и нейрофизиологии РАН)
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239239)
+- [видео в RUTUBE](https://rutube.ru/video/d0c3cb9a7ca13afc679b850c2c384027/)
+- [видео в Telegram](https://t.me/agitopics/53344/63652)
+- https://scientificrussia.ru/articles/zivye-relikty-mehanika-pamati-i-evolucia-nervnoj-sistemy-studenceskij-tur-v-ivnd-i-nf-ran
+- https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2022.1071961/full
 
 ### 11 декабря 2025 17:00 мск - Анализ путей построения AGI с точки зрения синергетики - Владимир Смолин (н.с. сектора робототехники ФИЦ ИПМ им. М.В.Келдыша РАН)
 [![Watch the video](https://img.youtube.com/vi/1wcw61yNXMA/hqdefault.jpg)](https://youtu.be/1wcw61yNXMA)
