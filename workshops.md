@@ -37,6 +37,7 @@
 ## Прошедшие семинары и мероприятия
 
 ### 18 декабря 2025 17:00 мск - Интеллект без нейронов? Сложное поведение в перспективе эволюционной биологии - Дарья Романова (к.б.н., институт высшей нервной деятельности и нейрофизиологии РАН)
+[![Watch the video](https://img.youtube.com/vi/PLJt5-j9-UE/hqdefault.jpg)](https://youtu.be/PLJt5-j9-UE)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239239)
 - [видео в RUTUBE](https://rutube.ru/video/d0c3cb9a7ca13afc679b850c2c384027/)
 - [видео в Telegram](https://t.me/agitopics/53344/63652)
