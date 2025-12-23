@@ -52,6 +52,8 @@
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239239)
 - [видео в RUTUBE](https://rutube.ru/video/d0c3cb9a7ca13afc679b850c2c384027/)
 - [видео в Telegram](https://t.me/agitopics/53344/63652)
+- [презентация](https://t.me/agitopics/53344/63784)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/19_12_25_Complex_behavior_in_the_perspective_of_evolutionary_biology.md)
 - https://scientificrussia.ru/articles/zivye-relikty-mehanika-pamati-i-evolucia-nervnoj-sistemy-studenceskij-tur-v-ivnd-i-nf-ran
 - https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2022.1071961/full
 
