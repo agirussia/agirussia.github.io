@@ -579,9 +579,9 @@
   - Важность философского осмысления проблематики моделирования для методологии, терминологии и регулирования деятельности на примере ИИ.
   - Примеры. Таблица терминов, Различение слабых и сильных ИИ и их взаимодействие. Ценности, цели и назначение ИИ как сферы деятельности (человеку и человечеству от ИИ нужны инструменты, а не конкуренты), Локальные и экзистенциальные угрозы ИИ, различение разумности и "живости" роботов и ИИ.
 
-### 21 декабря 2023 - Самоорганизация профессиональных и экспертных сообществ на примере AGIRussia (круглый стол)
+### 21 декабря 2023 - Самоорганизация профессиональных и экспертных сообществ на примере AGIRussia (круглый стол - часть 1)
 [![Watch the video](https://img.youtube.com/vi/9spNTql_13c/hqdefault.jpg)](https://youtu.be/9spNTql_13c)
-- [Расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2023/Self_organization_of_professional_and_expert_communities_on_the.md)
+- [Расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2023/21_december_2023_-_Self-organization_of_professional_and_expert_communities_using_the_example_of_AGIRussia_-_AGI_Seminar.md)
 - Краткая история сообщества [AGI-in-Russian](https://agirussia.org/) и [коллективного интеллекта](https://github.com/agirussia/agirussia.github.io/wiki/AGI-%D0%BA%D0%B0%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82) в нем, [регламент](https://t.me/agirussia/75), "оргруппа/редколлегия" и [бот Aigents](https://dzen.ru/media/aigents/chto-bot-aigents-umeet-v-telegram-5fcd08bf8f8c7853edb22bc8)
 - Вопросы для обсуждения
   - Как не терять знания? Одна тема с новыми участниками всплывает по многу раз, новые участники начинают ее сначала, игнорируя позиции предшественников. Создать AGI-бота (типа [Aigents](https://dzen.ru/media/aigents/chto-bot-aigents-umeet-v-telegram-5fcd08bf8f8c7853edb22bc8)), который будет выцеплять повторяющиеся тезисы и отсылать предыдущим обсуждениям? А смысл отсылать к предыдущим обсуждениям, если в них не было найдено консенсуса? Как находить консенус и фиксировать его? Создать AGI-бота, который будет выявлять и сопоставлять позиции и выводить резюме с учетом рейтингов (каких-то) авторов позиций? 
