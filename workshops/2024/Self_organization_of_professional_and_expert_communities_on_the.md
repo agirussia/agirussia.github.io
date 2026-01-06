@@ -1,4 +1,4 @@
-## 21 марта 2024 - Самоорганизация профессиональных и экспертных сообществ на примере AGIRussia — Семинар AGI
+## 21 марта 2024 - Самоорганизация профессиональных и экспертных сообществ на примере AGIRussia — Семинар AGI (часть 3)
 [![Watch the video](https://img.youtube.com/vi/NwZqZUaWPVo/hqdefault.jpg)](https://youtu.be/NwZqZUaWPVo)
 
 
@@ -138,3 +138,4 @@ https://aigents.timepad.ru/event/1412596
 
 Программа следующих семинаров:
 https://agirussia.org/workshops.html
+
