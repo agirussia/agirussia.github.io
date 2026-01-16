@@ -50,7 +50,7 @@
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239240)
 - [видео в RUTUBE](https://rutube.ru/video/bdace8d760578aa5a207a857f204ec67/)
 - [видео в Telegram](https://t.me/agitopics/53344/66996)
-- [расшифровка]()
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/15_January_2026_A_Systems_View_of_Brain_Evolution_Irina_Arkadyevna.md)
 - https://www.niisi.ru/iont/staff/sia/
 
 ### 18 декабря 2025 17:00 мск - Интеллект без нейронов? Сложное поведение в перспективе эволюционной биологии - Дарья Романова (к.б.н., институт высшей нервной деятельности и нейрофизиологии РАН)
