@@ -44,6 +44,7 @@
 
 ### 22 января 2026 17:00 мск - О методах контекстно-эффективной "инъекции" внешних знаний в большую языковую модель - Иван Бондаренко (Лаборатория прикладных цифровых технологий НГУ) 
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239241)
+- [видео в RUTUBE](https://rutube.ru/video/36a11701eece83a580030a0dab4d25d2/)
 - https://github.com/AsphodelRem/RAGU
 - https://gitverse.ru/asphodel_rem/RAGU
 - https://mca.nsu.ru/labadt/
