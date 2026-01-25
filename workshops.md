@@ -47,6 +47,7 @@
 - [видео в Telegram](https://t.me/agitopics/53344/67706)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239241)
 - [видео в RUTUBE](https://rutube.ru/video/36a11701eece83a580030a0dab4d25d2/)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/January_22_2026_About_methods_of_context_efficient_injectionof.md)
 - https://github.com/AsphodelRem/RAGU
 - https://gitverse.ru/asphodel_rem/RAGU
 - https://mca.nsu.ru/labadt/
