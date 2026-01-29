@@ -9,7 +9,8 @@
 - https://www.linkedin.com/in/tatiana-shavrina/
 - https://iling-ran.ru/
 
-### 5 февраля 2026 17:00 мск - Как SHARIK (State-based History-aware Artificiall Reinforcement Intelligence Kernel) за MARTI в Open AI Gym гонялся - Антон Колонин   
+### 5 февраля 2026 17:00 мск - Сделаем экспериментально-опытно обучение ... интерпретирумым (с подкреплением и без)! - Антон Колонин   
+- https://arxiv.org/abs/2509.07009
 
 ### 12 февраля 2026 17:00 мск - пропускаем
 
