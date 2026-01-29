@@ -45,6 +45,7 @@
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239242)
 - [видео в Telegram](https://t.me/agitopics/53344/68395)
 - [видео в RUTUBE]()
+- [презентация](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/2026_AGI_Russia_LLM_T_Shavrina.pdf)
 - https://t.me/rybolos_channel
 - https://www.linkedin.com/in/tatiana-shavrina/
 - https://iling-ran.ru/
