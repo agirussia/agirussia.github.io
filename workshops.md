@@ -44,7 +44,7 @@
 [![Watch the video](https://img.youtube.com/vi/7CpfvphJJNI/hqdefault.jpg)](https://youtu.be/7CpfvphJJNI)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239242)
 - [видео в Telegram](https://t.me/agitopics/53344/68395)
-- [видео в RUTUBE]()
+- [видео в RUTUBE](https://rutube.ru/video/a2ceedfb8b2d69013078217c0bee53e3/)
 - [презентация](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/2026_AGI_Russia_LLM_T_Shavrina.pdf)
 - https://t.me/rybolos_channel
 - https://www.linkedin.com/in/tatiana-shavrina/
