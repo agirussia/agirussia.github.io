@@ -46,6 +46,7 @@
 - [видео в Telegram](https://t.me/agitopics/53344/68395)
 - [видео в RUTUBE](https://rutube.ru/video/a2ceedfb8b2d69013078217c0bee53e3/)
 - [презентация](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/2026_AGI_Russia_LLM_T_Shavrina.pdf)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/29_January_2026_Year_2025_in_AGI_timeline_to_AGI_and_overview_of.md)
 - https://t.me/rybolos_channel
 - https://www.linkedin.com/in/tatiana-shavrina/
 - https://iling-ran.ru/
