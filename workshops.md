@@ -37,6 +37,7 @@
 ## Прошедшие семинары и мероприятия
 
 ### 5 февраля 2026 17:00 мск - Сделаем экспериментально-опытное обучение ... интерпретируемым (с подкреплением и без) пожизненно! - Антон Колонин
+[![Watch the video](https://img.youtube.com/vi/joEFrLvWyfs/hqdefault.jpg)](https://youtu.be/joEFrLvWyfs)
 - Making experiential/reinforcement learning interpretable life-long!
 - https://arxiv.org/abs/2509.07009
 
