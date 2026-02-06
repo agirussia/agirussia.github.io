@@ -39,8 +39,8 @@
 ### 5 февраля 2026 17:00 мск - Сделаем экспериментально-опытное обучение ... интерпретируемым (с подкреплением и без) пожизненно! - Антон Колонин
 [![Watch the video](https://img.youtube.com/vi/joEFrLvWyfs/hqdefault.jpg)](https://youtu.be/joEFrLvWyfs)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239243)
-- [видео в Telegram]()
-- [видео в RUTUBE](https://rutube.ru/video/private/ea4e7b7015502d3e)
+- [видео в Telegram](https://t.me/agitopics/53344/69326)
+- [видео в RUTUBE](https://rutube.ru/video/ea4e7b7015502d3ef4e680558f3d28fd/)
 - [презентация](https://github.com/aigents/iai/blob/main/docs/2026/interpretable_experiential_kolonin_ru.pdf)
 - [расшифровка]()
 - Making experiential/reinforcement learning interpretable life-long!
