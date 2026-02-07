@@ -28,7 +28,11 @@
 
 ### 23 апреля 2026 18:00 мск - Молекулярная коммутация и биоинспирированные нейронные сети - Максим Никитин - уточняется
 
-### 30 апреля 2026 18:00 мск - уточняется
+### 30 апреля 2026 18:00 мск - Векторная модель поведенческой мотивации - Иван Котляров - уточняется
+- https://elibrary.ru/item.asp?id=12903310
+- https://ideas.repec.org/a/eff/ekoeco/v13y2007i2p393-408.html
+- https://www.researchgate.net/publication/28145292_Mathematical_Modeling_of_Human_Motivation_A_Vector_Hypothesis
+- http://facta.junis.ni.ac.rs/eao/eao200602/eao200602-02.pdf
 
 *Мы приглашаем спикеров со своими темами!*
 
