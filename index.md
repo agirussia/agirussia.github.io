@@ -44,6 +44,7 @@ https://rutube.ru/channel/24279932/
 - [Александр Болдачев, Архитектура на основе событийной семантики](https://t.me/boldsea)
 - [Антон Колонин, Aigents® - Персональные интеллектуальные агенты для Интернета](https://github.com/aigents/)
 - [Галина Бессонова, Цифровая трансформация бизнеса с ИИ](https://t.me/ena_ai)
+- [Игорь Пивоваров, OpenTalks.AI](https://opentalks.ai/)
 - [Константин Дьяченко, LinksPlatform](https://github.com/Konard/LinksPlatform)
 - [Рост Бутаев, Рекурсивная Гипотеза Реальности](https://habr.com/ru/articles/893958/) 
   
