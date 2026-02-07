@@ -40,8 +40,14 @@ https://vk.com/video/@agirussia
 ## Видео семинаров в RuTube
 https://rutube.ru/channel/24279932/
 
-## Проекты участников:
+## Спонсоры и их проекты:
+- [Александр Болдачев, Архитектура на основе событийной семантики](https://t.me/boldsea)
 - [Антон Колонин, Aigents® - Персональные интеллектуальные агенты для Интернета](https://github.com/aigents/)
+- [Галина Бессонова, Цифровая трансформация бизнеса с ИИ](https://t.me/ena_ai)
+- [Константин Дьяченко, LinksPlatform](https://github.com/Konard/LinksPlatform)
+- [Рост Бутаев, Рекурсивная Гипотеза Реальности](https://habr.com/ru/articles/893958/) 
+  
+## Проекты участников:
 - [Антон Колонин, Интерпретируемая обработка естественного языка (INLP)](https://aigents.github.io/inlp/)
 - [Евгений Витяев, Discovery - Компьютерная реализация научного метода познания](http://math.nsc.ru/AP/ScientificDiscovery/index_rus.html)
 - [Дмитрий Свириденко, Виталий Гумиров, D0SL - Семантическая платформа](https://d0sl.org/)
