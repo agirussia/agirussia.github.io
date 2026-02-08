@@ -34,6 +34,12 @@
 - https://www.researchgate.net/publication/28145292_Mathematical_Modeling_of_Human_Motivation_A_Vector_Hypothesis
 - http://facta.junis.ni.ac.rs/eao/eao200602/eao200602-02.pdf
 
+### 14 мая 2026 18:00 мск - уточняется
+
+### 21 мая 2026 18:00 мск - уточняется
+
+### 28 мая 2026 18:00 мск - уточняется
+
 *Мы приглашаем спикеров со своими темами!*
 
 ## Прошедшие семинары и мероприятия
