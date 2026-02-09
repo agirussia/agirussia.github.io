@@ -50,7 +50,7 @@
 - [видео в Telegram](https://t.me/agitopics/53344/69326)
 - [видео в RUTUBE](https://rutube.ru/video/ea4e7b7015502d3ef4e680558f3d28fd/)
 - [презентация](https://github.com/aigents/iai/blob/main/docs/2026/interpretable_experiential_kolonin_ru.pdf)
-- [расшифровка]()
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/February_5_2026_Let's_make_experimental_learning_interpretable_with.md)
 - Making experiential/reinforcement learning interpretable life-long!
 - https://arxiv.org/abs/2509.07009
 
