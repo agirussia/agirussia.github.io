@@ -53,7 +53,7 @@
 [![Watch the video](https://img.youtube.com/vi/mdap6a1IDyU/hqdefault.jpg)](https://youtu.be/mdap6a1IDyU)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239245)
 - [видео в Telegram](https://t.me/agitopics/53344/72300)
-- [видео в RUTUBE]()
+- [видео в RUTUBE](https://rutube.ru/video/0d0d65682ccde270f1165ae21a07050e/)
 - [расшифровка]()
 
 ### 5 февраля 2026 17:00 мск - Сделаем экспериментально-опытное обучение ... интерпретируемым (с подкреплением и без) пожизненно! - Антон Колонин
