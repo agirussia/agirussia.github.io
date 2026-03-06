@@ -48,6 +48,7 @@
 ## Прошедшие семинары и мероприятия
 
 ### 5 марта 2026 17:00 мск - Агентные фреймворки 2026: функционал пожирает безопасность — Лина Бессонова
+[![Watch the video](https://img.youtube.com/vi/lOR-Kxyp4lY/hqdefault.jpg)](https://youtu.be/lOR-Kxyp4lY)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239246)
 - [видео в Telegram](https://t.me/agitopics/53344/73273)
 - [видео в RUTUBE](https://rutube.ru/video/6a858aab4ada17575ce68951ec2fb315/)
