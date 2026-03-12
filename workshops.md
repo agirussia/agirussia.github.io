@@ -61,6 +61,7 @@
 - [видео в Telegram](https://t.me/agitopics/53344/73273)
 - [видео в RUTUBE](https://rutube.ru/video/6a858aab4ada17575ce68951ec2fb315/)
 - [презентация](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/Agent%20Frameworks%202026%20%D0%9E%D0%98%D0%98.pptx)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/March_5_2026_Agent_Frameworks_2026Functionality_Devours_Security%E2%80%94.md)
 - [источники](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B4%D0%BB%D1%8F_%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8_%C2%AB%D0%90%D0%B3%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B5_%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA%D0%B8_2026_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB_%D0%BF%D0%BE%D0%B6%D0%B8%D1%80%D0%B0%D0%B5%D1%82.pdf)
 
 ### 26 февраля 2026 17:00 мск - Сознание как согласующая инстанция - Денис Назипов (независимый исследователь)
@@ -68,7 +69,7 @@
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239245)
 - [видео в Telegram](https://t.me/agitopics/53344/72300)
 - [видео в RUTUBE](https://rutube.ru/video/0d0d65682ccde270f1165ae21a07050e/)
-- [расшифровка]()
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/February_26_2026_Consciousness_as_a_Coordinating_Instance_and_Two.md)
 
 ### 5 февраля 2026 17:00 мск - Сделаем экспериментально-опытное обучение ... интерпретируемым (с подкреплением и без) пожизненно! - Антон Колонин
 [![Watch the video](https://img.youtube.com/vi/joEFrLvWyfs/hqdefault.jpg)](https://youtu.be/joEFrLvWyfs)
