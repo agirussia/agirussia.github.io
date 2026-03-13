@@ -52,6 +52,9 @@
 ## Прошедшие семинары и мероприятия
 
 ### 12 марта 2026 17:00 мск - Нейробиологические подходы к созданию AGI - Вадим Ушаков (к.б.н., в.н.с. Институт перспективных исследований мозга МГУ имени М.В. Ломоносова)
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239247)
+- [видео в Telegram](https://t.me/agitopics/53344/73793)
+- [видео в RUTUBE](https://rutube.ru/video/877f29c9d871a12269f0a91e6fbea542/)
 - https://istina.msu.ru/workers/282618506/
 - https://www.gazeta.ru/tags/person/vadim_ushakov.shtml
 
