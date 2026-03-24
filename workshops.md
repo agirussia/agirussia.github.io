@@ -53,6 +53,7 @@
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239248)
 - [видео в Telegram](https://t.me/agitopics/53344/74325)
 - [видео в RUTUBE](https://rutube.ru/video/c68cd7fcae54ea899e27f491433a3f0b/)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/March_19_2026_Reverse_engineering_complex_behavior_of_biological.md)
 - Вопросы: 
   1. Какие принципы биологического интеллекта мы уже используем в искусственном и как именно? 
   2. Какие ещё не используем, но должны и почему? 
