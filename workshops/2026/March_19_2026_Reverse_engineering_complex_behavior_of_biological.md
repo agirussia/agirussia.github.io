@@ -1,6 +1,5 @@
 # 19 марта 2026 - Обратная инженерия сложного поведения биологических систем для построения искусственного интеллекта - круглый стол - Михаил Киселёв, Евгений Витяев, Галина Бессонова, Владимир Смолин, Игорь Пивоваров, Александр Болдачев - Семинар русскоязычного сообщества AGI
 [![Watch the video](https://img.youtube.com/vi/GNl3-8p5ZYw/hqdefault.jpg)](https://youtu.be/GNl3-8p5ZYw)
-[![Watch the video](https://img.youtube.com/vi/GNl3-8p5ZYw/hqdefault.jpg)](https://youtu.be/GNl3-8p5ZYw)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239248)
 - [видео в Telegram](https://t.me/agitopics/53344/74325)
 - [видео в RUTUBE](https://rutube.ru/video/c68cd7fcae54ea899e27f491433a3f0b/)
