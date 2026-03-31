@@ -47,7 +47,7 @@ https://rutube.ru/channel/24279932/
 - [Галина Бессонова, Цифровая трансформация бизнеса с ИИ](https://t.me/ena_ai)
 - [Игорь Пивоваров, OpenTalks.AI](https://opentalks.ai/)
 - [Константин Дьяченко, LinksPlatform](https://github.com/Konard/LinksPlatform)
-- [Рост Бутаев, Рекурсивная Гипотеза Реальности](https://habr.com/ru/articles/893958/) 
+- [Ростислав Бутаев - The grAIl](https://zenodo.org/records/19297573) 
   
 ## Проекты участников:
 - [Антон Колонин, Интерпретируемая обработка естественного языка (INLP)](https://aigents.github.io/inlp/)
