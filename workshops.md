@@ -10,7 +10,7 @@
 - https://www.researchgate.net/publication/28145292_Mathematical_Modeling_of_Human_Motivation_A_Vector_Hypothesis
 - http://facta.junis.ni.ac.rs/eao/eao200602/eao200602-02.pdf
 
-### 14 мая 2026 18:00 мск - О чем мечтает робот Грин - Гостев Филипп Александрович (Technical product owner антропоморфной платформы Сбер)
+### 14 мая 2026 18:00 мск - О чем мечтает робот Грин - (Сбер) - уточняется
 - https://t.me/agitopics/26927/59896
 - https://youtu.be/MZhg0L8aHHw?si=tgOj5y-gEqDoMEei
 
