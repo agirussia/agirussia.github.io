@@ -10,6 +10,16 @@
 - https://www.researchgate.net/publication/28145292_Mathematical_Modeling_of_Human_Motivation_A_Vector_Hypothesis
 - http://facta.junis.ni.ac.rs/eao/eao200602/eao200602-02.pdf
 
+### 12-15 мая 2026 - [Эволюция сложности и статистическая физика - конфренция в Ереване](https://instigate.academy/db/get?id=9f3d91d8-8943-48bf-b440-cbb8effcd35c-9c473d8e-9011-4bfe-b761-729fd12f383c)
+- "Наши спикеры"
+  - Ben Goertzel: AGI
+  - Evgenii Vityaev: Evolution on a competent substrate: biological and computational models of diverse intelligence
+  - Sergey Shumsky: Complexity Through Compression: A Hierarchical Predictive Control
+  - Igor Pivovarov: TEVSER, how evolution of complex systems give rise to consciousness and intelligence
+  - Ivan Bondarenko: When LLM Becomes dangerous
+  - Galina Bessonova: Linguistic and Architectural markers of True Human Synth Symbiosis
+  - Anton Kolonin: Tensor model of psyche
+
 ### 14 мая 2026 18:00 мск - О чем мечтает робот Грин - (Сбер) - уточняется
 - https://t.me/agitopics/26927/59896
 - https://youtu.be/MZhg0L8aHHw?si=tgOj5y-gEqDoMEei
