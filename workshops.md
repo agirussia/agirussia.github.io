@@ -20,10 +20,6 @@
   - Galina Bessonova: Linguistic and Architectural markers of True Human Synth Symbiosis
   - Anton Kolonin: Tensor model of psyche
 
-### 14 мая 2026 18:00 мск - О чем мечтает робот Грин - (Сбер) - уточняется
-- https://t.me/agitopics/26927/59896
-- https://youtu.be/MZhg0L8aHHw?si=tgOj5y-gEqDoMEei
-
 ### 21 мая 2026 18:00 мск - Молекулярная коммутация и биоинспирированные нейронные сети - Максим Никитин - уточняется
 
 ### 28 мая 2026 18:00 мск - Внимание это все! (тема уточняется) - Антон Морозов (CTO coachtube.com)
@@ -41,7 +37,9 @@
 
 ### 2 июля 2026 18:00 мск - тема уточняется - Вадим Ушаков - уточняется
 
-### 9 июля 2026 18:00 мск - уточняется
+### 9 июля 2026 18:00 мск - О чем мечтает робот Грин - (Сбер) - дата, тема и спикер уточняются
+- https://t.me/agitopics/26927/59896
+- https://youtu.be/MZhg0L8aHHw?si=tgOj5y-gEqDoMEei
 
 ### 16 июля 2026 18:00 мск - уточняется
 
