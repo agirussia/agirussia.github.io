@@ -67,6 +67,8 @@
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239249)
 - [видео в Telegram](https://t.me/agitopics/53344/77350)
 - [видео в RUTUBE](https://rutube.ru/video/586565717743818b5cd539da128ea6fe/)
+- [Расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/April_23_2026_An_Elementary_Universal_Cycle_of_Continuous_Attention.md)
+- [Слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/Kabanov_2025_slides.pdf)
 - Элементарный и минимальный цикл внимания и как он выстраивает и поддерживает содержание сознания.
 - Подробно об архитектуре, модели данных, ключевом алгоритме и почему это инвариант существования и осуществления.
 
