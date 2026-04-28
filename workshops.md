@@ -4,11 +4,7 @@
 
 Онлайн-семинары проводятся по средам или четвергам в 17:00 (октябрь-март) или 18:00 (апрель-сентябрь) по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на [Ktalk](https://kontur.ru/talk) придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только с полностью указанными действительными именем и фамилией и включенным видео (для предотвращения "онлайн-хулиганства"). 
 
-### 30 апреля 2026 18:00 мск - Векторная модель поведенческой мотивации - Иван Котляров - уточняется
-- https://elibrary.ru/item.asp?id=12903310
-- https://ideas.repec.org/a/eff/ekoeco/v13y2007i2p393-408.html
-- https://www.researchgate.net/publication/28145292_Mathematical_Modeling_of_Human_Motivation_A_Vector_Hypothesis
-- http://facta.junis.ni.ac.rs/eao/eao200602/eao200602-02.pdf
+### 30 апреля 2026 18:00 мск - TEVSER: как эволюция саморегулирующихся систем порождает сознание и интеллект - Игорь Пивоваров
 
 ### 12-15 мая 2026 - [Эволюция сложности и статистическая физика - конфренция в Ереване](https://instigate.academy/db/get?id=9f3d91d8-8943-48bf-b440-cbb8effcd35c-9c473d8e-9011-4bfe-b761-729fd12f383c)
 - "Наши спикеры"
@@ -41,7 +37,11 @@
 - https://t.me/agitopics/26927/59896
 - https://youtu.be/MZhg0L8aHHw?si=tgOj5y-gEqDoMEei
 
-### 16 июля 2026 18:00 мск - уточняется
+### 16 июля 2026 18:00 мск - Векторная модель поведенческой мотивации - Иван Котляров - уточняется (перенос с 30 апреля, спикер не подтвердил)
+- https://elibrary.ru/item.asp?id=12903310
+- https://ideas.repec.org/a/eff/ekoeco/v13y2007i2p393-408.html
+- https://www.researchgate.net/publication/28145292_Mathematical_Modeling_of_Human_Motivation_A_Vector_Hypothesis
+- http://facta.junis.ni.ac.rs/eao/eao200602/eao200602-02.pdf
 
 ### 23 июля 2026 18:00 мск - самоподготовка
 
