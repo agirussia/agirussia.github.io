@@ -15,6 +15,11 @@
   - Anton Kolonin: Tensor model of psyche
 
 ### 21 мая 2026 18:00 мск - Молекулярная коммутация и биоинспирированные нейронные сети - Максим Никитин - уточняется
+- Non-complementary strand commutation as a fundamental alternative for information processing by DNA and gene regulation | Nature Chemistry
+https://www.nature.com/articles/s41557-022-01111-y
+- Backpropagation in Molecular Neural Networks: Teaching DNA to Solve Machine Learning Tasks[v1] | Preprints.org
+https://www.preprints.org/manuscript/202601.0088
+- Topology of molecular networks offers signaling insusceptibility to temperature and ionic strength changes https://scholar.google.com/citations?view_op=view_citation&hl=en&user=aZTxltkAAAAJ&sortby=pubdate&citation_for_view=aZTxltkAAAAJ:t7zJ5fGR-2UC
 
 ### 28 мая 2026 18:00 мск - Внимание это все! (тема уточняется) - Антон Морозов (CTO coachtube.com)
 
