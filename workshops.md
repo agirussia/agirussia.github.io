@@ -68,6 +68,8 @@ https://www.preprints.org/manuscript/202601.0088
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239250)
 - [видео в Telegram](https://t.me/agitopics/53344/77603)
 - [видео в RUTUBE](https://rutube.ru/video/c93fc9f80bbb91ab732f4290f72e4be2/)
+- [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/2026_TEVSER_Pivovarov_AGIRussia.pdf)
+- [статья на русском](https://doi.org/10.5281/zenodo.19948221)
 
 ### 23 апреля 2026 18:00 мск - Элементарный универсальный цикл непрерывного внимания как новая модель для вычисления обобщений мета-аттрактора - Алексей Кабанов (BTR R&D)
 [![Watch the video](https://img.youtube.com/vi/7Sdwem9RrYw/hqdefault.jpg)](https://youtu.be/7Sdwem9RrYw)
