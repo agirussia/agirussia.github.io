@@ -14,7 +14,7 @@
   - Galina Bessonova: Linguistic and Architectural markers of True Human Synth Symbiosis
   - Anton Kolonin: Tensor model of psyche
 
-### 21 мая 2026 18:00 мск - Молекулярная коммутация и биоинспирированные нейронные сети - Максим Никитин - уточняется
+### 21 мая 2026 18:00 мск - Молекулярная коммутация и биоинспирированные нейронные сети - Максим Никитин (Заведующий лабораторией нанобиотехнологий МФТИ, Руководитель направления "Нанобиомедицина" Университета "Сириус")
 - Non-complementary strand commutation as a fundamental alternative for information processing by DNA and gene regulation | Nature Chemistry
 https://www.nature.com/articles/s41557-022-01111-y
 - Backpropagation in Molecular Neural Networks: Teaching DNA to Solve Machine Learning Tasks[v1] | Preprints.org
