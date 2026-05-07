@@ -12,7 +12,7 @@
   - Igor Pivovarov: TEVSER, how evolution of complex systems give rise to consciousness and intelligence
   - Ivan Bondarenko: When LLM Becomes dangerous
   - Galina Bessonova: Linguistic and Architectural markers of True Human Synth Symbiosis
-  - Anton Kolonin: Tensor model of psyche
+  - Anton Kolonin: Tensor model of the psyche
 
 ### 21 мая 2026 18:00 мск - Молекулярная коммутация и биоинспирированные нейронные сети - Максим Никитин (Заведующий лабораторией нанобиотехнологий МФТИ, Руководитель направления "Нанобиомедицина" Университета "Сириус")
 - Non-complementary strand commutation as a fundamental alternative for information processing by DNA and gene regulation | Nature Chemistry
