@@ -21,7 +21,7 @@ https://www.nature.com/articles/s41557-022-01111-y
 https://www.preprints.org/manuscript/202601.0088
 - Topology of molecular networks offers signaling insusceptibility to temperature and ionic strength changes https://scholar.google.com/citations?view_op=view_citation&hl=en&user=aZTxltkAAAAJ&sortby=pubdate&citation_for_view=aZTxltkAAAAJ:t7zJ5fGR-2UC
 
-### 28 мая 2026 18:00 мск - Внимание это все! (тема уточняется) - Антон Морозов (CTO coachtube.com)
+### 28 мая 2026 18:00 мск - Перспектива, синтез и "образ будущего": Проблема сенсорного опыта в применении к построению систем AGI - Антон Морозов (CTO coachtube.com)
 
 ### 4 июня 2026 18:00 мск - Безопасность ИИ в 2026 году - Сергей Николенко (Head of AI, Synthesis AI, Доцент, НИУ ВШЭ, Санкт-Петербург, Факультет математики и компьютерных наук СПбГУ) - уточняется
 - https://t.me/sinecor
