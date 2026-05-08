@@ -68,6 +68,7 @@ https://www.preprints.org/manuscript/202601.0088
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239250)
 - [видео в Telegram](https://t.me/agitopics/53344/77603)
 - [видео в RUTUBE](https://rutube.ru/video/c93fc9f80bbb91ab732f4290f72e4be2/)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/April_30_2026_TEV_SER_how_the_evolution_of_systems_generates_consciousness.md)
 - [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/2026_TEVSER_Pivovarov_AGIRussia.pdf)
 - [статья на русском](https://doi.org/10.5281/zenodo.19948221)
 
