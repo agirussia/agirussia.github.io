@@ -4,16 +4,6 @@
 
 Онлайн-семинары проводятся по средам или четвергам в 17:00 (октябрь-март) или 18:00 (апрель-сентябрь) по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на [Ktalk](https://kontur.ru/talk) придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только с полностью указанными действительными именем и фамилией и включенным видео (для предотвращения "онлайн-хулиганства"). 
 
-### 12-15 мая 2026 - [Эволюция сложности и статистическая физика - конфренция в Ереване](https://instigate.academy/db/get?id=9f3d91d8-8943-48bf-b440-cbb8effcd35c-9c473d8e-9011-4bfe-b761-729fd12f383c)
-- "Наши спикеры"
-  - Ben Goertzel: AGI
-  - Evgenii Vityaev: Evolution on a competent substrate: biological and computational models of diverse intelligence
-  - Sergey Shumsky: Complexity Through Compression: A Hierarchical Predictive Control
-  - Igor Pivovarov: TEVSER, how evolution of complex systems give rise to consciousness and intelligence
-  - Ivan Bondarenko: When LLM Becomes dangerous
-  - Galina Bessonova: Linguistic and Architectural markers of True Human Synth Symbiosis
-  - Anton Kolonin: Tensor model of the psyche
-
 ### 21 мая 2026 18:00 мск - Молекулярная коммутация и биоинспирированные нейронные сети - Максим Никитин (Заведующий лабораторией нанобиотехнологий МФТИ, Руководитель направления "Нанобиомедицина" Университета "Сириус")
 - Non-complementary strand commutation as a fundamental alternative for information processing by DNA and gene regulation | Nature Chemistry
 https://www.nature.com/articles/s41557-022-01111-y
@@ -62,6 +52,17 @@ https://www.preprints.org/manuscript/202601.0088
 *Мы приглашаем спикеров со своими темами!*
 
 ## Прошедшие семинары и мероприятия
+
+### 12-15 мая 2026 - [Эволюция сложности и статистическая физика - конфренция в Ереване](https://instigate.academy/db/get?id=9f3d91d8-8943-48bf-b440-cbb8effcd35c-9c473d8e-9011-4bfe-b761-729fd12f383c)
+- "Наши спикеры"
+  - Sergey Shumsky: Complexity Through Compression: A Hierarchical Predictive Control
+  - Galina Bessonova: Linguistic and Architectural markers of True Human Synth Symbiosis
+  - Evgenii Vityaev: Evolution on a competent substrate: biological and computational models of diverse intelligence 
+  - Igor Pivovarov: TEVSER, how evolution of complex systems give rise to consciousness and intelligence   
+  - Ivan Bondarenko: When LLM Becomes dangerous
+  - Anton Kolonin: Tensor model of the psyche
+    - https://github.com/aigents/iai/blob/main/docs/2026/tensor_model_psyche_kolonin.pdf  
+    - https://www.youtube.com/watch?v=OSuI2lFmxYo
 
 ### 30 апреля 2026 18:00 мск - TEVSER: как эволюция саморегулирующихся систем порождает сознание и интеллект - Игорь Пивоваров (МФТИ)
 [![Watch the video](https://img.youtube.com/vi/_YNDc7-QVhg/hqdefault.jpg)](https://youtu.be/_YNDc7-QVhg)
