@@ -1,4 +1,4 @@
-# 29 августа 2025 - Системная модель естественной и искусственной психики - Антон Колонин, Владимир Крюков - семинар AGI
+# 28 августа 2025 - Системная модель естественной и искусственной психики - Антон Колонин, Владимир Крюков - семинар AGI
 [![Watch the video](https://img.youtube.com/vi/lxLFcYNpuDI/hqdefault.jpg)](https://youtu.be/lxLFcYNpuDI)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239225)
 - [видео в RUTUBE](https://rutube.ru/video/f60410d9830a05ff18964663055dbc23/)
