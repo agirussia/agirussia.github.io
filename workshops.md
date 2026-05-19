@@ -186,7 +186,7 @@ https://www.preprints.org/manuscript/202601.0088
 - [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/December_11_2025_Analysis_of_AGI_construction_paths_from_the_perspective.md)
 - [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2025/2025_Path_2_AGI_Smolin.pdf)
 
-# 2 декабря 2025 - Когнитивная архитектура и вычислительная модель искусственной психики - Антон Колонин
+### 2 декабря 2025 - Когнитивная архитектура и вычислительная модель искусственной психики - Антон Колонин
 [![Watch the video](https://img.youtube.com/vi/KjLBTDnN0AQ/hqdefault.jpg)](https://youtu.be/KjLBTDnN0AQ)
 - [видео в ВК](https://vk.com/video-227141975_456239033)
 - [презентация](https://github.com/aigents/iai/blob/main/docs/2025/psyche_model_kolonin_en.pdf)
