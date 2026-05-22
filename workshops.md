@@ -4,14 +4,10 @@
 
 Онлайн-семинары проводятся по средам или четвергам в 17:00 (октябрь-март) или 18:00 (апрель-сентябрь) по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на [Ktalk](https://kontur.ru/talk) придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только с полностью указанными действительными именем и фамилией и включенным видео (для предотвращения "онлайн-хулиганства"). 
 
-### 21 мая 2026 18:00 мск - Молекулярная коммутация и биоинспирированные нейронные сети - Максим Никитин (Заведующий лабораторией нанобиотехнологий МФТИ, Руководитель направления "Нанобиомедицина" Университета "Сириус")
-- Non-complementary strand commutation as a fundamental alternative for information processing by DNA and gene regulation | Nature Chemistry
-https://www.nature.com/articles/s41557-022-01111-y
-- Backpropagation in Molecular Neural Networks: Teaching DNA to Solve Machine Learning Tasks[v1] | Preprints.org
-https://www.preprints.org/manuscript/202601.0088
-- Topology of molecular networks offers signaling insusceptibility to temperature and ionic strength changes https://scholar.google.com/citations?view_op=view_citation&hl=en&user=aZTxltkAAAAJ&sortby=pubdate&citation_for_view=aZTxltkAAAAJ:t7zJ5fGR-2UC
-
 ### 28 мая 2026 18:00 мск - Перспектива, синтез и "образ будущего": Проблема сенсорного опыта в применении к построению систем AGI - Антон Морозов (CTO coachtube.com)
+- https://www.koob.ru/bertstein_n/
+- https://www.klex.ru/alc
+- https://www.psychology-online.net/articles/doc-1173.html
 
 ### 4 июня 2026 18:00 мск - Практические аспекты применения онтологий в ИИ-приложениях - Павел Саловский (NotAIbook) - уточняется
 
@@ -57,6 +53,13 @@ https://www.preprints.org/manuscript/202601.0088
 *Мы приглашаем спикеров со своими темами!*
 
 ## Прошедшие семинары и мероприятия
+
+### 21 мая 2026 18:00 мск - Молекулярная коммутация и биоинспирированные нейронные сети - Максим Никитин (Заведующий лабораторией нанобиотехнологий МФТИ, Руководитель направления "Нанобиомедицина" Университета "Сириус")
+- Non-complementary strand commutation as a fundamental alternative for information processing by DNA and gene regulation | Nature Chemistry
+https://www.nature.com/articles/s41557-022-01111-y
+- Backpropagation in Molecular Neural Networks: Teaching DNA to Solve Machine Learning Tasks[v1] | Preprints.org
+https://www.preprints.org/manuscript/202601.0088
+- Topology of molecular networks offers signaling insusceptibility to temperature and ionic strength changes https://scholar.google.com/citations?view_op=view_citation&hl=en&user=aZTxltkAAAAJ&sortby=pubdate&citation_for_view=aZTxltkAAAAJ:t7zJ5fGR-2UC
 
 ### 12-15 мая 2026 - [Эволюция сложности и статистическая физика - конфренция в Ереване](https://instigate.academy/db/get?id=9f3d91d8-8943-48bf-b440-cbb8effcd35c-9c473d8e-9011-4bfe-b761-729fd12f383c)
 - "Наши спикеры"
