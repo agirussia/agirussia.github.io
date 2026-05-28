@@ -47,6 +47,7 @@
 - https://www.trv-science.ru/tag/vitalij-vanchurin/
 
 ### 20 августа 2026 18:00 мск - Complexity Through Compression: A Hierarchical Predictive Control -  Сергей Шумский - уточняется
+- [презентация](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/Complexity%20Through%20Compression.%20A%20Hierarchical%20Predictive%20Control.pdf)
 
 ### 27 августа 2026 18:00 мск - уточняется
 
