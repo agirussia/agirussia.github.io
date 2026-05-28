@@ -63,13 +63,12 @@ https://www.preprints.org/manuscript/202601.0088
 
 ### 12-15 мая 2026 - [Эволюция сложности и статистическая физика - конфренция в Ереване](https://instigate.academy/db/get?id=9f3d91d8-8943-48bf-b440-cbb8effcd35c-9c473d8e-9011-4bfe-b761-729fd12f383c)
 - "Наши спикеры"
-  - Sergey Shumsky: Complexity Through Compression: A Hierarchical Predictive Control
+  - [Sergey Shumsky: Complexity Through Compression: A Hierarchical Predictive Control](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/Complexity%20Through%20Compression.%20A%20Hierarchical%20Predictive%20Control.pdf)
   - Galina Bessonova: Linguistic and Architectural markers of True Human Synth Symbiosis
   - Evgenii Vityaev: Evolution on a competent substrate: biological and computational models of diverse intelligence 
   - Igor Pivovarov: TEVSER, how evolution of complex systems give rise to consciousness and intelligence   
   - Ivan Bondarenko: When LLM Becomes dangerous
-  - Anton Kolonin: Tensor model of the psyche
-    - https://github.com/aigents/iai/blob/main/docs/2026/tensor_model_psyche_kolonin.pdf  
+  - [Anton Kolonin: Tensor model of the psyche](https://github.com/aigents/iai/blob/main/docs/2026/tensor_model_psyche_kolonin.pdf)
     - https://www.youtube.com/watch?v=OSuI2lFmxYo
 
 ### 30 апреля 2026 18:00 мск - TEVSER: как эволюция саморегулирующихся систем порождает сознание и интеллект - Игорь Пивоваров (МФТИ)
