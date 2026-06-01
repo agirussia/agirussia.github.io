@@ -60,6 +60,7 @@
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239251)
 - [видео в Telegram](https://t.me/agitopics/53344/79228)
 - [видео в RUTUBE](https://rutube.ru/video/017c7531020fcd4b5be25029b1252aaf/)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/28_May_2026_Perspective,_Synthesis_and_Image_of_the_Future_Sensory.md)
 - [слайды и текст](https://t.me/agitopics/53344/79268)
 
 ### 21 мая 2026 18:00 мск - Молекулярная коммутация и биоинспирированные нейронные сети - Максим Никитин (Заведующий лабораторией нанобиотехнологий МФТИ, Руководитель направления "Нанобиомедицина" Университета "Сириус")
