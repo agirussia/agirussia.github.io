@@ -1,5 +1,6 @@
 # 2 марта 2020 - Нейрофизиологические модели человеческого мышления (А.Н.Савостьянов)
 [![Watch the video](https://img.youtube.com/vi/I85jwMMjqwc/hqdefault.jpg)](hhttps://youtu.be/I85jwMMjqwc)
+- https://siberai.blogspot.com/2020/03/blog-post.html
 
 ---
 
