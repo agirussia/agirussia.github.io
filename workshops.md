@@ -4,13 +4,6 @@
 
 Онлайн-семинары проводятся по средам или четвергам в 17:00 (октябрь-март) или 18:00 (апрель-сентябрь) по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на [Ktalk](https://kontur.ru/talk) придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только с полностью указанными действительными именем и фамилией и включенным видео (для предотвращения "онлайн-хулиганства"). 
 
-### 4 июня 2026 18:00 мск - Практические аспекты применения онтологий в ИИ-приложениях - Павел Саловский (Ontohub)
-- [Ontohub.ru](https://Ontohub.ru)
-- https://ai.academyit.ru/pavel_sl
-- https://www.linkedin.com/in/paul-salowski-a4228a10/ 
-- https://arxiv.org/abs/2604.20795
-- https://github.com/psalovsky
-
 ### 11 июня 2026 18:00 мск - Персональный семантический экзосклет индивидуума для мира ИИ - Ирина Мухина и Антон Колонин - уточняется
 
 ### 18 июня 2026 18:00 мск - The grAIl: субъектность как топологическое свойство двухконтурной когнитивной архитектуры - Ростислав Бутаев - уточняется  
@@ -54,6 +47,19 @@
 *Мы приглашаем спикеров со своими темами!*
 
 ## Прошедшие семинары и мероприятия
+
+### 4 июня 2026 18:00 мск - Практические аспекты применения онтологий в ИИ-приложениях - Павел Саловский (Ontohub)
+[![Watch the video](https://img.youtube.com/vi/kLu-8p0Pb1g/hqdefault.jpg)](https://youtu.be/kLu-8p0Pb1g)
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239252)
+- [видео в Telegram](https://t.me/agitopics/53344/79626)
+- [видео в RUTUBE]()
+- [расшифровка]()
+- [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/Avtomaticheskoe-postroenie-ontologij-s-pomoshyu-LLM.pdf)
+- https://www.ontohub.ru/
+- https://ai.academyit.ru/pavel_sl
+- https://www.linkedin.com/in/paul-salowski-a4228a10/ 
+- https://arxiv.org/abs/2604.20795
+- https://github.com/psalovsky
 
 ### 28 мая 2026 18:00 мск - Перспектива, синтез и "образ будущего": Проблема сенсорного опыта в применении к построению систем AGI - Антон Морозов (CTO coachtube.com)
 [![Watch the video](https://img.youtube.com/vi/mZAEFJYq-eI/hqdefault.jpg)](https://youtu.be/mZAEFJYq-eI)
