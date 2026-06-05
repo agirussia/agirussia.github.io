@@ -52,8 +52,8 @@
 [![Watch the video](https://img.youtube.com/vi/kLu-8p0Pb1g/hqdefault.jpg)](https://youtu.be/kLu-8p0Pb1g)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239252)
 - [видео в Telegram](https://t.me/agitopics/53344/79626)
-- [видео в RUTUBE]()
-- [расшифровка]()
+- [видео в RUTUBE](https://rutube.ru/video/2fe63c8bb04fcafc832a4ded1b10289d/)
+- расшифровка
 - [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/Avtomaticheskoe-postroenie-ontologij-s-pomoshyu-LLM.pdf)
 - https://www.ontohub.ru/
 - https://ai.academyit.ru/pavel_sl
