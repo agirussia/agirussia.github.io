@@ -66,7 +66,8 @@
 ## Прошедшие семинары и мероприятия
 
 ### 11 июня 2026 18:00 мск - Персональный семантический экзосклет индивидуума для мира ИИ - Ирина Мухина и Антон Колонин
-- [видео в ВК] https://vk.com/video-210968399_456239253
+- [видео в ВК](https://vk.com/video-210968399_456239253)
+- [видео в RUTUBE](https://rutube.ru/video/d82084b834e981a2cceea86f39eb76e1/)
 - https://irinamuhina.taplink.ws/
 - https://irinamuhina.nbics.net/ru/Katalog-tovarov
 
