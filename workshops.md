@@ -83,6 +83,7 @@
 - [видео в ВК](https://vk.com/video-210968399_456239253)
 - [видео в RUTUBE](https://rutube.ru/video/d82084b834e981a2cceea86f39eb76e1/)
 - [видео в Telegram](https://t.me/agitopics/53344/80081)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/June_11_2026_Personal_Exoskeleton_of_an_Individual_for_the_AI_World.md)
 - https://irinamuhina.taplink.ws/
 - https://irinamuhina.nbics.net/ru/Katalog-tovarov
 
@@ -91,7 +92,7 @@
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239252)
 - [видео в Telegram](https://t.me/agitopics/53344/79626)
 - [видео в RUTUBE](https://rutube.ru/video/2fe63c8bb04fcafc832a4ded1b10289d/)
-- расшифровка
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/June_4_2026_Practical_Aspects_of_Using_Ontologies_in_AI_Applications.md)
 - [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/Avtomaticheskoe-postroenie-ontologij-s-pomoshyu-LLM.pdf)
 - https://www.ontohub.ru/
 - https://ai.academyit.ru/pavel_sl
