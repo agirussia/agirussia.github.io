@@ -79,7 +79,7 @@
 ### 18 июня 2026 18:00 мск - The grAIl: субъектность как топологическое свойство двухконтурной когнитивной архитектуры - Ростислав Бутаев  
 [![Watch the video](https://img.youtube.com/vi/9pI7by7NFcI/hqdefault.jpg)](https://youtu.be/9pI7by7NFcI)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239254)
-- [видео в RUTUBE]()
+- [видео в RUTUBE](https://rutube.ru/video/620fef9879071657c9cf5c69d15847cc/)
 - [видео в Telegram](https://t.me/agitopics/53344/80464)
 - [расшифровка]()
 - https://t.me/agitopics/40625
