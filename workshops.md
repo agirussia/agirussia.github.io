@@ -80,7 +80,7 @@
 [![Watch the video](https://img.youtube.com/vi/9pI7by7NFcI/hqdefault.jpg)](https://youtu.be/9pI7by7NFcI)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239254)
 - [видео в RUTUBE]()
-- [видео в Telegram]()
+- [видео в Telegram](https://t.me/agitopics/53344/80464)
 - [расшифровка]()
 - https://t.me/agitopics/40625
 
