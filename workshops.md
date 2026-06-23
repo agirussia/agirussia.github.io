@@ -81,7 +81,7 @@
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239254)
 - [видео в RUTUBE](https://rutube.ru/video/620fef9879071657c9cf5c69d15847cc/)
 - [видео в Telegram](https://t.me/agitopics/53344/80464)
-- [расшифровка]()
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/June_18%2C_2026_The_grAIlsubjectivity_as_a_property_of_cognitive_architecture.md)
 - https://t.me/agitopics/40625
 
 ### 11 июня 2026 18:00 мск - Персональный семантический экзосклет индивидуума для мира ИИ - Ирина Мухина и Антон Колонин
