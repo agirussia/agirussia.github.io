@@ -77,7 +77,7 @@
 ### 25 июня 2026 18:00 мск - Безопасность ИИ в 2026 году - Сергей Николенко (ПОМИ РАН, СПбГУ)
 [![Watch the video](https://img.youtube.com/vi/RaETJTxGkBY/hqdefault.jpg)](https://youtu.be/RaETJTxGkBY)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239255)
-- [видео в RUTUBE]()
+- [видео в RUTUBE](https://rutube.ru/video/16dc0f42720da0c1a16d38c6815d1877/)
 - [видео в Telegram](https://t.me/agitopics/53344/80676)
 - [расшифровка]()
 - https://t.me/sinecor
