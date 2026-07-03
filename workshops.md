@@ -61,9 +61,9 @@
 ### 2 июля 2026 18:00 мск - Модели и тесты процессов сознания в животном мире и в системах ИИ - Вадим Ушаков (к.б.н., в.н.с. Институт перспективных исследований мозга МГУ имени М.В. Ломоносова)
 [![Watch the video](https://img.youtube.com/vi/kZGfKy8tQb0/hqdefault.jpg)](https://youtu.be/kZGfKy8tQb0)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239256)
-- [видео в RUTUBE]()
+- [видео в RUTUBE](https://rutube.ru/video/099484d360932d7a066efb7bd5e5baed/)
 - [видео в Telegram](https://t.me/agitopics/53344/80990)
-- [расшифровка]()
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/)
 - https://istina.msu.ru/workers/282618506/
 - https://www.gazeta.ru/tags/person/vadim_ushakov.shtml
 
@@ -72,7 +72,7 @@
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239255)
 - [видео в RUTUBE](https://rutube.ru/video/16dc0f42720da0c1a16d38c6815d1877/)
 - [видео в Telegram](https://t.me/agitopics/53344/80676)
-- [расшифровка]()
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/)
 - https://t.me/sinecor
 - https://www.sergeynikolenko.ru/en
 
