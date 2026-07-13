@@ -63,7 +63,7 @@
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239256)
 - [видео в RUTUBE](https://rutube.ru/video/099484d360932d7a066efb7bd5e5baed/)
 - [видео в Telegram](https://t.me/agitopics/53344/80990)
-- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/Models_and_tests_of_consciousness_processes_in_the_animal_world.md)
 - https://istina.msu.ru/workers/282618506/
 - https://www.gazeta.ru/tags/person/vadim_ushakov.shtml
 
@@ -72,7 +72,7 @@
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239255)
 - [видео в RUTUBE](https://rutube.ru/video/16dc0f42720da0c1a16d38c6815d1877/)
 - [видео в Telegram](https://t.me/agitopics/53344/80676)
-- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/)
+- [расшифровка](http://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/AI_Safety_in_2026_-Sergey_Nikolenko-_AGI_Seminar.md)
 - https://t.me/sinecor
 - https://www.sergeynikolenko.ru/en
 
