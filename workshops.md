@@ -5,11 +5,12 @@
 Онлайн-семинары проводятся по средам или четвергам в 17:00 (октябрь-март) или 18:00 (апрель-сентябрь) по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на [Ktalk](https://kontur.ru/talk) придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только с полностью указанными действительными именем и фамилией и включенным видео (для предотвращения "онлайн-хулиганства"). 
 
 ### 13 августа 2026 18:00 мск - Виталий Ванчурин - уточняется
+- https://artificialneuralcomputing.com/
+- https://habr.com/ru/articles/954886/
+- https://www.trv-science.ru/tag/vitalij-vanchurin/
 - [Виталий Ванчурин – Самонастраивающаяся вселенная»? (видео - YouTube, англ.)](https://www.youtube.com/watch?v=73IdQGgfxas)
 - [Виталий Ванчурин — Самообучающаяся Вселенная: от Большого взрыва до нейронных компьютеров (видео - YouTube, русск.)](https://www.youtube.com/watch?v=tsm3MEL6Wyg)
 - [Виталий Ванчурин – Что значит «мир как нейросеть»? (видео - RuTube, русск.)](https://rutube.ru/video/382755689be6b477475fa2a533f8c2d1/)
-- https://habr.com/ru/articles/954886/
-- https://www.trv-science.ru/tag/vitalij-vanchurin/
 
 ### 20 августа 2026 18:00 мск - Complexity Through Compression: A Hierarchical Predictive Control -  Сергей Шумский - уточняется
 - [презентация](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/Complexity%20Through%20Compression.%20A%20Hierarchical%20Predictive%20Control.pdf)
