@@ -4,15 +4,7 @@
 
 Онлайн-семинары проводятся по средам или четвергам в 17:00 (октябрь-март) или 18:00 (апрель-сентябрь) по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на [Ktalk](https://kontur.ru/talk) придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только с полностью указанными действительными именем и фамилией и включенным видео (для предотвращения "онлайн-хулиганства"). 
 
-### 13 августа 2026 18:00 мск - Виталий Ванчурин - уточняется
-- https://artificialneuralcomputing.com/
-- https://habr.com/ru/articles/954886/
-- https://www.trv-science.ru/tag/vitalij-vanchurin/
-- [Виталий Ванчурин – Самонастраивающаяся вселенная»? (видео - YouTube, англ.)](https://www.youtube.com/watch?v=73IdQGgfxas)
-- [Виталий Ванчурин — Самообучающаяся Вселенная: от Большого взрыва до нейронных компьютеров (видео - YouTube, русск.)](https://www.youtube.com/watch?v=tsm3MEL6Wyg)
-- [Виталий Ванчурин – Что значит «мир как нейросеть»? (видео - RuTube, русск.)](https://rutube.ru/video/382755689be6b477475fa2a533f8c2d1/)
-
-### 20 августа 2026 18:00 мск - Complexity Through Compression: A Hierarchical Predictive Control -  Сергей Шумский - уточняется
+### 20 августа 2026 18:00 мск - Complexity Through Compression: A Hierarchical Predictive Control - Сергей Шумский
 - [презентация](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/Complexity%20Through%20Compression.%20A%20Hierarchical%20Predictive%20Control.pdf)
 
 ### 27 августа 2026 18:00 мск - Исполняемые модели мира для ARC-AGI-3 в эпоху программирующих Агентов, Сергей Родионов (SingularityNET)
@@ -55,6 +47,15 @@
 *Мы приглашаем спикеров со своими темами!*
 
 ## Прошедшие семинары и мероприятия
+
+### 13 августа 2026 18:00 мск - Самообучающаяся вселенная: от динамики обучения до теории калибровочных полей и гравитации - Виталий Ванчурин (CEO, Artificial Neural Computing) - Виталий Ванчурин
+[![Watch the video](https://img.youtube.com/vi/YVkHKrvwXuY/hqdefault.jpg)](https://youtu.be/YVkHKrvwXuY)
+- https://artificialneuralcomputing.com/
+- https://habr.com/ru/articles/954886/
+- https://www.trv-science.ru/tag/vitalij-vanchurin/
+- [Виталий Ванчурин – Самонастраивающаяся вселенная»? (видео - YouTube, англ.)](https://www.youtube.com/watch?v=73IdQGgfxas)
+- [Виталий Ванчурин — Самообучающаяся Вселенная: от Большого взрыва до нейронных компьютеров (видео - YouTube, русск.)](https://www.youtube.com/watch?v=tsm3MEL6Wyg)
+- [Виталий Ванчурин – Что значит «мир как нейросеть»? (видео - RuTube, русск.)](https://rutube.ru/video/382755689be6b477475fa2a533f8c2d1/)
 
 ### 6 августа 2026 18:00 мск - К теории сложных адаптивных систем с многократными отражениями реальности - Давид Саакян (Национальная научная лабораторию имени А. Алиханяна, Ереван, Армения)
 [![Watch the video](https://img.youtube.com/vi/mqCf0BPO2KA/hqdefault.jpg)](https://youtu.be/mqCf0BPO2KA)
