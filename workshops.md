@@ -4,7 +4,7 @@
 
 Онлайн-семинары проводятся по средам или четвергам в 17:00 (октябрь-март) или 18:00 (апрель-сентябрь) по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на [Ktalk](https://kontur.ru/talk) придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только с полностью указанными действительными именем и фамилией и включенным видео (для предотвращения "онлайн-хулиганства"). 
 
-### 20 августа 2026 18:00 мск - Complexity Through Compression: A Hierarchical Predictive Control - Сергей Шумский
+### 20 августа 2026 18:00 мск - Complexity Through Compression: A Hierarchical Predictive Control - Сергей Шумский (Symbolic Mind Inc.)
 - [презентация](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/Complexity%20Through%20Compression.%20A%20Hierarchical%20Predictive%20Control.pdf)
 
 ### 27 августа 2026 18:00 мск - Исполняемые модели мира для ARC-AGI-3 в эпоху программирующих Агентов, Сергей Родионов (SingularityNET)
