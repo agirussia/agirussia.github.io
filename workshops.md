@@ -55,6 +55,7 @@
 - [видео в Telegram](https://t.me/agitopics/53344/82612)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239258)
 - [презентация - слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/vanchurin-2026-08.pdf)
+- [видео в RUTUBE](https://rutube.ru/video/7be091efd2a07e68e5d8f3dc9e03be1d/)
 - https://artificialneuralcomputing.com/
 - https://habr.com/ru/articles/954886/
 - https://www.trv-science.ru/tag/vitalij-vanchurin/
