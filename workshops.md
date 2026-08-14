@@ -54,14 +54,11 @@
 [![Watch the video](https://img.youtube.com/vi/YVkHKrvwXuY/hqdefault.jpg)](https://youtu.be/YVkHKrvwXuY)
 - [видео в Telegram](https://t.me/agitopics/53344/82612)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239258)
-- [презентация - слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/vanchurin-2026-08.pdf)
 - [видео в RUTUBE](https://rutube.ru/video/7be091efd2a07e68e5d8f3dc9e03be1d/)
+- [презентация - слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/vanchurin-2026-08.pdf)
 - https://artificialneuralcomputing.com/
 - https://habr.com/ru/articles/954886/
 - https://www.trv-science.ru/tag/vitalij-vanchurin/
-- [Виталий Ванчурин – Самонастраивающаяся вселенная»? (видео - YouTube, англ.)](https://www.youtube.com/watch?v=73IdQGgfxas)
-- [Виталий Ванчурин — Самообучающаяся Вселенная: от Большого взрыва до нейронных компьютеров (видео - YouTube, русск.)](https://www.youtube.com/watch?v=tsm3MEL6Wyg)
-- [Виталий Ванчурин – Что значит «мир как нейросеть»? (видео - RuTube, русск.)](https://rutube.ru/video/382755689be6b477475fa2a533f8c2d1/)
 
 ### 6 августа 2026 18:00 мск - К теории сложных адаптивных систем с многократными отражениями реальности - Давид Саакян (Национальная научная лабораторию имени А. Алиханяна, Ереван, Армения)
 [![Watch the video](https://img.youtube.com/vi/mqCf0BPO2KA/hqdefault.jpg)](https://youtu.be/mqCf0BPO2KA)
