@@ -50,6 +50,8 @@
 
 ### 13 августа 2026 18:00 мск - Самообучающаяся вселенная: от динамики обучения до теории калибровочных полей и гравитации - Виталий Ванчурин (CEO, Artificial Neural Computing) - Виталий Ванчурин
 [![Watch the video](https://img.youtube.com/vi/YVkHKrvwXuY/hqdefault.jpg)](https://youtu.be/YVkHKrvwXuY)
+- [видео в Telegram](https://t.me/agitopics/53344/82612)
+- [презентация - слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/vanchurin-2026-08.pdf)
 - https://artificialneuralcomputing.com/
 - https://habr.com/ru/articles/954886/
 - https://www.trv-science.ru/tag/vitalij-vanchurin/
