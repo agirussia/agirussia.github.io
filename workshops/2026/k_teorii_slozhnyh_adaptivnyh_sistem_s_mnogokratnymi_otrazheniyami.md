@@ -3,7 +3,7 @@
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239257)
 - [видео в RUTUBE](https://rutube.ru/video/769735d0e77d9b8f4871609517da7016/)
 - [видео в Telegram](https://t.me/agitopics/53344/82238)
-- [расшифровка](https://github.com/agirussia/agirussia.github.io/edit/main/workshops/2026/k_teorii_slozhnyh_adaptivnyh_sistem_s_mnogokratnymi_otrazheniyami.md)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/k_teorii_slozhnyh_adaptivnyh_sistem_s_mnogokratnymi_otrazheniyami.md)
 - https://www.researchgate.net/profile/David-Saakian
 
 ---
