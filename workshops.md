@@ -51,7 +51,7 @@
 - [видео в Telegram](https://t.me/agitopics/53344/82872)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239259)
 - [видео в RUTUBE](https://rutube.ru/video/64b3b60c820216383b7638402523f545/)
-- [расшифровка]()
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/complexity_through_compression_a_hierarchical_predictive_control_sergei_shumskii.md)
 - [презентация](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/Complexity%20Through%20Compression.%20A%20Hierarchical%20Predictive%20Control.pdf)
 - https://symbolicmind.ai/
 - https://scholar.google.com/citations?user=YdQQ93QAAAAJ&hl=en
