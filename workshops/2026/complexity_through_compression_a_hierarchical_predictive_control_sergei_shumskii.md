@@ -1,9 +1,15 @@
-## 21 августа 2026 г. - Complexity Through Compression   A Hierarchical Predictive Control   Сергей Шумский
-[Видео: Complexity Through Compression   A Hierarchical Predictive Control   Сергей Шумский]()
+# 20 августа 2026 - Complexity Through Compression: A Hierarchical Predictive Control - Сергей Шумский (Symbolic Mind Inc.)
+[![Watch the video](https://img.youtube.com/vi/Sd712e88Rf4/hqdefault.jpg)](https://youtu.be/Sd712e88Rf4)
+- [видео в Telegram](https://t.me/agitopics/53344/82872)
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239259)
+- [видео в RUTUBE](https://rutube.ru/video/64b3b60c820216383b7638402523f545/)
+- [презентация](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/Complexity%20Through%20Compression.%20A%20Hierarchical%20Predictive%20Control.pdf)
+- https://symbolicmind.ai/
+- https://scholar.google.com/citations?user=YdQQ93QAAAAJ&hl=en
 
 ---
 
-**Краткий пересказ семинара:**
+## Краткий пересказ семинара:
 
 
 ### Основная идея
@@ -53,7 +59,7 @@
 
 ---
 
-**Расшифровка доклада:**
+## Расшифровка доклада:
 
 
 S05 [00:00:00] : Добрый вечер. Мы начинаем очередной семинар русскоязычного сообщества разработчиков общего и сильного искусственного интеллекта. И сегодня у нас после длительного перерыва для большинства и небольшого перерыва для некоторых избранных, Снова Сергей Шумский, который расскажет нам о своей новой работе, которая является продолжением его известной работы про сложность через сжатие или иерархический предсказывательный или предсказующий контроль. Сергей, пожалуйста. 
