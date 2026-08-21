@@ -4,11 +4,6 @@
 
 Онлайн-семинары проводятся по средам или четвергам в 17:00 (октябрь-март) или 18:00 (апрель-сентябрь) по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на [Ktalk](https://kontur.ru/talk) придет по почте за час до начала очередного семинара. Вход на семинары предусмотрен только с полностью указанными действительными именем и фамилией и включенным видео (для предотвращения "онлайн-хулиганства"). 
 
-### 20 августа 2026 18:00 мск - Complexity Through Compression: A Hierarchical Predictive Control - Сергей Шумский (Symbolic Mind Inc.)
-- https://symbolicmind.ai/
-- [презентация](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/Complexity%20Through%20Compression.%20A%20Hierarchical%20Predictive%20Control.pdf)
-- https://scholar.google.com/citations?user=YdQQ93QAAAAJ&hl=en
-
 ### 27 августа 2026 18:00 мск - Исполняемые модели мира для ARC-AGI-3 в эпоху программирующих Агентов, Сергей Родионов (SingularityNET)
 - https://arxiv.org/pdf/2605.05138
 
@@ -50,6 +45,16 @@
 *Мы приглашаем спикеров со своими темами!*
 
 ## Прошедшие семинары и мероприятия
+
+### 20 августа 2026 18:00 мск - Complexity Through Compression: A Hierarchical Predictive Control - Сергей Шумский (Symbolic Mind Inc.)
+[![Watch the video](https://img.youtube.com/vi/Sd712e88Rf4/hqdefault.jpg)](https://youtu.be/Sd712e88Rf4)
+- [видео в Telegram](https://t.me/agitopics/53344/82872)
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239259)
+- [видео в RUTUBE](https://rutube.ru/video/64b3b60c820216383b7638402523f545/)
+- [расшифровка]()
+- [презентация](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/Complexity%20Through%20Compression.%20A%20Hierarchical%20Predictive%20Control.pdf)
+- https://symbolicmind.ai/
+- https://scholar.google.com/citations?user=YdQQ93QAAAAJ&hl=en
 
 ### 13 августа 2026 18:00 мск - Самообучающаяся вселенная: от динамики обучения до теории калибровочных полей и гравитации - Виталий Ванчурин (CEO, Artificial Neural Computing)
 [![Watch the video](https://img.youtube.com/vi/YVkHKrvwXuY/hqdefault.jpg)](https://youtu.be/YVkHKrvwXuY)
