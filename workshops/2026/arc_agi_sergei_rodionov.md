@@ -2,7 +2,7 @@
 [![Watch the video](https://img.youtube.com/vi/oJTXx78h8Ts/hqdefault.jpg)](https://youtu.be/oJTXx78h8Ts)
 - [видео в Telegram](https://t.me/agitopics/53344/83179)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239260)
-- [видео в RUTUBE]()
+- [видео в RUTUBE](https://rutube.ru/video/227d56268db65916ee0b5236c27fc064/)
 - [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/arc_agi_sergei_rodionov.md)
 - [презентация](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/ARC-AGI-Sergey-Rodionov-slides.pdf)
 - https://github.com/astroseger/arc-3-agents-baseline1
