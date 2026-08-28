@@ -44,6 +44,12 @@
 ## Прошедшие семинары и мероприятия
 
 ### 27 августа 2026 18:00 мск - Исполняемые модели мира для ARC-AGI-3 в эпоху программирующих Агентов, Сергей Родионов (SingularityNET)
+[![Watch the video](https://img.youtube.com/vi/oJTXx78h8Ts/hqdefault.jpg)](https://youtu.be/oJTXx78h8Ts)
+- [видео в Telegram]()
+- [видео в ВК]()
+- [видео в RUTUBE]()
+- [расшифровка]()
+- [презентация]()
 - https://github.com/astroseger/arc-3-agents-baseline1
 - https://arxiv.org/pdf/2605.05138
 - https://arxiv.org/abs/2607.15439
