@@ -45,11 +45,11 @@
 
 ### 27 августа 2026 18:00 мск - Исполняемые модели мира для ARC-AGI-3 в эпоху программирующих Агентов, Сергей Родионов (SingularityNET)
 [![Watch the video](https://img.youtube.com/vi/oJTXx78h8Ts/hqdefault.jpg)](https://youtu.be/oJTXx78h8Ts)
-- [видео в Telegram]()
+- [видео в Telegram](https://t.me/agitopics/53344/83179)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239260)
 - [видео в RUTUBE]()
 - [расшифровка]()
-- [презентация]()
+- [презентация](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/ARC-AGI-Sergey-Rodionov-slides.pdf)
 - https://github.com/astroseger/arc-3-agents-baseline1
 - https://arxiv.org/pdf/2605.05138
 - https://arxiv.org/abs/2607.15439
