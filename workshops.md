@@ -62,7 +62,7 @@
 - https://boldsea.io/
 - [статьи](https://ru.wikipedia.org/wiki/Болдачёв,_Александр_Владимирович?fbclid=IwY2xjawULST9wZG9mBWV4dG4DYWVtAjEwAGJyaWQRMWp0U2xQRDdpZklWbXNjZUlzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeE6sppyiJMpdB8e35gntYqjVaECLFNfOhfe4hUstBZje5jPFSCIl5nup6w9I_aem_bBhaiE0EHPxE8wOyR3RG1g#Статьи_2)
 
-### 19 ноября 2026 18:00 мск - уточняется
+### 19 ноября 2026 18:00 мск - Прикладная разработка с ИИ-агентами - Александр Каштанов - уточняется
 
 ### 25-27 ноября 2026 - AI Journey — международная конференция по AI (Москва, Сбер)
 - https://aij.ru/
