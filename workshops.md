@@ -83,7 +83,11 @@
 - https://t.me/agirussia/125471
 - https://t.me/agirussia/125469
 - https://t.me/agirussia/125470
-- Вопросы:
+- Упомянутые проекты:
+  1. Aigents (Антон Колонин): https://aigents.com/
+  2. Personal Personal Assistant (Peter Voss): https://petervoss.substack.com/p/the-importance-of-real-time-learning
+  3. [Кто такой Игорь Бабушкин, возглавивший новую компанию Илона Маска xAI](https://trends.rbc.ru/trends/industry/64b63dfb9a7947ab3fc40e88)
+- Поднятые вопросы:
   1. Персональный ИИ-ассистент — когнитивный усилитель или средство деградации или инструмент влияния внешних сил?
   2. Как сохранить субъектность и независимость в мире ИИ?
   3. Кто должен задавать семантику и прагматику — пользователь, общество, власть, или корпорации?
