@@ -16,6 +16,8 @@
 - Доклад анализирует содержимое контейнеров состояний LLM-бесед, и находит его устроенным по схеме medium-form, где наличествуют и элементы с их сцепками и кластерами, и формы как «конденсаты» из элементов и кластеров в то, что содержится в контейнерах. Обобщая и формализуя такое устроение, введена и-среда (интеллектуальная среда) LLM – как воображаемая эмерджентная среда существования LLM-бесед рассматриваемой формализации. Показаны некоторые взаимосвязи элементов и форм и-среды с данными и программами LLM как субстрата.
 - Выявлены некоторые закономерности аналога лумановского Смысла для LLM-бесед, и как механизма формования потока беседы, и как устроенного по принципу medium-form обьекта.
 - https://kroopkin.livejournal.com/375756.html
+- Krupkin, Pavel, Generalizing Meaning: A Lens through Which LLMs Become Meaning-Processing Systems (December 20, 2025). Available at SSRN: https://ssrn.com/abstract=5951014 or http://dx.doi.org/10.2139/ssrn.5951014
+- Krupkin, Pavel, On a Theory of Conversation Flow Formation in LLMs (July 14, 2026). Available at SSRN: https://ssrn.com/abstract=7121540 or http://dx.doi.org/10.2139/ssrn.7121540
 - https://independent.academia.edu/PaulKroopkin
 - https://philpeople.org/profiles/pavel-krupkin
 - https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1921300
