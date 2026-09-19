@@ -77,6 +77,7 @@
 - [видео в Telegram](https://t.me/agitopics/53344/84475)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239262)
 - [видео в RUTUBE](https://rutube.ru/video/69e366588da38f93bde40685d1f25f53/)
+- [презентация](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/Neural_Network_Verification_Kondratyev.pdf)
 - [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/kompleksnyy_podhod_k_formalnoy_verifikatsii_sistem_ii_osnovannyh_na_neyronnyh_setyah_dmitriy_kondratev.md)
 - Теоретический и практический задел для создания комплексного подхода к формальной верификации: https://doi.org/10.1134/S036176882205005X
 - В зарубежном гранте-проекте "AISEC: AI Secure and Explainable by Construction" ( https://gtr.ukri.org/projects?ref=EP%2FT026952%2F1 ) занимаются в том числе подобной формальной верификацией нейронных сетей.
