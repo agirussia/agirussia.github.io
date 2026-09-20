@@ -749,6 +749,11 @@ https://www.preprints.org/manuscript/202601.0088
 - [расшифровка семинара](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2024/CyberPravda_com_an_independent_platform_for_crowdsourcing_T_Sadekov.md)
 - https://cyberpravda.com
 
+### 7 мая 2024 - Авто-тестирование в разработке ПО и test-driven development - Антон Колонин
+[![Watch the video](https://iv.okcdn.ru/getVideoPreview?id=6317779847710&idx=10&type=39&tkn=Q2ViTxm9tgvvJjoIRLz8egAmwL8&fn=vid_x)](https://vkvideo.ru/video-210968399_456239170)
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239170)
+- [расшифровка доклада](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/avto_testirovanie_v_razrabotke_po_i_test_driven_development_anton_kolonin_2024.md)
+
 ### 18 апреля 2024 - Реверс-инжиниринг механизмов биологической памяти и подкрепления - Андрей Белкин
 [![Watch the video](https://img.youtube.com/vi/zy6Z5rcBYt8/hqdefault.jpg)](https://youtu.be/zy6Z5rcBYt8)
 - Систематизация и анализ знаний о механизмах биологической памяти в единую систему; Три механизма биологической памяти; О том, как происходит подкрепление в биологических нервных системах
