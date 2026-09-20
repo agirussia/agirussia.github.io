@@ -406,12 +406,14 @@ https://www.preprints.org/manuscript/202601.0088
 - https://t.me/upravdamen
 - https://www.litres.ru/book/mihail-nikolskiy-332/russkiy-put-v-upravlenie-zachem-kak-i-chto-ponimat-ru-71481805/chitat-onlayn/
 
-### 26 сентября 2025 - Проектирование сверхбольших интегральных схем с использованием больших языковых моделей - Антон Колонин (доклад для Форума Микроэлектроника 2025)
+### 26 сентября 2025 - Проектирование сверхбольших интегральных схем (СБИС) с использованием больших языковых моделей (БЯМ) - Антон Колонин (доклад для Форума Микроэлектроника 2025)
 [![Watch the video](https://img.youtube.com/vi/NeONBfIQihQ/hqdefault.jpg)](https://youtu.be/NeONBfIQihQ)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239228)
 - [видео в RUTUBE](https://rutube.ru/video/696c2c7d145688ec9bf1cb511339d4d4/)
-- [тезисы](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_2025_%D0%A1%D0%91%D0%98%D0%A1_%D0%91%D0%AF%D0%9C_%D0%9A%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D0%BD.pdf)
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/proektirovanie_sverhbolshih_integralnyh_shem_s_ispolzovaniem_bolshih_yazykovyh_modeley_anton_kolonin_2025.md)
 - [презентация (слайды)](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2025/llm_vlsi_kolonin.pdf)
+- [тезисы](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2025/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_2025_%D0%A1%D0%91%D0%98%D0%A1_%D0%91%D0%AF%D0%9C_%D0%9A%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D0%BD.pdf)
+- [публикация, стр. 689](https://www.iptm.ru/conf_RNF/files/Microelectronics2025.pdf)
 - https://microelectronica.pro/
 
 ### 25 сентября 2025 18:00 мск - RSE with AI or RSE vs AI: что даёт и что сможет дать искусственный интеллект исследовательской программной инженерии? - Алексей Незнанов (к.т.н., доцент. Член IEEE, РАИИ, НБМЗ, Senior Data Scientist в компании Шлюмберже, Старший научный сотрудник международной лаборатории интеллектуальных систем и структурного анализа ФКН НИУ ВШЭ)
