@@ -57,7 +57,7 @@
 - обзор: https://russiancouncil.ru/analytics-and-comments/analytics/prikladnoy-ii-problemy-razvitiya-i-riski-dlya-rossii/
 - голосование: https://t.me/agirussia/128726
 
-### 24 декабря 2026 17:00 мск - уточняется
+### 24 декабря 2026 17:00 мск - Диагностирование AGI - Алексей Потапов - уточняется
 
 ### 31 декабря 2026 17:00 мск - Встреча Нового Года!
 
