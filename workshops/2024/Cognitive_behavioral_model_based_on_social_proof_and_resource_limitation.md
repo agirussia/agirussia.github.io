@@ -2,7 +2,8 @@
 [![Watch the video](https://img.youtube.com/vi/x6tDU-5eXcE/hqdefault.jpg)](https://youtu.be/x6tDU-5eXcE)
 
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239203)
-- [слайды](https://github.com/aigents/iai/blob/main/docs/2024/social-evidence_kolonin_2024.pdf) 
+- [слайды](https://github.com/aigents/iai/blob/main/docs/2024/social-evidence_kolonin_2024.pdf)
+- [Anton Kolonin. Cognitive architecture and behavioral model based on social evidence and resource constraints, Open access, Published: 05 March 2026](https://link.springer.com/article/10.1186/s40708-026-00294-1)
 
 Суммаризация семинара:
 
