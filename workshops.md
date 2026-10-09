@@ -79,7 +79,7 @@
 - В докладе изложена идея онтологического подхода к построению операционной и аксиоматической семантик языков программирования, а также представлен предметно-ориентированный язык ABML (Attribute Based Modelling Language), реализующий этот подход на практике.
 - [видео в Telegram](https://t.me/agitopics/53344/86768)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239264)
-- [видео в RUTUBE]()
+- [видео в RUTUBE](https://rutube.ru/video/3afbe1f9a6202774650e46a929355978/)
 - [расшифровка]()
 - https://www.mais-journal.ru/jour/article/view/2090
 - [ДРАКОН-Схема](https://ru.wikipedia.org/wiki/%D0%94%D0%A0%D0%90%D0%9A%D0%9E%D0%9D)
