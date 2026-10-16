@@ -70,7 +70,7 @@
 [![Watch the video](https://img.youtube.com/vi/avDz4re_DkY/hqdefault.jpg)](https://youtu.be/avDz4re_DkY)
 - [видео в Telegram](https://t.me/agitopics/53344/87469)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239265)
-- [видео в RUTUBE]()
+- [видео в RUTUBE](https://rutube.ru/video/c47224d6865c26de46fe9d96e36467d7/)
 - [расшифровка]()
 - https://reflex-language.narod.ru/
 - https://www.researchgate.net/publication/335039237_REFLEX_LANGUAGE_A_PRACTICAL_NOTATION_FOR_CYBER-PHYSICAL_SYSTEMS
