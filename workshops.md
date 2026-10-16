@@ -71,7 +71,8 @@
 - [видео в Telegram](https://t.me/agitopics/53344/87469)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239265)
 - [видео в RUTUBE](https://rutube.ru/video/c47224d6865c26de46fe9d96e36467d7/)
-- [расшифровка]()
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/yazyki_spetsifikatsii_algoritmov_inzheneriya_trebovaniy_verfikatsiya_v_oblasti_tsifrovyh_sistem_promyshlennoy_avtomatiza.md)
+- [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/261015-agirussia_Zyubin.pdf)
 - https://reflex-language.narod.ru/
 - https://www.researchgate.net/publication/335039237_REFLEX_LANGUAGE_A_PRACTICAL_NOTATION_FOR_CYBER-PHYSICAL_SYSTEMS
 - https://ieeexplore.ieee.org/document/10347639
