@@ -28,6 +28,7 @@
 - https://www.isprasopen.ru/
 
 ### 3 декабря 2026 17:00 мск - Мультиагентные системы 3.0 и генеративный ИИ - Алексей Незнанов (к.т.н., доцент, Senior Data Scientist в Шлюмберже, доцент Факультета компьютерных наук НИУ ВШЭ) - уточняется
+- [презентация](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/Neznanov-ObjectAttributeData_2026-10_Full.pdf)
 - http://cs.hse.ru/ai/issa
 - http://postnauka.ru/author/a_neznanov
 - https://yandex.ru/video/preview/803415799613384695
