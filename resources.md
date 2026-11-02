@@ -69,20 +69,21 @@
   - EMNLP A https://2022.emnlp.org/calls/papers/Important-Dates	Submission Deadline: Jun 17, 2022, Conference: Abu Dhabi, December 9-11, 2022
   - AAAI A https://aaai.org/Conferences/AAAI-23/ August 8, 2022: Abstracts due, Conference: February 7-14, 2023 at the Walter E. Washington Convention Center in Washington, DC, USA.
 - **Российские / Russian**
-  - https://knoth.ru/ - International Symposium on Knowledge-Ontology-Theory (IEEE KNOTH)
-  - https://ainlconf.ru/ - AINL: Artificial Intelligence and Natural Language Conference, 20-22 апреля 2023
+  - http://neuroinfo.ru/ - "НЕЙРОИНФОРМАТИКА" – вопросы теории и приложений искусственных нейронных сетей, проблемы нейробиологии и системной биофизики, задачи адаптивного поведения и когнитивных исследований и другие актуальные проблемы нейронаук https://www.isprasopen.ru/ - Открытая конференция ИСП РАН
   - https://dialogue-conf.org/ - INTERNATIONAL CONFERENCE on Computational Linguistics and Intellectual Technologies / Компьютерная лингвистика и интеллектуальные технологии
+  - https://ai-journey.ru/ - AI Journey — серия мероприятий по искусственному интеллекту и анализу данных, проводимая ведущими российскими и международными компаниями, лидерами по разработке и применению технологий искусственного интеллекта
+  - https://ainlconf.ru/ - AINL: Artificial Intelligence and Natural Language Conference
+  - https://bgrssb.icgbio.ru/2026/ -  BGRS/SBhttps://knoth.ru/ - International Symposium on Knowledge-Ontology-Theory (IEEE KNOTH), 
+  - https://neuro.kaspersky.ru/conference/ - Kaspersky Neuromorphic AI, международная конференция, посвященная нейроморфным технологиям ИИ и их применению в промышленности
+  - http://damdid.org/ - Data Analytics and Management in Data Intensive Domains” conference
+  - https://aistconf.org/ - The International Conference on Analysis of Images, Social Networks and Texts
+  - https://opentalks.ai/ - OpenTalks.AI — ведущая независимая открытая конференция по искусственному интеллекту в России
+  - http://mmro.ru/ - Всероссийская конференция с международным участием «Математические методы распознавания образов»
+  - http://itnt-conf.org/ - Международная конференция и молодёжная школа «Информационные технологии и нанотехнологии»
+  - https://knoth.ru/ - International Symposium on Knowledge-Ontology-Theory (IEEE KNOTH)
   - https://usbereit.ieeesiberia.org/ - IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT)
   - https://edm.ieeesiberia.org/ - IEEE International Conference of Young Professionals in Electron Devices and Materials (EDM)
   - http://math.nsc.ru/conference/zont/23/ Международная конференция «Знания-Онтологии-Теории», 2–6 октября 2023 (1 раз в 2 года) 
-  - http://neuroinfo.ru/ - "НЕЙРОИНФОРМАТИКА" – вопросы теории и приложений искусственных нейронных сетей, проблемы нейробиологии и системной биофизики, задачи адаптивного поведения и когнитивных исследований и другие актуальные проблемы нейронаук, 23-27 октябрь 2023
-  - https://ai-journey.ru/ AI Journey — серия мероприятий по искусственному интеллекту и анализу данных, проводимая ведущими российскими и международными компаниями, лидерами по разработке и применению технологий искусственного интеллекта, декабрь 2023
-  - https://opentalks.ai/ OpenTalks.AI — ведущая независимая открытая конференция по искусственному интеллекту в России, февраль 2022
-  - http://damdid.org/ “Data Analytics and Management in Data Intensive Domains” conference (DAMDID), сентябрь 27–30, 2022
-  - https://aistconf.org/ The International Conference on Analysis of Images, Social Networks and Texts, октябрь 17–19, 2025
-  - http://itnt-conf.org/index.php Международная конференция и молодёжная школа «Информационные технологии и нанотехнологии»
-  - http://mmro.ru/ Всероссийская конференция с международным участием «Математические методы распознавания образов»
-  - https://neuro.kaspersky.ru/conference/ - Kaspersky Neuromorphic AI 2022, международная конференция, посвященная нейроморфным технологиям ИИ и их применению в промышленности, октябрь 2022
 
 ### [Больше ссылок в табличке](https://docs.google.com/spreadsheets/d/1Ilm3hu9aewpQc-Mjl8xChjkKXr21gnh0aQ74EnhygX4/edit#gid=1528578624)
 <br>
