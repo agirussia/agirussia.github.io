@@ -72,7 +72,7 @@
   - http://neuroinfo.ru/ - "НЕЙРОИНФОРМАТИКА" – вопросы теории и приложений искусственных нейронных сетей, проблемы нейробиологии и системной биофизики, задачи адаптивного поведения и когнитивных исследований и другие актуальные проблемы нейронаук
   - https://www.isprasopen.ru/ - Открытая конференция ИСП РАН
   - https://dialogue-conf.org/ - INTERNATIONAL CONFERENCE on Computational Linguistics and Intellectual Technologies / Компьютерная лингвистика и интеллектуальные технологии
-  - https://ai-journey.ru/ - AI Journey — серия мероприятий по искусственному интеллекту и анализу данных, проводимая ведущими российскими и международными компаниями, лидерами по разработке и применению технологий искусственного интеллекта
+  - https://ai-journey.ru/ - AI Journey — серия мероприятий по искусственному интеллекту и анализу данных, проводимая ведущими российскими и международными компаниями, лидерами по разработке и применению технологий искусственного интеллекта (ноябрь)
   - https://ainlconf.ru/ - AINL: Artificial Intelligence and Natural Language Conference
   - https://bgrssb.icgbio.ru/2026/ - BGRS/SB
   - https://neuro.kaspersky.ru/conference/ - Kaspersky Neuromorphic AI, международная конференция, посвященная нейроморфным технологиям ИИ и их применению в промышленности
@@ -84,6 +84,7 @@
   - http://itnt-conf.org/ - Международная конференция и молодёжная школа «Информационные технологии и нанотехнологии»
   - https://usbereit.ieeesiberia.org/ - IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT)
   - https://edm.ieeesiberia.org/ - IEEE International Conference of Young Professionals in Electron Devices and Materials (EDM)
+  - https://mathai.club/ru/ - Международная конференция по математике искусственного интеллекта (март-апрель)
   - http://math.nsc.ru/conference/zont/23/ Международная конференция «Знания-Онтологии-Теории», 2–6 октября 2023 (1 раз в 2 года) 
 
 ### [Больше ссылок в табличке](https://docs.google.com/spreadsheets/d/1Ilm3hu9aewpQc-Mjl8xChjkKXr21gnh0aQ74EnhygX4/edit#gid=1528578624)
