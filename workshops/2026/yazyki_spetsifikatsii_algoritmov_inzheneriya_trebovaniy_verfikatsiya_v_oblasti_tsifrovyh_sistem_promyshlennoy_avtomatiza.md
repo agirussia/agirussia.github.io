@@ -1,7 +1,7 @@
 # 15 октября 2026 г. - Языки спецификации алгоритмов, инженерия требований, верфикация в области цифровых систем промышленной автоматизации - возможные области использования ИИ - Владимир Зюбин
 [![Watch the video](https://img.youtube.com/vi/avDz4re_DkY/hqdefault.jpg)](https://youtu.be/avDz4re_DkY)
 - [видео в Telegram](https://t.me/agitopics/53344/87469)
-- [видео в ВК](https://vkvideo.ru/video-210968399_456239265)
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239267)
 - [видео в RUTUBE](https://rutube.ru/video/c47224d6865c26de46fe9d96e36467d7/)
 - [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/yazyki_spetsifikatsii_algoritmov_inzheneriya_trebovaniy_verfikatsiya_v_oblasti_tsifrovyh_sistem_promyshlennoy_avtomatiza.md)
 - [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/261015-agirussia_Zyubin.pdf)
