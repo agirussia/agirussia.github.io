@@ -4,8 +4,6 @@
 
 Онлайн-семинары проводятся по четвергам в 17:00 (октябрь-март) или 18:00 (апрель-сентябрь) по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на [Ktalk](https://kontur.ru/talk) придет по почте за час до начала очередного семинара. Также ссылка на подключение публикуется в группе https://t.me/agirussia за 5 минут до начала семинара. Вход на семинары предусмотрен только с полностью указанными действительными именем и фамилией и включенным видео (для предотвращения "онлайн-хулиганства"). 
 
-### 5 ноября 2026 17:00 мск - Многоагентный движок для моделирования мира чтобы LLM могла логически рассуждать - Захар Понимаш (Chief of AI research ООО "Аватар Машина")
-
 ### 12 ноября 2026 17:00 мск - Исполняемые спецификации boldsea - Александр Болдачев
 - https://boldsea.io/
 - [статьи](https://ru.wikipedia.org/wiki/Болдачёв,_Александр_Владимирович?fbclid=IwY2xjawULST9wZG9mBWV4dG4DYWVtAjEwAGJyaWQRMWp0U2xQRDdpZklWbXNjZUlzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeE6sppyiJMpdB8e35gntYqjVaECLFNfOhfe4hUstBZje5jPFSCIl5nup6w9I_aem_bBhaiE0EHPxE8wOyR3RG1g#Статьи_2)
@@ -72,10 +70,12 @@
 
 ## Прошедшие семинары и мероприятия
 
+### 5 ноября 2026 17:00 мск - Многоагентный движок для моделирования мира чтобы LLM могла логически рассуждать - Захар Понимаш (Chief of AI research ООО "Аватар Машина")
+
 ### 15 октября 2026 17:00 мск - Языки спецификации алгоритмов, инженерия требований, верфикация в области цифровых систем промышленной автоматизации - возможные области использования ИИ - Владимир Зюбин (д.т.н. заведующий лабораторией киберфизических систем Института автоматики и электрометрии СО РАН, заведующий кафедрой компьютерных технологий Новосибирского государственного университета)
 [![Watch the video](https://img.youtube.com/vi/avDz4re_DkY/hqdefault.jpg)](https://youtu.be/avDz4re_DkY)
 - [видео в Telegram](https://t.me/agitopics/53344/87469)
-- [видео в ВК](https://vkvideo.ru/video-210968399_456239265)
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239267)
 - [видео в RUTUBE](https://rutube.ru/video/c47224d6865c26de46fe9d96e36467d7/)
 - [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/yazyki_spetsifikatsii_algoritmov_inzheneriya_trebovaniy_verfikatsiya_v_oblasti_tsifrovyh_sistem_promyshlennoy_avtomatiza.md)
 - [слайды](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/261015-agirussia_Zyubin.pdf)
