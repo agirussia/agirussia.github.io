@@ -75,7 +75,7 @@
 - [видео в Telegram](https://t.me/agitopics/53344/89936)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239266)
 - [видео в RUTUBE](https://rutube.ru/video/a6799f08aaa72163eb778521850670f1/)
-- [расшифровка]()
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/mnogoagentnyy_dvizhok_dlya_modelirovaniya_mira_chtoby_llm_mogla_logicheski_rassuzhdat_zahar_ponimash.md)
  
 ### 15 октября 2026 17:00 мск - Языки спецификации алгоритмов, инженерия требований, верфикация в области цифровых систем промышленной автоматизации - возможные области использования ИИ - Владимир Зюбин (д.т.н. заведующий лабораторией киберфизических систем Института автоматики и электрометрии СО РАН, заведующий кафедрой компьютерных технологий Новосибирского государственного университета)
 [![Watch the video](https://img.youtube.com/vi/avDz4re_DkY/hqdefault.jpg)](https://youtu.be/avDz4re_DkY)
