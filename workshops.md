@@ -4,10 +4,6 @@
 
 Онлайн-семинары проводятся по четвергам в 17:00 (октябрь-март) или 18:00 (апрель-сентябрь) по Москве [https://aigents.timepad.ru/event/1412596/](https://aigents.timepad.ru/event/1412596/) - регистрация требуется на каждое мероприятие отдельно - внизу страницы (добавление через календарь справа в timepad не работает) - ссылка на [Ktalk](https://kontur.ru/talk) придет по почте за час до начала очередного семинара. Также ссылка на подключение публикуется в группе https://t.me/agirussia за 5 минут до начала семинара. Вход на семинары предусмотрен только с полностью указанными действительными именем и фамилией и включенным видео (для предотвращения "онлайн-хулиганства"). 
 
-### 12 ноября 2026 17:00 мск - Исполняемые спецификации boldsea - Александр Болдачев
-- https://boldsea.io/
-- [статьи](https://ru.wikipedia.org/wiki/Болдачёв,_Александр_Владимирович?fbclid=IwY2xjawULST9wZG9mBWV4dG4DYWVtAjEwAGJyaWQRMWp0U2xQRDdpZklWbXNjZUlzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeE6sppyiJMpdB8e35gntYqjVaECLFNfOhfe4hUstBZje5jPFSCIl5nup6w9I_aem_bBhaiE0EHPxE8wOyR3RG1g#Статьи_2)
-
 ### 19 ноября 2026 17:00 мск - Прикладная разработка с ИИ-агентами - Александр Каштанов - уточняется
 
 ### 26-28 ноября 2026 - AI Journey — международная конференция по AI (Москва, Сбер)
@@ -65,6 +61,15 @@
 *Мы приглашаем спикеров со своими темами!*
 
 ## Прошедшие семинары и мероприятия
+
+### 12 ноября 2026 17:00 мск - Исполняемые спецификации boldsea - Александр Болдачев
+[![Watch the video](https://img.youtube.com/vi/A9biBGSaQnY/hqdefault.jpg)](https://youtu.be/A9biBGSaQnY)
+- [видео в Telegram](https://t.me/agitopics/53344/90628)
+- [видео в ВК]()
+- [видео в RUTUBE]()
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/ispolnyaemye_spetsifikatsii_boldsea_aleksandr_boldachev.md)
+- https://boldsea.io/
+- [статьи](https://ru.wikipedia.org/wiki/Болдачёв,_Александр_Владимирович?fbclid=IwY2xjawULST9wZG9mBWV4dG4DYWVtAjEwAGJyaWQRMWp0U2xQRDdpZklWbXNjZUlzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeE6sppyiJMpdB8e35gntYqjVaECLFNfOhfe4hUstBZje5jPFSCIl5nup6w9I_aem_bBhaiE0EHPxE8wOyR3RG1g#Статьи_2)
 
 ### 5 ноября 2026 17:00 мск - Многоагентный движок для моделирования мира чтобы LLM могла логически рассуждать - Захар Понимаш (Chief of AI research ООО "Аватар Машина")
 [![Watch the video](https://img.youtube.com/vi/z59q4-e9uOM/hqdefault.jpg)](https://youtu.be/z59q4-e9uOM)
