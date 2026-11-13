@@ -65,9 +65,13 @@
 ### 12 ноября 2026 17:00 мск - Исполняемые спецификации boldsea - Александр Болдачев
 [![Watch the video](https://img.youtube.com/vi/A9biBGSaQnY/hqdefault.jpg)](https://youtu.be/A9biBGSaQnY)
 - [видео в Telegram](https://t.me/agitopics/53344/90628)
-- [видео в ВК]()
-- [видео в RUTUBE]()
+- [видео в ВК](https://vkvideo.ru/video-210968399_456239269)
+- [видео в RUTUBE](https://rutube.ru/video/6fb659afc8e252b633052f65bbf103f6/)
 - [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/ispolnyaemye_spetsifikatsii_boldsea_aleksandr_boldachev.md)
+- https://medium.com/@boldachev/claude-code-how-i-wrote-an-application-in-a-language-i-didnt-know-bb49b663aaf6
+- https://www.youtube.com/watch?v=9XuyETpGMXs
+- https://arxiv.org/abs/2509.09775
+- https://arxiv.org/abs/2510.18040
 - https://boldsea.io/
 - [статьи](https://ru.wikipedia.org/wiki/Болдачёв,_Александр_Владимирович?fbclid=IwY2xjawULST9wZG9mBWV4dG4DYWVtAjEwAGJyaWQRMWp0U2xQRDdpZklWbXNjZUlzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeE6sppyiJMpdB8e35gntYqjVaECLFNfOhfe4hUstBZje5jPFSCIl5nup6w9I_aem_bBhaiE0EHPxE8wOyR3RG1g#Статьи_2)
 
