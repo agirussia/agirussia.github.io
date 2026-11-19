@@ -7,12 +7,13 @@
 ### 26-28 ноября 2026 - AI Journey — международная конференция по AI (Москва, Сбер)
 - https://aij.ru/
 
-### 3 декабря 2026 17:00 мск - Мультиагентные системы 3.0 и генеративный ИИ - Алексей Незнанов (к.т.н., доцент, Senior Data Scientist в Шлюмберже, доцент Факультета компьютерных наук НИУ ВШЭ) - уточняется
+### 3 декабря 2026 17:00 мск - Мультиагентные системы 3.0 и генеративный ИИ - Алексей Незнанов (к.т.н., доцент, Senior Data Scientist в STISS, доцент Факультета компьютерных наук НИУ ВШЭ) - уточняется
 - [презентация](https://github.com/agirussia/agirussia.github.io/blob/main/presentations/2026/Neznanov-ObjectAttributeData_2026-10_Full.pdf)
 - http://cs.hse.ru/ai/issa
 - http://postnauka.ru/author/a_neznanov
 - https://yandex.ru/video/preview/803415799613384695
 - https://cs.hse.ru/dse/announcements/1197543694.html
+- https://stiss.ru
 
 ### 9-11 декабря 2026 - Открытая конференция ИСП РАН (Москва, МИСиС)
 - https://www.isprasopen.ru/
