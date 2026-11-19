@@ -64,7 +64,7 @@
 [![Watch the video](https://img.youtube.com/vi/R0slHQDvCe8/hqdefault.jpg)](https://youtu.be/R0slHQDvCe8)
 - [видео в Telegram](https://t.me/agitopics/53344/91166)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239270)
-- [видео в RUTUBE]()
+- [видео в RUTUBE](https://rutube.ru/video/3cecba9eca814da0b14637847302ee5e/)
 - [расшифровка]()
 - https://github.com/KashtanovAlex
 
