@@ -66,7 +66,7 @@
 - [видео в Telegram](https://t.me/agitopics/53344/91166)
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239270)
 - [видео в RUTUBE](https://rutube.ru/video/3cecba9eca814da0b14637847302ee5e/)
-- [расшифровка]()
+- [расшифровка](https://github.com/agirussia/agirussia.github.io/blob/main/workshops/2026/prikladnaya_razrabotka_s_ii_agentami_aleksandr_kashtanov.md)
 - https://github.com/KashtanovAlex
 
 ### 12 ноября 2026 17:00 мск - Исполняемые спецификации boldsea - Александр Болдачев
