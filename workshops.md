@@ -61,7 +61,7 @@
 ## Прошедшие семинары и мероприятия
 
 ### 19 ноября 2026 17:00 мск - Прикладная разработка с ИИ-агентами - Александр Каштанов
-[![Watch the video](https://img.youtube.com/vi/A9biBGSaQnY/hqdefault.jpg)](https://youtu.be/A9biBGSaQnY)
+[![Watch the video](https://img.youtube.com/vi/R0slHQDvCe8/hqdefault.jpg)](https://youtu.be/R0slHQDvCe8)
 - [видео в Telegram]()
 - [видео в ВК](https://vkvideo.ru/video-210968399_456239270)
 - [видео в RUTUBE]()
